@@ -1,6 +1,4 @@
 .github/workflows/daily.yml
-name: Daily data update
-
 on:
   schedule:
     # Runs every day at 11:00 UTC (about 6-7 am Eastern, depending on daylight saving).
