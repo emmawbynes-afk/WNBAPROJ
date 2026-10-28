@@ -1,3 +1,4 @@
+   name: Daily data update
 .github/workflows/daily.yml
 on:
   schedule:
