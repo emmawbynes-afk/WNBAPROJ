@@ -17,7 +17,7 @@
 library(wehoop)
 library(tidyverse)
 
-SEASON  <- 2027          # wehoop names a season by the year it ends
+SEASON  <- 2026          # wehoop names a season by the year it ends
 OUT_DIR <- "output"
 dir.create(OUT_DIR, showWarnings = FALSE)
 
