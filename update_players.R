@@ -23,7 +23,7 @@
 library(wehoop)
 library(tidyverse)
 
-SEASON  <- 2027   # change to 2026 to test with last season's games
+SEASON  <- 2026   # change to 2026 to test with last season's games
 OUT_DIR <- "output"
 
 # Sample-size guards so early-season noise doesn't become a "story"
