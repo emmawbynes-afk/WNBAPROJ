@@ -1,25 +1,20 @@
 name: Daily data update
-
 on:
   schedule:
     - cron: "0 11 * * *"
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - name: Get the repository files
         uses: actions/checkout@v4
-
       - name: Set up R
         uses: r-lib/actions/setup-r@v2
         with:
           use-public-rspm: true
-
       - name: Install R packages
         uses: r-lib/actions/setup-r-dependencies@v2
         with:
@@ -27,15 +22,12 @@ jobs:
             any::wehoop
             any::tidyverse
             any::writexl
-
       - name: Update team data and poll history
         run: Rscript update_data.R
         continue-on-error: true
-
       - name: Update player data and story lists
         run: Rscript update_players.R
         continue-on-error: true
-
       - name: Save results to the repository
         if: always()
         run: |
