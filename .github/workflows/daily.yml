@@ -23,10 +23,10 @@ jobs:
             any::tidyverse
             any::writexl
       - name: Update team data and poll history
-        run: Rscript update_data.R
+        run: Rscript update_data (3).R
         continue-on-error: true
       - name: Update player data and story lists
-        run: Rscript update_players.R
+        run: Rscript update_players (2).R
         continue-on-error: true
       - name: Save results to the repository
         if: always()
