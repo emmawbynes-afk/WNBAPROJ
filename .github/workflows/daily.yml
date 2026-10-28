@@ -1,15 +1,12 @@
-   name: Daily data update
-.github/workflows/daily.yml
+name: Daily data update
+
 on:
   schedule:
-    # Runs every day at 11:00 UTC (about 6-7 am Eastern, depending on daylight saving).
-    # Format is: minute hour day month weekday. All times are UTC.
     - cron: "0 11 * * *"
-  # Adds a "Run workflow" button so you can test it any time
   workflow_dispatch:
 
 permissions:
-  contents: write   # lets the workflow save the updated files back to the repo
+  contents: write
 
 jobs:
   update:
@@ -31,8 +28,6 @@ jobs:
             any::tidyverse
             any::writexl
 
-      # continue-on-error means that if a script stops (for example, "no games yet"
-      # in the offseason), the workflow still saves whatever was produced.
       - name: Update team data and poll history
         run: Rscript update_data.R
         continue-on-error: true
@@ -46,6 +41,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p output
           git add output
-          git diff --staged --quiet || git commit -m "Daily update $(date -u +%F)"
+          git diff --staged --quiet || git commit -m "Daily update"
           git push
