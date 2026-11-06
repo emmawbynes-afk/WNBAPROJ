@@ -3,11 +3,11 @@ athlete_id,athlete_display_name,team_id,team_display_name,position,games,starts,
 5311614,ZaKiyah Johnson,99,LSU Tigers,G,1,1,28,33,13,3,5,1,2,19,3,6,0.737,0.667,0.5,0.762,47.143,0.256,0.214,36.6,33,36.6,0,FALSE,9
 5174674,Hannah Hidalgo,87,Notre Dame Fighting Irish,G,1,1,37,32,7,8,3,0,1,19,4,10,0.579,0.5,0.8,0.684,34.595,0.323,0.278,31.2,32,31.2,0,FALSE,13
 4607456,Gia Cooke,277,West Virginia Mountaineers,G,1,1,34,28,1,3,2,0,3,17,6,12,0.471,0.5,0.75,0.628,32.941,0.412,0.291,19.1,28,19.1,0,FALSE,24
-5239107,Mikayla Blakes,238,Vanderbilt Commodores,G,1,1,27,27,9,6,4,2,1,18,2,5,0.611,0,1,0.668,40,0.241,0.231,30.5,27,30.5,0,FALSE,8
 5312310,Leah Macy,87,Notre Dame Fighting Irish,F,1,1,35,27,14,1,2,0,1,14,0,6,0.786,NA,0.833,0.811,30.857,0.273,0.201,29.1,27,29.1,0,FALSE,13
+5239107,Mikayla Blakes,238,Vanderbilt Commodores,G,2,2,25,25.5,7,4.5,3.5,1,1,17.5,5.5,3.5,0.571,0.364,1,0.67,40.8,0.241,0.212,26.1,25.5,26.1,0,FALSE,8
 5175965,Sayvia Sellers,264,Washington Huskies,G,1,1,33,25,11,10,1,1,4,20,8,5,0.45,0.375,0.8,0.563,30.303,0.316,0.272,22.6,25,22.6,0,FALSE,16
 5455263,LeeLee Bell,201,Oklahoma Sooners,F,1,1,29,25,8,4,1,0,4,21,7,4,0.429,0.571,0.75,0.549,34.483,0.275,0.255,17.3,25,17.3,0,FALSE,21
-5174356,Zoe Brooks,152,NC State Wolfpack,G,1,1,28,23,7,6,2,0,1,15,5,1,0.667,0.4,1,0.745,32.857,0.288,0.192,23.4,23,23.4,0,FALSE,25
+5175792,Madison Booker,251,Texas Longhorns,F,1,1,32,24,7,5,5,0,2,20,4,3,0.5,0.25,1,0.563,30,0.282,0.262,23.4,24,23.4,0,FALSE,6
 5239100,Joyce Edwards,2579,South Carolina Gamecocks,F,1,1,30,23,8,4,0,0,3,19,0,5,0.526,NA,0.6,0.542,30.667,0.228,0.244,16.7,23,16.7,0,FALSE,1
 5311754,Jazzy Davidson,30,USC Trojans,G,1,1,28,23,5,4,2,0,1,11,2,2,0.909,0.5,1,0.968,32.857,0.23,0.139,23.8,23,23.8,0,FALSE,3
 5107391,Gracie Merkle,135,Minnesota Golden Gophers,C,1,0,18,22,7,0,1,0,2,11,0,4,0.909,NA,0.5,0.862,48.889,0.268,0.165,19.4,22,19.4,0,FALSE,17
@@ -15,48 +15,49 @@ athlete_id,athlete_display_name,team_id,team_display_name,position,games,starts,
 5175754,Sahara Williams,201,Oklahoma Sooners,F,1,1,31,22,6,4,1,1,2,15,7,3,0.533,0.429,1,0.674,28.387,0.242,0.175,19.4,22,19.4,0,FALSE,21
 5239666,Avery Howell,264,Washington Huskies,G,1,1,33,22,7,2,0,0,5,16,11,2,0.5,0.455,0.5,0.652,26.667,0.278,0.227,12.5,22,12.5,0,FALSE,16
 5239683,Jaloni Cambridge,194,Ohio State Buckeyes,G,1,1,28,22,9,3,1,0,3,16,8,6,0.438,0.375,0.833,0.59,31.429,0.272,0.229,16.4,22,16.4,0,FALSE,18
+5311539,Cearah Parchment,356,Illinois Fighting Illini,F,1,1,27,22,11,1,1,4,4,11,2,6,0.818,0,0.667,0.806,32.593,0.262,0.197,20.5,22,20.5,0,FALSE,23
 5456429,Saniyah Hall,30,USC Trojans,G,1,1,23,22,7,1,2,2,2,8,4,7,0.875,0.75,0.714,0.993,38.261,0.22,0.142,23,22,23,0,FALSE,3
+5175870,Breya Cunningham,251,Texas Longhorns,F,1,1,29,21,13,1,0,1,2,14,1,4,0.571,1,1,0.666,28.966,0.247,0.199,19.3,21,19.3,0,FALSE,6
 5175946,JuJu Watkins,30,USC Trojans,G,1,1,25,21,5,2,2,1,0,22,5,4,0.409,0,0.75,0.442,33.6,0.21,0.257,14.8,21,14.8,0,FALSE,3
 5238284,Dani Carnegie,2294,Iowa Hawkeyes,G,1,1,30,21,5,5,0,0,3,15,10,6,0.467,0.3,0.667,0.595,28,0.288,0.254,14.5,21,14.5,0,FALSE,10
-5312397,Ky'She Lunan,152,NC State Wolfpack,G,1,1,31,21,6,0,1,0,3,12,8,0,0.667,0.625,NA,0.875,27.097,0.262,0.175,14.4,21,14.4,0,FALSE,25
+5240169,Berry Wallace,356,Illinois Fighting Illini,F,1,1,30,21,11,2,2,0,3,16,4,4,0.5,0.5,0.75,0.591,28,0.25,0.232,17.9,21,17.9,0,FALSE,23
 5456873,Kate Harpring,153,North Carolina Tar Heels,G,1,1,34,21,6,5,2,0,7,26,7,2,0.346,0.286,0.5,0.391,24.706,0.266,0.307,5.9,21,5.9,0,FALSE,12
 5174285,MiLaysia Fulwiley,99,LSU Tigers,G,1,1,25,20,1,4,6,1,0,18,8,2,0.444,0.25,1,0.53,32,0.155,0.171,18.8,20,18.8,0,FALSE,9
 5175701,Grace Grocholski,135,Minnesota Golden Gophers,G,1,1,34,20,6,5,0,0,2,14,7,3,0.5,0.429,1,0.653,23.529,0.244,0.194,17.1,20,17.1,0,FALSE,17
 5311577,Agot Makeer,2579,South Carolina Gamecocks,G,1,1,25,20,1,3,2,2,2,10,4,0,0.8,1,NA,1,32,0.198,0.121,19.2,20,19.2,0,FALSE,1
+5174356,Zoe Brooks,152,NC State Wolfpack,G,2,2,26.5,19.5,4,5.5,3,0,2,13.5,4,2,0.63,0.5,0.25,0.678,29.434,0.244,0.192,18.7,19.5,18.7,0,FALSE,25
 5174267,Mikaylah Williams,99,LSU Tigers,G,1,1,25,19,5,6,4,0,1,10,7,2,0.6,0.714,1,0.873,30.4,0.147,0.107,24.3,19,24.3,0,FALSE,9
-5174307,Madison Greene,238,Vanderbilt Commodores,G,1,0,21,19,1,1,4,0,1,10,7,1,0.7,0.714,0,0.91,36.19,0.17,0.125,18,19,18,0,FALSE,8
 5239592,Sarah Strong,41,UConn Huskies,F,1,1,22,19,4,5,8,0,0,14,4,1,0.571,0.5,1,0.658,34.545,0.19,0.157,25.9,19,25.9,0,FALSE,2
 5455214,Jovana Popovic,41,UConn Huskies,G,1,1,24,19,3,1,3,0,0,12,4,0,0.667,0.75,NA,0.792,31.667,0.19,0.13,18,19,18,0,FALSE,2
+5174309,Khamil Pierre,152,NC State Wolfpack,F,2,2,26.5,18,11,2,3,1,1.5,12,0.5,4.5,0.583,0,0.889,0.644,27.17,0.225,0.182,19.9,18,19.9,0,FALSE,25
 4610162,Madison St. Rose,87,Notre Dame Fighting Irish,G,1,1,37,17,2,0,2,1,2,9,7,2,0.667,0.571,0.5,0.86,18.378,0.172,0.135,12.8,17,12.8,0,FALSE,13
 5174442,Clara Strack,96,Kentucky Wildcats,C,1,1,22,17,9,3,1,6,0,18,4,1,0.444,0,1,0.461,30.909,0.2,0.204,17.6,17,17.6,0,FALSE,14
 5311574,Jaida Civil,145,Ole Miss Rebels,G,1,1,33,17,6,5,4,0,2,13,2,5,0.462,0.5,0.8,0.559,20.606,0.212,0.188,18,17,18,0,FALSE,19
 5312419,Lara Somfai,2628,TCU Horned Frogs,F,1,1,23,17,10,2,1,0,2,16,7,2,0.438,0.143,1,0.504,29.565,0.172,0.214,12.8,17,12.8,0,FALSE,15
 5174337,Nene Ndiaye,197,Oklahoma State Cowgirls,G,1,1,25,16,3,2,4,1,1,9,6,6,0.444,0.5,0.833,0.687,25.6,0.198,0.144,16.1,16,16.1,0,FALSE,22
-5311546,Aubrey Galvan,238,Vanderbilt Commodores,G,1,1,26,16,4,11,4,0,0,10,3,0,0.7,0.667,NA,0.8,24.615,0.143,0.109,24.7,16,24.7,0,FALSE,8
+5239076,Mia Woolfolk,238,Vanderbilt Commodores,F,2,2,17.5,15.5,4,0.5,1,0,1,9.5,0,3.5,0.684,NA,0.714,0.702,35.429,0.147,0.127,12.6,15.5,12.6,0,FALSE,8
 4894357,Riley Nelson,150,Duke Blue Devils,G,1,1,28,15,3,0,1,0,1,10,6,6,0.4,0.167,1,0.593,21.429,0.197,0.156,10.1,15,10.1,0,FALSE,4
 5174284,Tessa Johnson,2579,South Carolina Gamecocks,G,1,1,26,15,6,5,1,0,2,10,4,3,0.5,0.5,1,0.663,23.077,0.149,0.135,12.7,15,12.7,0,FALSE,1
-5174309,Khamil Pierre,152,NC State Wolfpack,F,1,1,26,15,11,3,3,0,2,9,0,6,0.556,NA,0.833,0.644,23.077,0.188,0.159,17.5,15,17.5,0,FALSE,25
 5238276,Arianna Roberson,150,Duke Blue Devils,C,1,0,23,15,5,1,0,4,2,10,3,1,0.6,0.667,1,0.718,26.087,0.197,0.143,13.4,15,13.4,0,FALSE,4
-5238294,Tajianna Roberts,97,Louisville Cardinals,G,1,1,19,15,3,2,4,0,0,12,4,0,0.583,0.25,NA,0.625,31.579,0.126,0.117,16.1,15,16.1,0,FALSE,7
-5239076,Mia Woolfolk,238,Vanderbilt Commodores,F,1,1,17,15,5,0,0,0,1,10,0,4,0.6,NA,0.75,0.638,35.294,0.134,0.139,10.9,15,10.9,0,FALSE,8
+5238288,Imari Berry,97,Louisville Cardinals,G,2,2,17,15,2.5,2,3,0,1,9,5.5,3,0.556,0.455,0.833,0.727,35.294,0.151,0.116,14.25,15,14.25,0,FALSE,7
 5239680,Elsa Lemmila,194,Ohio State Buckeyes,C,1,1,21,15,11,2,1,3,2,6,0,6,0.833,NA,0.833,0.868,28.571,0.185,0.113,20.6,15,20.6,0,FALSE,18
 5311746,Sienna Betts,26,UCLA Bruins,F,1,1,24,15,7,1,0,0,5,13,0,1,0.538,NA,1,0.558,25,0.205,0.219,6.9,15,6.9,0,FALSE,11
 5455222,Jerzy Robinson,2579,South Carolina Gamecocks,G,1,0,24,15,6,2,1,0,4,10,3,4,0.5,0.667,0.75,0.638,25,0.149,0.159,9.8,15,9.8,0,FALSE,1
-4565525,Amiya Joyner,97,Louisville Cardinals,F,1,0,13,14,4,1,2,0,0,5,0,6,1,NA,0.667,0.916,43.077,0.118,0.075,15.6,14,15.6,0,FALSE,7
+5238294,Tajianna Roberts,97,Louisville Cardinals,G,2,2,23,14.5,2,3,4,0,1,10,4,3,0.55,0.25,0.833,0.64,25.217,0.143,0.125,15.2,14.5,15.2,0,FALSE,7
+5311546,Aubrey Galvan,238,Vanderbilt Commodores,G,2,2,23.5,14.5,3,8.5,3.5,0,0.5,8.5,3,1.5,0.647,0.667,1,0.791,24.681,0.136,0.102,20.6,14.5,20.6,0,FALSE,8
 5174737,Jade Tillman,145,Ole Miss Rebels,G,1,0,22,14,11,3,2,0,0,5,1,8,0.8,0,0.75,0.822,25.455,0.175,0.093,19.9,14,19.9,0,FALSE,19
 5175915,Donovyn Hunter,26,UCLA Bruins,G,1,1,30,14,3,4,2,2,1,9,5,0,0.667,0.4,NA,0.778,18.667,0.192,0.119,16.6,14,16.6,0,FALSE,11
 5238283,Chazadi Wright,2294,Iowa Hawkeyes,G,1,1,29,14,4,1,1,0,1,9,8,6,0.333,0.375,0.833,0.601,19.31,0.192,0.156,11.6,14,11.6,0,FALSE,10
-5238288,Imari Berry,97,Louisville Cardinals,G,1,1,14,14,2,2,3,0,0,7,6,4,0.571,0.5,0.75,0.799,40,0.118,0.086,14.9,14,14.9,0,FALSE,7
 5239081,Jada Richard,145,Ole Miss Rebels,G,1,1,27,14,3,3,2,1,1,12,5,5,0.333,0.2,1,0.493,20.741,0.175,0.166,11.1,14,11.1,0,FALSE,19
 5311585,Aaliyah Chavez,201,Oklahoma Sooners,G,1,1,25,14,5,6,2,2,2,12,5,6,0.333,0.2,0.833,0.478,22.4,0.154,0.159,12.3,14,12.3,0,FALSE,21
 5311611,Grace Knox,99,LSU Tigers,F,1,1,24,14,8,2,4,2,1,7,0,8,0.714,NA,0.5,0.665,23.333,0.109,0.104,18.9,14,18.9,0,FALSE,9
 5455245,Lola Lampley,99,LSU Tigers,G,1,0,16,14,2,1,1,0,1,8,0,6,0.5,NA,1,0.658,35,0.109,0.105,11.3,14,11.3,0,FALSE,9
 5455247,Anna Minaeva,99,LSU Tigers,F,1,0,16,14,10,0,1,0,3,10,0,5,0.5,NA,0.8,0.574,35,0.109,0.137,10,14,10,0,FALSE,9
 5456401,Sydney Mobley,194,Ohio State Buckeyes,F,1,0,16,14,3,0,2,2,0,11,1,1,0.636,0,0,0.612,35,0.173,0.121,13,14,13,0,FALSE,18
-5174440,Carys Baker,97,Louisville Cardinals,F,1,0,18,13,3,4,1,0,1,9,5,1,0.556,0.4,1,0.689,28.889,0.109,0.102,12.8,13,12.8,0,FALSE,7
 5239104,Jordan Lee,2579,South Carolina Gamecocks,G,1,1,36,13,2,2,2,1,2,11,5,7,0.273,0,1,0.462,14.444,0.129,0.162,8.8,13,8.8,0,FALSE,1
 5240201,Tayla Thomas,135,Minnesota Golden Gophers,F,1,1,21,13,10,0,2,0,1,9,0,8,0.333,NA,0.875,0.519,24.762,0.159,0.151,12.7,13,12.7,0,FALSE,17
 5311756,Brynn McGaughy,264,Washington Huskies,F,1,1,27,13,15,2,3,0,6,14,2,2,0.429,0,0.5,0.437,19.259,0.165,0.217,10.1,13,10.1,0,FALSE,16
+5312397,Ky'She Lunan,152,NC State Wolfpack,G,2,2,30.5,13,4.5,2.5,3,0,2,10,5.5,1.5,0.5,0.455,0.333,0.61,17.049,0.162,0.148,10.9,13,10.9,0,FALSE,25
 5312402,Nyla Brooks,153,North Carolina Tar Heels,G,1,1,30,13,2,2,2,1,2,13,9,4,0.308,0.222,0.75,0.44,17.333,0.165,0.152,7.4,13,7.4,0,FALSE,12
 5107451,Zahirah Walton,277,West Virginia Mountaineers,G,1,1,28,12,2,2,2,1,6,9,0,2,0.556,NA,1,0.607,17.143,0.176,0.183,5.6,12,5.6,0,FALSE,24
 5175717,Diana Collins,96,Kentucky Wildcats,G,1,1,22,12,2,0,1,0,0,5,2,0,1,1,NA,1.2,21.818,0.141,0.055,12.1,12,12.1,0,FALSE,14
@@ -67,29 +68,33 @@ athlete_id,athlete_display_name,team_id,team_display_name,position,games,starts,
 5312392,Camille Williams,2628,TCU Horned Frogs,G,1,0,18,12,1,0,0,2,0,4,3,7,0.75,0.667,0.571,0.847,26.667,0.121,0.08,11.3,12,11.3,0,FALSE,15
 5454842,Ajsa Sivka,96,Kentucky Wildcats,G,1,1,27,12,3,8,1,1,2,6,2,4,0.5,1,1,0.773,17.778,0.141,0.108,15.2,12,15.2,0,FALSE,14
 5454845,Maddyn Greenway,96,Kentucky Wildcats,G,1,0,22,12,3,4,1,0,1,8,2,4,0.5,0,1,0.615,21.818,0.141,0.119,10.5,12,10.5,0,FALSE,14
+4565525,Amiya Joyner,97,Louisville Cardinals,F,2,1,14.5,11.5,9,1,2,0,0,6,0,5,0.667,NA,0.7,0.701,31.724,0.111,0.084,15.1,11.5,15.1,0,FALSE,7
+5174307,Madison Greene,238,Vanderbilt Commodores,G,2,0,23.5,11.5,2,2,2.5,0,3.5,8.5,6,0.5,0.529,0.417,0,0.659,19.574,0.105,0.129,7.95,11.5,7.95,0,FALSE,8
+5455534,Olivia Jones,238,Vanderbilt Commodores,G,2,2,20.5,11.5,2.5,1,2.5,0.5,1.5,7,3,2.5,0.643,0.333,0.6,0.71,22.439,0.111,0.101,10.2,11.5,10.2,0,FALSE,8
 5107845,Bri McDaniel,120,Maryland Terrapins,G,1,1,35,11,3,6,3,0,3,8,4,6,0.25,0.25,1,0.517,12.571,0.118,0.136,10.9,11,10.9,0,FALSE,20
 5174408,Oluchi Okananwa,120,Maryland Terrapins,G,1,1,26,11,9,4,2,0,2,14,1,2,0.357,0,0.5,0.37,16.923,0.118,0.168,9.1,11,9.1,0,FALSE,20
 5174423,Reniya Kelly,153,North Carolina Tar Heels,G,1,1,33,11,1,7,3,0,1,10,6,2,0.4,0.333,0.5,0.506,13.333,0.139,0.108,12.8,11,12.8,0,FALSE,12
 5174491,KK Arnold,41,UConn Huskies,G,1,1,22,11,3,2,4,0,3,9,1,0,0.556,1,NA,0.611,20,0.11,0.13,9.2,11,9.2,0,FALSE,2
 5175811,Achol Akot,153,North Carolina Tar Heels,F,1,1,24,11,8,2,3,0,1,8,2,3,0.5,0.5,0.667,0.59,18.333,0.139,0.093,12,11,12,0,FALSE,12
-5238300,Zamareya Jones,97,Louisville Cardinals,G,1,1,22,11,5,9,6,0,0,8,3,4,0.5,0.333,0.5,0.564,20,0.092,0.095,19.2,11,19.2,0,FALSE,7
+5238300,Zamareya Jones,97,Louisville Cardinals,G,2,2,21,11,4.5,6.5,3.5,0,0.5,8,3.5,3,0.5,0.429,0.5,0.59,20.952,0.109,0.1,14.3,11,14.3,0,FALSE,7
 5311568,Aaliyah Crump,150,Duke Blue Devils,G,1,1,34,11,5,6,1,1,2,13,5,0,0.385,0.2,NA,0.423,12.941,0.145,0.172,7.7,11,7.7,0,FALSE,4
 5331305,Sitaya Fagan,30,USC Trojans,F,1,0,17,11,0,3,0,1,1,8,3,2,0.625,0.333,0,0.619,25.882,0.11,0.107,8,11,8,0,FALSE,3
 5455213,Marine Dursus,41,UConn Huskies,G,1,0,16,11,0,1,2,0,3,5,4,0,0.8,0.75,NA,1.1,27.5,0.11,0.087,8.8,11,8.8,0,FALSE,2
 5456280,Trinity Jones,120,Maryland Terrapins,G,1,1,24,11,5,3,0,0,4,7,3,6,0.429,0.667,0.5,0.571,18.333,0.118,0.136,5.7,11,5.7,0,FALSE,20
 5457127,Jenica Lewis,87,Notre Dame Fighting Irish,G,1,0,32,11,4,4,1,0,2,8,7,0,0.5,0.429,NA,0.688,13.75,0.111,0.114,9.6,11,9.6,0,FALSE,13
+5456855,Ariyana Cradle,97,Louisville Cardinals,G,2,0,17.5,10.5,4,1,2.5,0,1.5,7.5,3,3.5,0.533,0.167,0.571,0.581,24,0.105,0.107,9.55,10.5,9.55,0,FALSE,7
 4565508,KK Bransford,26,UCLA Bruins,G,1,1,22,10,2,0,2,0,1,7,0,2,0.571,NA,1,0.635,18.182,0.137,0.105,8.3,10,8.3,0,FALSE,11
 5105435,Kennedy Cambridge,194,Ohio State Buckeyes,G,1,1,29,10,6,2,3,1,2,7,2,0,0.714,0,NA,0.714,13.793,0.123,0.095,12,10,12,0,FALSE,18
-5174310,Aiyana Mitchell,238,Vanderbilt Commodores,F,1,0,12,10,5,0,2,0,1,5,0,0,1,NA,NA,1,33.333,0.089,0.065,11,10,11,0,FALSE,8
+5174310,Aiyana Mitchell,238,Vanderbilt Commodores,F,2,0,11,10,4.5,1,1.5,0.5,1,5,0,1.5,0.9,NA,0.667,0.883,36.364,0.095,0.07,11.6,10,11.6,0,FALSE,8
 5174409,Delaney Thomas,150,Duke Blue Devils,F,1,1,26,10,7,0,0,0,1,7,0,2,0.571,NA,1,0.635,15.385,0.132,0.102,8.2,10,8.2,0,FALSE,4
+5175679,Gretchen Dolan,356,Illinois Fighting Illini,G,1,1,25,10,3,2,0,1,2,5,4,4,0.4,0.5,1,0.74,16,0.119,0.098,6.7,10,6.7,0,FALSE,23
 5239070,Me'Arah O'Neal,96,Kentucky Wildcats,F,1,1,23,10,7,2,0,1,2,10,4,3,0.4,0,0.667,0.442,17.391,0.118,0.147,6,10,6,0,FALSE,14
 5239469,Jadyn Wooten,2628,TCU Horned Frogs,G,1,1,24,10,4,8,2,0,1,8,2,2,0.5,0.5,0.5,0.563,16.667,0.101,0.112,13,10,13,0,FALSE,15
-5312384,Grace Mbugua,97,Louisville Cardinals,F,1,0,13,10,5,0,1,1,0,8,0,0,0.625,NA,NA,0.625,30.769,0.084,0.078,8.4,10,8.4,0,FALSE,7
 5312434,Gabby White,153,North Carolina Tar Heels,G,1,0,17,10,4,2,0,0,1,8,3,4,0.375,0.667,0.5,0.512,23.529,0.127,0.097,4.4,10,4.4,0,FALSE,12
 5454841,Emily McDonald,96,Kentucky Wildcats,G,1,0,18,10,2,1,0,1,0,9,4,1,0.444,0.25,1,0.53,22.222,0.118,0.104,7.3,10,7.3,0,FALSE,14
 5456265,McKenna Woliczko,2294,Iowa Hawkeyes,F,1,1,24,10,8,1,1,3,4,6,3,1,0.667,0.333,1,0.776,16.667,0.137,0.129,9.6,10,9.6,0,FALSE,10
-5456855,Ariyana Cradle,97,Louisville Cardinals,G,1,0,13,10,6,1,0,0,0,9,4,3,0.444,0.25,0.333,0.484,30.769,0.084,0.101,8.6,10,8.6,0,FALSE,7
 5457123,Jacy Abii,87,Notre Dame Fighting Irish,G,1,1,24,10,8,2,2,3,3,13,2,0,0.385,0,NA,0.385,16.667,0.101,0.182,7.4,10,7.4,0,FALSE,13
+5312384,Grace Mbugua,97,Louisville Cardinals,F,2,0,12,9.5,4.5,0.5,0.5,1,2,6.5,0.5,3,0.615,1,0.333,0.607,31.667,0.094,0.101,5.65,9.5,5.65,0,FALSE,7
 4682955,Talaysia Cooper,145,Ole Miss Rebels,G,1,1,22,9,3,1,0,0,2,9,4,0,0.444,0.25,NA,0.5,16.364,0.112,0.12,3.9,9,3.9,0,FALSE,19
 5108518,Callin Hake,197,Oklahoma State Cowgirls,G,1,0,21,9,2,4,3,0,2,10,10,0,0.3,0.3,NA,0.45,17.143,0.111,0.137,7.6,9,7.6,0,FALSE,22
 5125264,Jana El Alfy,41,UConn Huskies,C,1,1,13,9,5,2,0,0,2,4,0,4,0.75,NA,0.75,0.781,27.692,0.09,0.084,8.3,9,8.3,0,FALSE,2
@@ -97,14 +102,15 @@ athlete_id,athlete_display_name,team_id,team_display_name,position,games,starts,
 5174431,Sophie Burrows,153,North Carolina Tar Heels,G,1,0,24,9,8,1,4,0,3,10,7,2,0.3,0.286,0.5,0.414,15,0.114,0.126,7.3,9,7.3,0,FALSE,12
 5175490,Addy Brown,26,UCLA Bruins,F,1,0,24,9,6,3,0,0,0,7,2,0,0.571,0.5,NA,0.643,15,0.123,0.083,10,9,10,0,FALSE,11
 5239704,Elina Aarnisalo,26,UCLA Bruins,G,1,1,29,9,3,4,0,0,0,9,4,0,0.444,0.25,NA,0.5,12.414,0.123,0.107,8,9,8,0,FALSE,11
+5240176,Aaliyah Guyton,356,Illinois Fighting Illini,G,1,0,17,9,3,1,0,0,1,5,2,4,0.4,0.5,1,0.666,21.176,0.107,0.087,7.7,9,7.7,0,FALSE,23
 5455227,Autumn Fleary,150,Duke Blue Devils,G,1,0,20,9,3,3,1,0,4,7,3,4,0.429,0.667,0.25,0.514,18,0.118,0.146,4.1,9,4.1,0,FALSE,4
+5455530,Isi Etute,251,Texas Longhorns,F,1,0,24,9,5,2,0,0,0,3,0,5,1,NA,0.6,0.865,15,0.106,0.058,11,9,11,0,FALSE,6
 5456288,Natalie Kussow,135,Minnesota Golden Gophers,G,1,1,32,9,4,3,1,0,2,8,4,5,0.25,0,1,0.441,11.25,0.11,0.137,6.5,9,6.5,0,FALSE,17
 5457352,Jessie-May Hall,2628,TCU Horned Frogs,G,1,1,21,9,5,0,2,0,4,4,1,0,1,1,NA,1.125,17.143,0.091,0.091,8.5,9,8.5,0,FALSE,15
-5108302,Desiree Wooten,152,NC State Wolfpack,G,1,1,23,8,4,1,1,0,3,8,5,0,0.375,0.4,NA,0.5,13.913,0.1,0.129,2.3,8,2.3,0,FALSE,25
+5108302,Desiree Wooten,152,NC State Wolfpack,G,2,2,27.5,8,4.5,3,2,0,1.5,8.5,4,1,0.353,0.25,1,0.447,11.636,0.1,0.123,7,8,7,0,FALSE,25
 5121055,Chloe Kitts,2579,South Carolina Gamecocks,F,1,1,19,8,7,5,0,1,2,5,0,4,0.4,NA,1,0.592,16.842,0.079,0.088,10.8,8,10.8,0,FALSE,1
 5174261,Laila Reynolds,99,LSU Tigers,G,1,0,23,8,7,3,2,0,0,8,1,0,0.5,0,NA,0.5,13.913,0.062,0.072,9.4,8,9.4,0,FALSE,9
 5175019,Skylar Forbes,277,West Virginia Mountaineers,F,1,1,33,8,7,0,1,0,3,12,5,1,0.25,0.2,1,0.322,9.697,0.118,0.177,0.9,8,0.9,0,FALSE,24
-5238293,Reagan Bender,97,Louisville Cardinals,G,1,0,19,8,3,1,1,0,1,5,4,0,0.6,0.5,NA,0.8,16.842,0.067,0.059,6.9,8,6.9,0,FALSE,7
 5238297,Leah Harmon,135,Minnesota Golden Gophers,G,1,1,30,8,0,0,2,1,2,6,1,4,0.333,0,1,0.515,10.667,0.098,0.109,4.9,8,4.9,0,FALSE,17
 5238301,Tilda Trygger,264,Washington Huskies,F,1,1,22,8,13,1,0,0,3,6,0,2,0.5,NA,1,0.581,14.545,0.101,0.103,7.4,8,7.4,0,FALSE,16
 5239079,Clara Silva,2628,TCU Horned Frogs,C,1,1,19,8,5,0,0,2,1,4,0,2,0.75,NA,1,0.82,16.842,0.081,0.067,8.3,8,8.3,0,FALSE,15
@@ -112,70 +118,82 @@ athlete_id,athlete_display_name,team_id,team_display_name,position,games,starts,
 5311700,Rachael Okokoh,145,Ole Miss Rebels,F,1,1,25,8,8,0,3,1,2,8,0,4,0.375,NA,0.5,0.41,12.8,0.1,0.129,8.9,8,8.9,0,FALSE,19
 5311970,Emilee Skinner,150,Duke Blue Devils,G,1,1,22,8,6,5,2,1,4,9,2,0,0.444,0,NA,0.444,14.545,0.105,0.149,7.3,8,7.3,0,FALSE,4
 5312757,Jordan Speiser,201,Oklahoma Sooners,G,1,0,25,8,5,2,2,0,4,8,6,0,0.375,0.333,NA,0.5,12.8,0.088,0.115,4.5,8,4.5,0,FALSE,21
-5455534,Olivia Jones,238,Vanderbilt Commodores,G,1,1,19,8,1,0,1,1,2,7,2,0,0.571,0,NA,0.571,16.842,0.071,0.098,3.1,8,3.1,0,FALSE,8
 5457353,Laura Vilcinskas,2628,TCU Horned Frogs,C,1,0,10,8,5,0,0,0,1,3,0,2,1,NA,1,1.031,32,0.081,0.055,8,8,8,0,FALSE,15
+5456864,Annsley Trivette,152,NC State Wolfpack,F,2,0,11,7.5,3,0,0,0,3,4,0.5,1.5,0.75,1,0.667,0.805,27.273,0.094,0.09,4.4,7.5,4.4,0,FALSE,25
 4565516,Ashlyn Watkins,2579,South Carolina Gamecocks,F,1,0,26,7,10,2,2,2,0,5,0,2,0.6,NA,0.5,0.595,10.769,0.069,0.059,12.1,7,12.1,0,FALSE,1
 5239069,Kylee Kitts,194,Ohio State Buckeyes,G,1,1,24,7,9,2,0,1,0,8,2,1,0.375,0,1,0.415,11.667,0.086,0.089,8.6,7,8.6,0,FALSE,18
 5239072,Liv McGill,197,Oklahoma State Cowgirls,G,1,1,24,7,10,5,1,0,5,8,3,4,0.25,0,0.75,0.359,11.667,0.086,0.168,4.7,7,4.7,0,FALSE,22
+5239093,Zya Vann,251,Texas Longhorns,G,1,1,21,7,3,1,2,0,1,8,4,0,0.375,0.25,NA,0.438,13.333,0.082,0.101,5.6,7,5.6,0,FALSE,6
 5239591,Allie Ziebell,41,UConn Huskies,G,1,0,18,7,4,0,0,1,0,9,4,0,0.333,0.25,NA,0.389,15.556,0.07,0.098,4.2,7,4.2,0,FALSE,2
 5240175,Ava Heiden,2294,Iowa Hawkeyes,C,1,1,19,7,7,0,0,0,3,4,0,2,0.75,NA,0.5,0.717,14.737,0.096,0.097,4.1,7,4.1,0,FALSE,10
-5311575,Deniya Prawl,97,Louisville Cardinals,G,1,0,19,7,4,2,1,3,1,8,0,2,0.375,NA,0.5,0.394,14.737,0.059,0.096,7.3,7,7.3,0,FALSE,7
+5311535,Destiny Jackson,356,Illinois Fighting Illini,G,1,1,25,7,5,9,0,1,1,5,1,6,0.2,0,0.833,0.458,11.2,0.083,0.097,9.4,7,9.4,0,FALSE,23
 5312307,Kelis Fisher,41,UConn Huskies,G,1,0,8,7,2,3,2,0,1,3,0,1,1,NA,1,1.017,35,0.07,0.048,9.8,7,9.8,0,FALSE,2
 5312406,Nylah Wilson,277,West Virginia Mountaineers,G,1,0,18,7,2,0,2,0,0,10,2,2,0.3,0.5,0,0.322,15.556,0.103,0.125,2.6,7,2.6,0,FALSE,24
+5455529,Jayda Clark,251,Texas Longhorns,G,1,1,26,7,6,2,0,1,0,9,2,0,0.333,0.5,NA,0.389,10.769,0.082,0.101,6.2,7,6.2,0,FALSE,6
+5174440,Carys Baker,97,Louisville Cardinals,F,2,1,21,6.5,6,2.5,2,1,0.5,9,5,0.5,0.278,0.2,1,0.352,12.381,0.055,0.099,7.95,6.5,7.95,0,FALSE,7
+5243322,Vernell Atamah,238,Vanderbilt Commodores,G,2,2,25,6.5,2.5,3,3,1.5,0,6.5,5,0,0.385,0.3,NA,0.5,10.4,0.062,0.069,9.65,6.5,9.65,0,FALSE,8
 5105734,Timea Gardiner,26,UCLA Bruins,F,1,1,21,6,5,2,0,2,2,9,4,1,0.222,0.25,1,0.318,11.429,0.082,0.136,2,6,2,0,FALSE,11
 5239094,Caya Smith,201,Oklahoma Sooners,F,1,0,18,6,2,0,0,1,2,4,2,3,0.5,0,0.667,0.564,13.333,0.066,0.07,2.5,6,2.5,0,FALSE,21
 5239679,Ava Watson,194,Ohio State Buckeyes,G,1,1,26,6,2,4,1,0,2,12,10,0,0.167,0.2,NA,0.25,9.231,0.074,0.148,1.2,6,1.2,0,FALSE,18
 5242020,Doneelah Washington,145,Ole Miss Rebels,F,1,1,22,6,5,0,1,7,0,7,3,2,0.286,0,1,0.381,10.909,0.075,0.086,10.1,6,10.1,0,FALSE,19
 5311545,Layla Hays,2294,Iowa Hawkeyes,C,1,0,17,6,5,0,0,1,1,5,0,0,0.6,NA,NA,0.6,14.118,0.082,0.074,5.7,6,5.7,0,FALSE,10
+5311575,Deniya Prawl,97,Louisville Cardinals,G,2,0,19,6,4.5,1,1,1.5,2,5,0,2,0.5,NA,0.5,0.51,12.632,0.058,0.079,6,6,6,0,FALSE,7
 5311812,LA Sneed,197,Oklahoma State Cowgirls,G,1,0,21,6,2,1,0,0,2,3,3,0,0.667,0.667,NA,1,11.429,0.074,0.057,4,6,4,0,FALSE,22
 5312404,Divine Tumba,277,West Virginia Mountaineers,F,1,0,11,6,6,0,1,0,2,2,0,4,0.5,NA,1,0.798,21.818,0.088,0.066,6.2,6,6.2,0,FALSE,24
 5312748,Sarah Portlock,2628,TCU Horned Frogs,C,1,0,11,6,3,0,0,1,0,3,0,2,0.667,NA,1,0.773,21.818,0.061,0.044,6.7,6,6.7,0,FALSE,15
 5312749,Clara Bielefeld,2628,TCU Horned Frogs,G,1,0,22,6,11,6,1,1,1,4,0,4,0.25,NA,1,0.521,10.909,0.061,0.077,11.4,6,11.4,0,FALSE,15
 5454844,Savvy Swords,96,Kentucky Wildcats,F,1,0,23,6,11,1,2,1,2,9,0,2,0.333,NA,0,0.304,10.435,0.071,0.131,7.6,6,7.6,0,FALSE,14
+5455527,Addison Bjorn,251,Texas Longhorns,G,1,0,21,6,3,0,0,1,1,6,0,2,0.333,NA,1,0.436,11.429,0.071,0.088,3.6,6,3.6,0,FALSE,6
+5238290,Rebekah Graves,97,Louisville Cardinals,G,2,0,10,5.5,1,0,0,0,1,3.5,3,0,0.571,0.5,NA,0.786,22,0.059,0.046,2.95,5.5,2.95,0,FALSE,7
 4711685,Knisha Godfrey,145,Ole Miss Rebels,G,1,0,15,5,4,2,1,0,2,4,2,0,0.5,0.5,NA,0.625,13.333,0.062,0.066,5.4,5,5.4,0,FALSE,19
+5174271,Jasmine Brown-Hagger,356,Illinois Fighting Illini,G,1,1,23,5,0,2,0,0,0,2,0,3,0.5,NA,1,0.753,8.696,0.06,0.037,4.6,5,4.6,0,FALSE,23
 5174410,Jordan Wood,150,Duke Blue Devils,F,1,0,17,5,3,1,0,1,1,4,1,1,0.5,0,1,0.563,11.765,0.066,0.062,4.3,5,4.3,0,FALSE,4
+5174492,Qadence Samuels,152,NC State Wolfpack,G,2,0,18.5,5,4,0,0.5,0.5,0,6,3,0,0.417,0,NA,0.417,10.811,0.062,0.07,4.05,5,4.05,0,FALSE,25
 5174493,Ashlynn Shade,41,UConn Huskies,G,1,1,20,5,4,3,3,1,0,3,1,0,0.667,1,NA,0.833,10,0.05,0.033,11.1,5,11.1,0,FALSE,2
 5175867,Jada Williams,99,LSU Tigers,G,1,1,28,5,0,8,1,1,1,4,1,2,0.25,1,1,0.512,7.143,0.039,0.053,8.5,5,8.5,0,FALSE,9
 5238289,Mackenly Randolph,97,Louisville Cardinals,F,1,1,12,5,1,1,1,0,0,4,1,2,0.5,0,0.5,0.512,16.667,0.042,0.048,3.4,5,3.4,0,FALSE,7
 5240174,Taylor Stremlow,2294,Iowa Hawkeyes,G,1,0,22,5,7,0,2,2,1,6,3,1,0.333,0,1,0.388,9.091,0.068,0.092,6.5,5,6.5,0,FALSE,10
 5240181,Isimenme Ozzy-Momodu,201,Oklahoma Sooners,C,1,0,14,5,7,1,1,1,3,4,0,2,0.5,NA,0.5,0.512,14.286,0.055,0.075,5.3,5,5.3,0,FALSE,21
 5242455,Brooke Carlson,264,Washington Huskies,G,1,0,13,5,1,0,0,0,0,3,0,1,0.667,NA,1,0.727,15.385,0.063,0.036,4.4,5,4.4,0,FALSE,16
-5243322,Vernell Atamah,238,Vanderbilt Commodores,G,1,1,21,5,2,3,3,1,0,7,6,0,0.286,0.167,NA,0.357,9.524,0.045,0.076,7.3,5,7.3,0,FALSE,8
 5311544,Journey Houston,2294,Iowa Hawkeyes,G,1,0,20,5,4,0,0,0,0,6,4,1,0.333,0.25,0,0.388,10,0.068,0.079,2,5,2,0,FALSE,10
 5311549,Rainey Welson,120,Maryland Terrapins,G,1,0,12,5,0,0,0,0,1,4,2,2,0.25,0.5,1,0.512,16.667,0.054,0.059,1.2,5,1.2,0,FALSE,20
 5311598,Bryn Martin,194,Ohio State Buckeyes,G,1,0,18,5,0,1,0,1,0,3,1,1,0.667,1,0,0.727,11.111,0.062,0.036,4.3,5,4.3,0,FALSE,18
 5455217,Talexa Weeter,197,Oklahoma State Cowgirls,G,1,0,16,5,5,1,2,0,0,3,0,2,0.667,NA,0.5,0.644,12.5,0.062,0.044,8.7,5,8.7,0,FALSE,22
 5456279,Jordyn Jackson,120,Maryland Terrapins,G,1,0,25,5,2,0,0,1,1,8,5,0,0.25,0.2,NA,0.312,8,0.054,0.09,-0.7,5,-0.7,0,FALSE,20
-5456864,Annsley Trivette,152,NC State Wolfpack,F,1,0,9,5,3,0,0,0,2,2,0,2,1,NA,0.5,0.868,22.222,0.062,0.057,3.3,5,3.3,0,FALSE,25
 4565520,Sa'Myah Smith,201,Oklahoma Sooners,F,1,0,20,4,5,1,0,1,2,3,0,0,0.667,NA,NA,0.667,8,0.044,0.048,3.2,4,3.2,0,FALSE,21
 4858666,Mara Braun,135,Minnesota Golden Gophers,G,1,1,31,4,5,2,3,1,5,7,2,2,0.143,0,1,0.254,5.161,0.049,0.144,1.1,4,1.1,0,FALSE,17
 5106203,Ayanna Patterson,96,Kentucky Wildcats,F,1,0,14,4,4,0,0,1,0,4,0,0,0.5,NA,NA,0.5,11.429,0.047,0.044,3.1,4,3.1,0,FALSE,14
+5174765,Maddie Webber,356,Illinois Fighting Illini,G,1,0,22,4,4,2,1,0,3,5,3,4,0,0,1,0.296,7.273,0.048,0.109,1.5,4,1.5,0,FALSE,23
+5175473,Lety Vasconcelos,356,Illinois Fighting Illini,C,1,0,8,4,4,1,0,0,0,3,0,0,0.667,NA,NA,0.667,20,0.048,0.034,5,4,5,0,FALSE,23
 5175812,Khyala Ngodu,277,West Virginia Mountaineers,C,1,1,29,4,8,3,1,0,2,6,0,0,0.333,NA,NA,0.333,5.517,0.059,0.092,6.1,4,6.1,0,FALSE,24
 5175937,Amanda Muse,26,UCLA Bruins,F,1,0,11,4,4,1,1,0,2,1,0,2,1,NA,1,1.064,14.545,0.055,0.046,4.6,4,4.6,0,FALSE,11
+5238293,Reagan Bender,97,Louisville Cardinals,G,2,0,16.5,4,2,0.5,1.5,0,0.5,3.5,3,0,0.429,0.333,NA,0.571,9.697,0.034,0.04,3.9,4,3.9,0,FALSE,7
+5239103,Bryanna Preston,251,Texas Longhorns,G,1,1,24,4,2,3,1,0,0,8,0,0,0.25,NA,NA,0.25,6.667,0.047,0.09,1.7,4,1.7,0,FALSE,6
 5239664,Kayleigh Heckel,41,UConn Huskies,G,1,0,20,4,7,2,1,0,3,6,0,2,0.333,NA,0,0.291,8,0.04,0.107,0.9,4,0.9,0,FALSE,2
 5240010,Devin Coppinger,264,Washington Huskies,G,1,1,22,4,2,1,0,0,0,4,2,0,0.5,0,NA,0.5,7.273,0.051,0.042,2.9,4,2.9,0,FALSE,16
 5263907,Yuting Deng,197,Oklahoma State Cowgirls,G,1,1,24,4,12,3,0,0,2,9,3,0,0.222,0,NA,0.222,6.667,0.049,0.125,2.2,4,2.2,0,FALSE,22
-5311548,Monique Williams,238,Vanderbilt Commodores,F,1,0,8,4,2,0,0,1,0,1,0,2,1,NA,1,1.064,20,0.036,0.02,5,4,5,0,FALSE,8
 5311578,Lauren Jacobs,145,Ole Miss Rebels,G,1,0,20,4,3,2,1,0,2,5,3,2,0.4,0,0,0.34,8,0.05,0.086,1.4,4,1.4,0,FALSE,19
 5311588,Keziah Lofton,201,Oklahoma Sooners,G,1,1,16,4,4,3,1,0,1,4,0,0,0.5,NA,NA,0.5,10,0.044,0.048,4.9,4,4.9,0,FALSE,21
 5311990,Pania Davis,30,USC Trojans,C,1,0,15,4,4,0,0,1,0,3,0,2,0.333,NA,1,0.515,10.667,0.04,0.042,3.4,4,3.4,0,FALSE,3
 5312306,Blanca Quinonez,41,UConn Huskies,F,1,0,15,4,3,2,2,0,2,4,2,2,0.25,0,1,0.41,10.667,0.04,0.075,3.1,4,3.1,0,FALSE,2
 5455215,Olivia Vukosa,41,UConn Huskies,C,1,0,16,4,8,2,0,1,1,0,0,4,NA,NA,1,1.136,10,0.04,0.03,7.5,4,7.5,0,FALSE,2
-5455535,Jhai Johnson,238,Vanderbilt Commodores,F,1,0,20,4,7,0,2,2,2,2,1,4,0.5,0,0.5,0.532,8,0.036,0.063,4.9,4,4.9,0,FALSE,8
+5455528,Lizzy Spaight,251,Texas Longhorns,G,1,0,12,4,1,1,0,0,2,4,0,0,0.5,NA,NA,0.5,13.333,0.047,0.067,-0.2,4,-0.2,0,FALSE,6
 5456289,Tori Oehrlein,135,Minnesota Golden Gophers,G,1,0,14,4,0,1,1,0,1,3,0,0,0.667,NA,NA,0.667,11.429,0.049,0.045,3,4,3,0,FALSE,17
+5239431,Khady Leye,152,NC State Wolfpack,F,2,2,17,3.5,5,1,1,0,1.5,4.5,0.5,1,0.333,0,0.5,0.354,8.235,0.044,0.076,2.65,3.5,2.65,0,FALSE,25
 5174358,Kennedy Harris,277,West Virginia Mountaineers,G,1,1,20,3,2,0,0,0,0,1,0,2,1,NA,0.5,0.798,6,0.044,0.022,2.1,3,2.1,0,FALSE,24
 5175474,Amari Whiting,2294,Iowa Hawkeyes,G,1,1,24,3,5,2,0,0,1,3,1,4,0.333,0,0.25,0.315,5,0.041,0.071,1.6,3,1.6,0,FALSE,10
 5178152,Maya Anderson,145,Ole Miss Rebels,G,1,0,11,3,2,0,0,0,1,3,3,0,0.333,0.333,NA,0.5,10.909,0.038,0.044,0.9,3,0.9,0,FALSE,19
-5238290,Rebekah Graves,97,Louisville Cardinals,G,1,0,10,3,1,0,0,0,1,3,3,0,0.333,0.333,NA,0.5,12,0.025,0.039,0.2,3,0.2,0,FALSE,7
 5239663,Laura Williams,30,USC Trojans,F,1,0,14,3,1,0,0,2,1,3,2,0,0.333,0.5,NA,0.5,8.571,0.03,0.043,1.6,3,1.6,0,FALSE,3
+5311548,Monique Williams,238,Vanderbilt Commodores,F,2,0,7,3,3,0,0,0.5,1,1,0,1,1,NA,1,1.042,17.143,0.028,0.026,3.35,3,3.35,0,FALSE,8
 5311550,Lea Bartelme,120,Maryland Terrapins,G,1,0,17,3,0,3,1,0,1,3,1,2,0.333,0,0.5,0.387,7.059,0.032,0.049,2.2,3,2.2,0,FALSE,20
+5311567,Grace Prenter,251,Texas Longhorns,G,1,0,6,3,1,0,0,0,0,2,1,0,0.5,1,NA,0.75,20,0.035,0.022,1.9,3,1.9,0,FALSE,6
 5311587,Brooklyn Stewart,201,Oklahoma Sooners,F,1,1,14,3,1,2,0,1,0,3,0,2,0.333,NA,0.5,0.387,8.571,0.033,0.037,2.5,3,2.5,0,FALSE,21
 5311719,Bonnie Deas,26,UCLA Bruins,G,1,0,13,3,3,1,2,1,0,4,2,4,0.25,0,0.25,0.26,9.231,0.041,0.068,4.1,3,4.1,0,FALSE,11
 5311811,Avery Hjelmstad,2628,TCU Horned Frogs,G,1,0,10,3,0,0,0,0,0,3,3,0,0.333,0.333,NA,0.5,12,0.03,0.034,1.3,3,1.3,0,FALSE,15
-5312398,Adelaide Jernigan,152,NC State Wolfpack,G,1,0,11,3,1,1,0,0,1,4,3,2,0.25,0,0.5,0.307,10.909,0.038,0.069,0.2,3,0.2,0,FALSE,25
+5312398,Adelaide Jernigan,152,NC State Wolfpack,G,2,0,11,3,1.5,1.5,1,0,0.5,3,2,2,0.333,0.25,0.25,0.387,10.909,0.038,0.051,2.9,3,2.9,0,FALSE,25
 5455228,Bella Flemings,150,Duke Blue Devils,G,1,0,15,3,3,1,2,0,2,3,3,0,0.333,0.333,NA,0.5,8,0.039,0.057,2.1,3,2.1,0,FALSE,4
+5455535,Jhai Johnson,238,Vanderbilt Commodores,F,2,0,18,3,4.5,1,2,1.5,1.5,2.5,0.5,3,0.4,0,0.333,0.393,6.667,0.028,0.056,3.45,3,3.45,0,FALSE,8
 5456428,Somto Okafor,26,UCLA Bruins,G,1,0,18,3,1,3,3,0,3,3,3,2,0.333,0.333,0,0.387,6.667,0.041,0.082,2.1,3,2.1,0,FALSE,11
-5174492,Qadence Samuels,152,NC State Wolfpack,G,1,0,18,2,3,0,0,0,0,7,6,0,0.143,0,NA,0.143,4.444,0.025,0.082,-1.6,2,-1.6,0,FALSE,25
 5175700,Kennedy Klick,135,Minnesota Golden Gophers,G,1,0,8,2,0,1,0,0,0,1,1,2,0,0,1,0.532,10,0.024,0.021,1.6,2,1.6,0,FALSE,17
 5177067,Asia Boone,96,Kentucky Wildcats,G,1,1,24,2,3,1,0,0,1,7,5,0,0.143,0,NA,0.143,3.333,0.024,0.088,-2.3,2,-2.3,0,FALSE,14
 5238291,Anaya Hardy,87,Notre Dame Fighting Irish,F,1,1,21,2,2,0,1,1,1,4,0,2,0.25,NA,0,0.205,3.81,0.02,0.067,-0.7,2,-0.7,0,FALSE,13
@@ -183,31 +201,35 @@ athlete_id,athlete_display_name,team_id,team_display_name,position,games,starts,
 5239662,Rian Forestier,30,USC Trojans,G,1,0,8,2,4,0,0,0,1,2,1,0,0.5,0,NA,0.5,10,0.02,0.032,2.4,2,2.4,0,FALSE,3
 5240754,Ryann Bennett,30,USC Trojans,G,1,0,15,2,2,3,3,0,0,2,1,0,0.5,0,NA,0.5,5.333,0.02,0.022,6.3,2,6.3,0,FALSE,3
 5242683,Chloe Larry,99,LSU Tigers,G,1,0,15,2,5,4,0,0,2,2,0,0,0.5,NA,NA,0.5,5.333,0.016,0.036,2.9,2,2.9,0,FALSE,9
+5311613,Divine Bourrage,356,Illinois Fighting Illini,G,1,0,11,2,5,0,0,0,1,2,0,0,0.5,NA,NA,0.5,7.273,0.024,0.034,2.7,2,2.7,0,FALSE,23
 5311701,Jocelyn Faison,2294,Iowa Hawkeyes,G,1,0,15,2,5,3,0,0,1,2,0,2,0,NA,1,0.347,5.333,0.027,0.048,3.2,2,3.2,0,FALSE,10
-5455536,Sther Ubaka,238,Vanderbilt Commodores,F,1,0,5,2,0,0,0,0,1,1,0,0,1,NA,NA,1,16,0.018,0.022,0.3,2,0.3,0,FALSE,8
+5455536,Sther Ubaka,238,Vanderbilt Commodores,F,2,0,5.5,2,1,0,0,0,1,1.5,0,1,0.667,NA,0,0.515,14.545,0.019,0.031,0.05,2,0.05,0,FALSE,8
 5456403,Adriana Diaz,194,Ohio State Buckeyes,F,1,0,19,2,3,2,2,0,2,4,3,2,0,0,1,0.205,4.211,0.025,0.073,0.7,2,0.7,0,FALSE,18
 5456432,Amayah Garcia,264,Washington Huskies,G,1,0,22,2,2,1,0,0,1,5,2,0,0.2,0,NA,0.2,3.636,0.025,0.062,-0.4,2,-0.4,0,FALSE,16
-5456866,Kamora Pruitt,152,NC State Wolfpack,G,1,0,17,2,3,0,0,0,0,4,2,0,0.25,0,NA,0.25,4.706,0.025,0.047,0.5,2,0.5,0,FALSE,25
+5456856,Ayse Melek Demirer,97,Louisville Cardinals,F,2,0,16,2,4,1,0,0.5,1,3,0.5,1,0.333,0,0,0.291,5,0.023,0.045,0.95,2,0.95,0,FALSE,7
 5456874,Noelle Bofia,153,North Carolina Tar Heels,C,1,0,7,2,4,0,1,1,0,2,0,0,0.5,NA,NA,0.5,11.429,0.025,0.018,4.7,2,4.7,0,FALSE,12
-4586315,Saniyah Glenn-Bello,238,Vanderbilt Commodores,G,1,0,12,1,1,3,0,0,1,1,0,2,0,NA,0.5,0.266,3.333,0.009,0.031,1.3,1,1.3,0,FALSE,8
-5239108,Trinity Wilson,238,Vanderbilt Commodores,F,1,0,12,1,1,3,2,0,1,0,0,2,NA,NA,0.5,0.568,3.333,0.009,0.02,4.4,1,4.4,0,FALSE,8
-5239431,Khady Leye,152,NC State Wolfpack,F,1,1,20,1,5,1,0,0,3,2,1,2,0,0,0.5,0.174,2,0.013,0.069,-1.6,1,-1.6,0,FALSE,25
+4586315,Saniyah Glenn-Bello,238,Vanderbilt Commodores,G,2,0,11.5,1.5,1.5,2.5,1.5,0,0.5,1.5,0,2,0.333,NA,0.25,0.315,5.217,0.014,0.03,3.45,1.5,3.45,0,FALSE,8
+5239108,Trinity Wilson,238,Vanderbilt Commodores,F,2,0,12,1.5,1,2,1.5,0.5,2,2,0,1,0.25,NA,0.5,0.307,5,0.014,0.046,2.05,1.5,2.05,0,FALSE,8
+5174354,Maddie Cox,152,NC State Wolfpack,F,2,0,10.5,1,0.5,0,0,0,0,0.5,0.5,1,0,0,1,0.532,3.81,0.013,0.011,0.8,1,0.8,0,FALSE,25
+5456866,Kamora Pruitt,152,NC State Wolfpack,G,2,0,15,1,2,0,0,0.5,0,3,2,1,0.167,0,0,0.145,2.667,0.013,0.04,-0.35,1,-0.35,0,FALSE,25
+5456867,Favour Ossai,152,NC State Wolfpack,F,2,0,2.5,0.5,0.5,0,0,0,0,0.5,0,2,0,NA,0.25,0.181,8,0.006,0.016,-0.3,0.5,-0.3,0,FALSE,25
 5108570,Marya Hudgins,277,West Virginia Mountaineers,G,1,0,19,0,6,0,0,0,1,1,1,0,0,0,NA,0,0,0,0.023,-0.7,0,-0.7,0,FALSE,24
 5109222,Kelly Ratigan,87,Notre Dame Fighting Irish,G,1,0,2,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,0,0,0,0.7,0,0.7,0,FALSE,13
 5109820,Brooke Quarles Daniels,2579,South Carolina Gamecocks,G,1,0,2,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,-0.4,0,-0.4,0,FALSE,1
-5174354,Maddie Cox,152,NC State Wolfpack,F,1,0,11,0,1,0,0,0,0,1,1,0,0,0,NA,0,0,0,0.012,-0.4,0,-0.4,0,FALSE,25
 5174407,Jadyn Donovan,150,Duke Blue Devils,G,1,1,15,0,4,0,3,1,0,1,0,0,0,NA,NA,0,0,0,0.011,5,0,5,0,FALSE,4
 5174422,Laila Hull,153,North Carolina Tar Heels,G,1,0,7,0,0,0,0,0,1,5,5,0,0,0,NA,0,0,0,0.054,-4.5,0,-4.5,0,FALSE,12
 5174437,Gabby Brooks,96,Kentucky Wildcats,G,1,0,2,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0,0,FALSE,14
 5175699,Brynn Senden,135,Minnesota Golden Gophers,G,1,0,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0,0,FALSE,17
 5175935,Chloe Clardy,153,North Carolina Tar Heels,G,1,0,4,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,0,0,0,1.3,0,1.3,0,FALSE,12
 5175995,Macey Huard,264,Washington Huskies,G,1,0,3,0,2,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0.6,0,0.6,0,FALSE,16
-5176891,Audrey Ericksen,152,NC State Wolfpack,G,1,0,4,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0,0,FALSE,25
+5176891,Audrey Ericksen,152,NC State Wolfpack,G,2,0,3.5,0,0.5,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0.15,0,0.15,0,FALSE,25
 5178392,Ellie Brueggemann,197,Oklahoma State Cowgirls,G,1,0,13,0,0,0,0,0,0,3,1,0,0,0,NA,0,0,0,0.034,-2.5,0,-2.5,0,FALSE,22
 5239465,Zoe Canfield,197,Oklahoma State Cowgirls,G,1,0,3,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0,0,FALSE,22
 5239667,Brooklyn Shamblin,30,USC Trojans,G,1,0,3,0,0,0,0,0,3,0,0,0,NA,NA,NA,NA,0,0,0.032,-3,0,-3,0,FALSE,3
 5239682,Seini Henry,194,Ohio State Buckeyes,G,1,0,10,0,5,0,0,0,2,3,1,0,0,0,NA,0,0,0,0.053,-2.2,0,-2.2,0,FALSE,18
+5240913,Lovisa Asbrink Hose,251,Texas Longhorns,C,1,0,4,0,0,0,0,0,0,1,0,0,0,NA,NA,0,0,0,0.011,-0.7,0,-0.7,0,FALSE,6
 5241017,Jemma Amoore,96,Kentucky Wildcats,G,1,0,3,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0,0,FALSE,14
+5311537,Manuella Alves,356,Illinois Fighting Illini,F,1,0,12,0,4,1,0,1,3,3,0,2,0,NA,0,0,0,0,0.077,-3.3,0,-3.3,0,FALSE,23
 5311569,Zoey Bershers,135,Minnesota Golden Gophers,C,1,0,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0,0,FALSE,17
 5311570,Makena Christian,135,Minnesota Golden Gophers,G,1,0,8,0,2,0,0,0,1,2,1,0,0,0,NA,0,0,0,0.034,-2.6,0,-2.6,0,FALSE,17
 5311576,Ayla McDowell,2579,South Carolina Gamecocks,G,1,0,4,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,0,0,0.01,-1,0,-1,0,FALSE,1
@@ -222,6 +244,7 @@ athlete_id,athlete_display_name,team_id,team_display_name,position,games,starts,
 5455223,Kelsi Andrews,2579,South Carolina Gamecocks,F,1,0,2,0,0,0,1,1,0,2,0,0,0,NA,NA,0,0,0,0.02,0.3,0,0.3,0,FALSE,1
 5455262,Sina Hollerl,201,Oklahoma Sooners,G,1,0,4,0,0,0,0,0,0,1,1,0,0,0,NA,0,0,0,0.01,-0.7,0,-0.7,0,FALSE,21
 5455514,Charleen Hudson,145,Ole Miss Rebels,G,1,0,3,0,0,0,0,0,2,0,0,0,NA,NA,NA,NA,0,0,0.022,-2.4,0,-2.4,0,FALSE,19
+5455525,Amalia Holguin,251,Texas Longhorns,G,1,0,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0,0,FALSE,6
 5456278,Oumou Thiero,120,Maryland Terrapins,F,1,0,4,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,0,0,0,-0.2,0,-0.2,0,FALSE,20
 5456287,Adit Kuol,135,Minnesota Golden Gophers,F,1,0,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0,0,FALSE,17
 5456290,Kylee Paben,135,Minnesota Golden Gophers,F,1,0,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0,0,FALSE,17
@@ -230,8 +253,6 @@ athlete_id,athlete_display_name,team_id,team_display_name,position,games,starts,
 5456430,Alesia Talkouskaya,30,USC Trojans,G,1,0,2,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,-0.8,0,-0.8,0,FALSE,3
 5456431,Sara Okeke,30,USC Trojans,F,1,1,23,0,2,1,0,0,4,1,0,2,0,NA,0,0,0,0,0.064,-5,0,-5,0,FALSE,3
 5456433,Petra Toman,264,Washington Huskies,G,1,0,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0,0,FALSE,16
-5456856,Ayse Melek Demirer,97,Louisville Cardinals,F,1,0,15,0,1,2,0,0,1,2,0,2,0,NA,0,0,0,0,0.038,-1.5,0,-1.5,0,FALSE,7
-5456867,Favour Ossai,152,NC State Wolfpack,F,1,0,2,0,1,0,0,0,0,0,0,2,NA,NA,0,0,0,0,0.01,-0.5,0,-0.5,0,FALSE,25
 5457124,Bella Ragone,87,Notre Dame Fighting Irish,G,1,0,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0,0,FALSE,13
 5457125,Isabella Sangha,87,Notre Dame Fighting Irish,F,1,0,1,0,1,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0.7,0,0.7,0,FALSE,13
 5457128,Amari Byles,87,Notre Dame Fighting Irish,NA,1,0,10,0,1,1,0,0,1,1,1,0,0,0,NA,0,0,0,0.023,-1.1,0,-1.1,0,FALSE,13
