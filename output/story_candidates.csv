@@ -1,561 +1,1021 @@
 category,list,place,subject,team,value,detail,generated_on
-Points per game,Best,1,Tajianna Roberts,Louisville Cardinals,16.4,"5 GP, 27.0 mpg, 16.4 ppg",2026-11-16
-Points per game,Best,2,Imari Berry,Louisville Cardinals,15.2,"5 GP, 22.8 mpg, 15.2 ppg",2026-11-16
-Points per game,Best,3,Lara Somfai,TCU Horned Frogs,15,"5 GP, 21.6 mpg, 15.0 ppg",2026-11-16
-Points per game,Best,4,Clara Silva,TCU Horned Frogs,12.2,"5 GP, 19.8 mpg, 12.2 ppg",2026-11-16
-Points per game,Best,5,Jadyn Wooten,TCU Horned Frogs,11.8,"5 GP, 26.2 mpg, 11.8 ppg",2026-11-16
-Points per game,Best,6,Lanie Grant,TCU Horned Frogs,11.6,"5 GP, 27.0 mpg, 11.6 ppg",2026-11-16
-Points per game,Best,7,Zamareya Jones,Louisville Cardinals,10.2,"5 GP, 24.8 mpg, 10.2 ppg",2026-11-16
-Points per game,Best,8,Amiya Joyner,Louisville Cardinals,10,"5 GP, 16.6 mpg, 10.0 ppg",2026-11-16
-Points per game,Best,9,Ariyana Cradle,Louisville Cardinals,9.6,"5 GP, 17.4 mpg, 9.6 ppg",2026-11-16
-Points per game,Worst,1,Reagan Bender,Louisville Cardinals,1.6,"5 GP, 10.8 mpg, 1.6 ppg",2026-11-16
-Points per game,Worst,2,Deniya Prawl,Louisville Cardinals,4.2,"5 GP, 14.8 mpg, 4.2 ppg",2026-11-16
-Points per game,Worst,3,Camille Williams,TCU Horned Frogs,5.2,"5 GP, 13.6 mpg, 5.2 ppg",2026-11-16
-Points per game,Worst,4,Bella Hines,TCU Horned Frogs,5.4,"5 GP, 17.6 mpg, 5.4 ppg",2026-11-16
-Points per game,Worst,5,Carys Baker,Louisville Cardinals,6.4,"5 GP, 22.4 mpg, 6.4 ppg",2026-11-16
-Points per game,Worst,6,Grace Mbugua,Louisville Cardinals,6.6,"5 GP, 11.8 mpg, 6.6 ppg",2026-11-16
-Points per game,Worst,7,Clara Bielefeld,TCU Horned Frogs,8.2,"5 GP, 21.2 mpg, 8.2 ppg",2026-11-16
-Points per game,Worst,8,Laura Vilcinskas,TCU Horned Frogs,8.4,"5 GP, 15.4 mpg, 8.4 ppg",2026-11-16
-Points per game,Worst,9,Jessie-May Hall,TCU Horned Frogs,9,"5 GP, 21.2 mpg, 9.0 ppg",2026-11-16
-Rebounds per game,Best,1,Lara Somfai,TCU Horned Frogs,9.4,"5 GP, 21.6 mpg, 15.0 ppg",2026-11-16
-Rebounds per game,Best,2,Amiya Joyner,Louisville Cardinals,8.4,"5 GP, 16.6 mpg, 10.0 ppg",2026-11-16
-Rebounds per game,Best,3,Clara Silva,TCU Horned Frogs,6.8,"5 GP, 19.8 mpg, 12.2 ppg",2026-11-16
-Rebounds per game,Best,4,Laura Vilcinskas,TCU Horned Frogs,5.2,"5 GP, 15.4 mpg, 8.4 ppg",2026-11-16
-Rebounds per game,Best,5,Clara Bielefeld,TCU Horned Frogs,5,"5 GP, 21.2 mpg, 8.2 ppg",2026-11-16
-Rebounds per game,Best,6,Carys Baker,Louisville Cardinals,5,"5 GP, 22.4 mpg, 6.4 ppg",2026-11-16
-Rebounds per game,Best,7,Grace Mbugua,Louisville Cardinals,4.4,"5 GP, 11.8 mpg, 6.6 ppg",2026-11-16
-Rebounds per game,Best,8,Imari Berry,Louisville Cardinals,3.8,"5 GP, 22.8 mpg, 15.2 ppg",2026-11-16
-Rebounds per game,Best,9,Zamareya Jones,Louisville Cardinals,3.8,"5 GP, 24.8 mpg, 10.2 ppg",2026-11-16
-Rebounds per game,Worst,1,Lanie Grant,TCU Horned Frogs,1,"5 GP, 27.0 mpg, 11.6 ppg",2026-11-16
-Rebounds per game,Worst,2,Camille Williams,TCU Horned Frogs,1.2,"5 GP, 13.6 mpg, 5.2 ppg",2026-11-16
-Rebounds per game,Worst,3,Reagan Bender,Louisville Cardinals,1.2,"5 GP, 10.8 mpg, 1.6 ppg",2026-11-16
-Rebounds per game,Worst,4,Tajianna Roberts,Louisville Cardinals,2,"5 GP, 27.0 mpg, 16.4 ppg",2026-11-16
-Rebounds per game,Worst,5,Bella Hines,TCU Horned Frogs,2,"5 GP, 17.6 mpg, 5.4 ppg",2026-11-16
-Rebounds per game,Worst,6,Deniya Prawl,Louisville Cardinals,3,"5 GP, 14.8 mpg, 4.2 ppg",2026-11-16
-Rebounds per game,Worst,7,Ariyana Cradle,Louisville Cardinals,3.2,"5 GP, 17.4 mpg, 9.6 ppg",2026-11-16
-Rebounds per game,Worst,8,Jessie-May Hall,TCU Horned Frogs,3.2,"5 GP, 21.2 mpg, 9.0 ppg",2026-11-16
-Rebounds per game,Worst,9,Jadyn Wooten,TCU Horned Frogs,3.6,"5 GP, 26.2 mpg, 11.8 ppg",2026-11-16
-Assists per game,Best,1,Jadyn Wooten,TCU Horned Frogs,6.2,"5 GP, 26.2 mpg, 11.8 ppg",2026-11-16
-Assists per game,Best,2,Zamareya Jones,Louisville Cardinals,6,"5 GP, 24.8 mpg, 10.2 ppg",2026-11-16
-Assists per game,Best,3,Lanie Grant,TCU Horned Frogs,4,"5 GP, 27.0 mpg, 11.6 ppg",2026-11-16
-Assists per game,Best,4,Bella Hines,TCU Horned Frogs,4,"5 GP, 17.6 mpg, 5.4 ppg",2026-11-16
-Assists per game,Best,5,Imari Berry,Louisville Cardinals,3.6,"5 GP, 22.8 mpg, 15.2 ppg",2026-11-16
-Assists per game,Best,6,Clara Bielefeld,TCU Horned Frogs,3.2,"5 GP, 21.2 mpg, 8.2 ppg",2026-11-16
-Assists per game,Best,7,Jessie-May Hall,TCU Horned Frogs,2.4,"5 GP, 21.2 mpg, 9.0 ppg",2026-11-16
-Assists per game,Best,8,Tajianna Roberts,Louisville Cardinals,1.8,"5 GP, 27.0 mpg, 16.4 ppg",2026-11-16
-Assists per game,Best,9,Ariyana Cradle,Louisville Cardinals,1.8,"5 GP, 17.4 mpg, 9.6 ppg",2026-11-16
-Assists per game,Worst,1,Grace Mbugua,Louisville Cardinals,0.2,"5 GP, 11.8 mpg, 6.6 ppg",2026-11-16
-Assists per game,Worst,2,Laura Vilcinskas,TCU Horned Frogs,0.4,"5 GP, 15.4 mpg, 8.4 ppg",2026-11-16
-Assists per game,Worst,3,Reagan Bender,Louisville Cardinals,0.4,"5 GP, 10.8 mpg, 1.6 ppg",2026-11-16
-Assists per game,Worst,4,Deniya Prawl,Louisville Cardinals,0.6,"5 GP, 14.8 mpg, 4.2 ppg",2026-11-16
-Assists per game,Worst,5,Clara Silva,TCU Horned Frogs,0.8,"5 GP, 19.8 mpg, 12.2 ppg",2026-11-16
-Assists per game,Worst,6,Camille Williams,TCU Horned Frogs,0.8,"5 GP, 13.6 mpg, 5.2 ppg",2026-11-16
-Assists per game,Worst,7,Amiya Joyner,Louisville Cardinals,1,"5 GP, 16.6 mpg, 10.0 ppg",2026-11-16
-Assists per game,Worst,8,Lara Somfai,TCU Horned Frogs,1.4,"5 GP, 21.6 mpg, 15.0 ppg",2026-11-16
-Assists per game,Worst,9,Tajianna Roberts,Louisville Cardinals,1.8,"5 GP, 27.0 mpg, 16.4 ppg",2026-11-16
-Steals per game,Best,1,Zamareya Jones,Louisville Cardinals,3.4,"5 GP, 24.8 mpg, 10.2 ppg",2026-11-16
-Steals per game,Best,2,Jessie-May Hall,TCU Horned Frogs,2.6,"5 GP, 21.2 mpg, 9.0 ppg",2026-11-16
-Steals per game,Best,3,Tajianna Roberts,Louisville Cardinals,2.4,"5 GP, 27.0 mpg, 16.4 ppg",2026-11-16
-Steals per game,Best,4,Imari Berry,Louisville Cardinals,1.8,"5 GP, 22.8 mpg, 15.2 ppg",2026-11-16
-Steals per game,Best,5,Jadyn Wooten,TCU Horned Frogs,1.6,"5 GP, 26.2 mpg, 11.8 ppg",2026-11-16
-Steals per game,Best,6,Ariyana Cradle,Louisville Cardinals,1.6,"5 GP, 17.4 mpg, 9.6 ppg",2026-11-16
-Steals per game,Best,7,Carys Baker,Louisville Cardinals,1.6,"5 GP, 22.4 mpg, 6.4 ppg",2026-11-16
-Steals per game,Best,8,Bella Hines,TCU Horned Frogs,1.6,"5 GP, 17.6 mpg, 5.4 ppg",2026-11-16
-Steals per game,Best,9,Clara Bielefeld,TCU Horned Frogs,1.4,"5 GP, 21.2 mpg, 8.2 ppg",2026-11-16
-Steals per game,Worst,1,Grace Mbugua,Louisville Cardinals,0.4,"5 GP, 11.8 mpg, 6.6 ppg",2026-11-16
-Steals per game,Worst,2,Camille Williams,TCU Horned Frogs,0.4,"5 GP, 13.6 mpg, 5.2 ppg",2026-11-16
-Steals per game,Worst,3,Lara Somfai,TCU Horned Frogs,0.6,"5 GP, 21.6 mpg, 15.0 ppg",2026-11-16
-Steals per game,Worst,4,Clara Silva,TCU Horned Frogs,0.6,"5 GP, 19.8 mpg, 12.2 ppg",2026-11-16
-Steals per game,Worst,5,Deniya Prawl,Louisville Cardinals,0.6,"5 GP, 14.8 mpg, 4.2 ppg",2026-11-16
-Steals per game,Worst,6,Reagan Bender,Louisville Cardinals,0.6,"5 GP, 10.8 mpg, 1.6 ppg",2026-11-16
-Steals per game,Worst,7,Lanie Grant,TCU Horned Frogs,0.8,"5 GP, 27.0 mpg, 11.6 ppg",2026-11-16
-Steals per game,Worst,8,Amiya Joyner,Louisville Cardinals,1,"5 GP, 16.6 mpg, 10.0 ppg",2026-11-16
-Steals per game,Worst,9,Laura Vilcinskas,TCU Horned Frogs,1,"5 GP, 15.4 mpg, 8.4 ppg",2026-11-16
-Blocks per game,Best,1,Laura Vilcinskas,TCU Horned Frogs,1.2,"5 GP, 15.4 mpg, 8.4 ppg",2026-11-16
-Blocks per game,Best,2,Amiya Joyner,Louisville Cardinals,1,"5 GP, 16.6 mpg, 10.0 ppg",2026-11-16
-Blocks per game,Best,3,Carys Baker,Louisville Cardinals,1,"5 GP, 22.4 mpg, 6.4 ppg",2026-11-16
-Blocks per game,Best,4,Clara Silva,TCU Horned Frogs,0.8,"5 GP, 19.8 mpg, 12.2 ppg",2026-11-16
-Blocks per game,Best,5,Lara Somfai,TCU Horned Frogs,0.6,"5 GP, 21.6 mpg, 15.0 ppg",2026-11-16
-Blocks per game,Best,6,Clara Bielefeld,TCU Horned Frogs,0.6,"5 GP, 21.2 mpg, 8.2 ppg",2026-11-16
-Blocks per game,Best,7,Bella Hines,TCU Horned Frogs,0.6,"5 GP, 17.6 mpg, 5.4 ppg",2026-11-16
-Blocks per game,Best,8,Camille Williams,TCU Horned Frogs,0.6,"5 GP, 13.6 mpg, 5.2 ppg",2026-11-16
-Blocks per game,Best,9,Deniya Prawl,Louisville Cardinals,0.6,"5 GP, 14.8 mpg, 4.2 ppg",2026-11-16
-Blocks per game,Worst,1,Tajianna Roberts,Louisville Cardinals,0,"5 GP, 27.0 mpg, 16.4 ppg",2026-11-16
-Blocks per game,Worst,2,Lanie Grant,TCU Horned Frogs,0,"5 GP, 27.0 mpg, 11.6 ppg",2026-11-16
-Blocks per game,Worst,3,Ariyana Cradle,Louisville Cardinals,0,"5 GP, 17.4 mpg, 9.6 ppg",2026-11-16
-Blocks per game,Worst,4,Jessie-May Hall,TCU Horned Frogs,0,"5 GP, 21.2 mpg, 9.0 ppg",2026-11-16
-Blocks per game,Worst,5,Reagan Bender,Louisville Cardinals,0,"5 GP, 10.8 mpg, 1.6 ppg",2026-11-16
-Blocks per game,Worst,6,Jadyn Wooten,TCU Horned Frogs,0.2,"5 GP, 26.2 mpg, 11.8 ppg",2026-11-16
-Blocks per game,Worst,7,Imari Berry,Louisville Cardinals,0.4,"5 GP, 22.8 mpg, 15.2 ppg",2026-11-16
-Blocks per game,Worst,8,Zamareya Jones,Louisville Cardinals,0.4,"5 GP, 24.8 mpg, 10.2 ppg",2026-11-16
-Blocks per game,Worst,9,Grace Mbugua,Louisville Cardinals,0.4,"5 GP, 11.8 mpg, 6.6 ppg",2026-11-16
-Turnovers per game (20+ mpg),Best,1,Lanie Grant,TCU Horned Frogs,0.6,"5 GP, 27.0 mpg, 11.6 ppg",2026-11-16
-Turnovers per game (20+ mpg),Best,2,Tajianna Roberts,Louisville Cardinals,1,"5 GP, 27.0 mpg, 16.4 ppg",2026-11-16
-Turnovers per game (20+ mpg),Best,3,Jadyn Wooten,TCU Horned Frogs,1,"5 GP, 26.2 mpg, 11.8 ppg",2026-11-16
-Turnovers per game (20+ mpg),Best,4,Carys Baker,Louisville Cardinals,1,"5 GP, 22.4 mpg, 6.4 ppg",2026-11-16
-Turnovers per game (20+ mpg),Worst,1,Jessie-May Hall,TCU Horned Frogs,2.2,"5 GP, 21.2 mpg, 9.0 ppg",2026-11-16
-Turnovers per game (20+ mpg),Worst,2,Lara Somfai,TCU Horned Frogs,1.8,"5 GP, 21.6 mpg, 15.0 ppg",2026-11-16
-Turnovers per game (20+ mpg),Worst,3,Clara Bielefeld,TCU Horned Frogs,1.6,"5 GP, 21.2 mpg, 8.2 ppg",2026-11-16
-Turnovers per game (20+ mpg),Worst,4,Imari Berry,Louisville Cardinals,1.2,"5 GP, 22.8 mpg, 15.2 ppg",2026-11-16
-Field goal pct (5+ FGA per game),Best,1,Clara Silva,TCU Horned Frogs,66.7,"5 GP, 19.8 mpg, 12.2 ppg",2026-11-16
-Field goal pct (5+ FGA per game),Best,2,Amiya Joyner,Louisville Cardinals,62.5,"5 GP, 16.6 mpg, 10.0 ppg",2026-11-16
-Field goal pct (5+ FGA per game),Best,3,Ariyana Cradle,Louisville Cardinals,61.3,"5 GP, 17.4 mpg, 9.6 ppg",2026-11-16
-Field goal pct (5+ FGA per game),Best,4,Imari Berry,Louisville Cardinals,56,"5 GP, 22.8 mpg, 15.2 ppg",2026-11-16
-Field goal pct (5+ FGA per game),Best,5,Clara Bielefeld,TCU Horned Frogs,56,"5 GP, 21.2 mpg, 8.2 ppg",2026-11-16
-Field goal pct (5+ FGA per game),Best,6,Jessie-May Hall,TCU Horned Frogs,54.1,"5 GP, 21.2 mpg, 9.0 ppg",2026-11-16
-Field goal pct (5+ FGA per game),Worst,1,Carys Baker,Louisville Cardinals,30.8,"5 GP, 22.4 mpg, 6.4 ppg",2026-11-16
-Field goal pct (5+ FGA per game),Worst,2,Bella Hines,TCU Horned Frogs,40.7,"5 GP, 17.6 mpg, 5.4 ppg",2026-11-16
-Field goal pct (5+ FGA per game),Worst,3,Zamareya Jones,Louisville Cardinals,44.4,"5 GP, 24.8 mpg, 10.2 ppg",2026-11-16
-Field goal pct (5+ FGA per game),Worst,4,Lanie Grant,TCU Horned Frogs,47.6,"5 GP, 27.0 mpg, 11.6 ppg",2026-11-16
-Field goal pct (5+ FGA per game),Worst,5,Tajianna Roberts,Louisville Cardinals,49.2,"5 GP, 27.0 mpg, 16.4 ppg",2026-11-16
-Field goal pct (5+ FGA per game),Worst,6,Lara Somfai,TCU Horned Frogs,51.8,"5 GP, 21.6 mpg, 15.0 ppg",2026-11-16
-Three-point pct (2.5+ 3PA per game),Best,1,Imari Berry,Louisville Cardinals,45.2,"5 GP, 22.8 mpg, 15.2 ppg",2026-11-16
-Three-point pct (2.5+ 3PA per game),Best,2,Lanie Grant,TCU Horned Frogs,37.1,"5 GP, 27.0 mpg, 11.6 ppg",2026-11-16
-Three-point pct (2.5+ 3PA per game),Best,3,Bella Hines,TCU Horned Frogs,35.7,"5 GP, 17.6 mpg, 5.4 ppg",2026-11-16
-Three-point pct (2.5+ 3PA per game),Best,4,Tajianna Roberts,Louisville Cardinals,31,"5 GP, 27.0 mpg, 16.4 ppg",2026-11-16
-Three-point pct (2.5+ 3PA per game),Best,5,Jadyn Wooten,TCU Horned Frogs,29.4,"5 GP, 26.2 mpg, 11.8 ppg",2026-11-16
-Three-point pct (2.5+ 3PA per game),Worst,1,Lara Somfai,TCU Horned Frogs,20,"5 GP, 21.6 mpg, 15.0 ppg",2026-11-16
-Three-point pct (2.5+ 3PA per game),Worst,2,Jessie-May Hall,TCU Horned Frogs,20,"5 GP, 21.2 mpg, 9.0 ppg",2026-11-16
-Three-point pct (2.5+ 3PA per game),Worst,3,Carys Baker,Louisville Cardinals,25.9,"5 GP, 22.4 mpg, 6.4 ppg",2026-11-16
-Three-point pct (2.5+ 3PA per game),Worst,4,Zamareya Jones,Louisville Cardinals,26.7,"5 GP, 24.8 mpg, 10.2 ppg",2026-11-16
-Three-point pct (2.5+ 3PA per game),Worst,5,Camille Williams,TCU Horned Frogs,26.7,"5 GP, 13.6 mpg, 5.2 ppg",2026-11-16
-Free throw pct (2+ FTA per game),Best,1,Clara Bielefeld,TCU Horned Frogs,90,"5 GP, 21.2 mpg, 8.2 ppg",2026-11-16
-Free throw pct (2+ FTA per game),Best,2,Laura Vilcinskas,TCU Horned Frogs,87,"5 GP, 15.4 mpg, 8.4 ppg",2026-11-16
-Free throw pct (2+ FTA per game),Best,3,Lara Somfai,TCU Horned Frogs,86.7,"5 GP, 21.6 mpg, 15.0 ppg",2026-11-16
-Free throw pct (2+ FTA per game),Best,4,Clara Silva,TCU Horned Frogs,81.8,"5 GP, 19.8 mpg, 12.2 ppg",2026-11-16
-Free throw pct (2+ FTA per game),Best,5,Jadyn Wooten,TCU Horned Frogs,80,"5 GP, 26.2 mpg, 11.8 ppg",2026-11-16
-Free throw pct (2+ FTA per game),Worst,1,Camille Williams,TCU Horned Frogs,60,"5 GP, 13.6 mpg, 5.2 ppg",2026-11-16
-Free throw pct (2+ FTA per game),Worst,2,Tajianna Roberts,Louisville Cardinals,68.2,"5 GP, 27.0 mpg, 16.4 ppg",2026-11-16
-Free throw pct (2+ FTA per game),Worst,3,Zamareya Jones,Louisville Cardinals,70,"5 GP, 24.8 mpg, 10.2 ppg",2026-11-16
-Free throw pct (2+ FTA per game),Worst,4,Ariyana Cradle,Louisville Cardinals,72.7,"5 GP, 17.4 mpg, 9.6 ppg",2026-11-16
-Free throw pct (2+ FTA per game),Worst,5,Amiya Joyner,Louisville Cardinals,76.9,"5 GP, 16.6 mpg, 10.0 ppg",2026-11-16
-True shooting pct (8+ FGA per game),Best,1,Imari Berry,Louisville Cardinals,71.6,"5 GP, 22.8 mpg, 15.2 ppg",2026-11-16
-True shooting pct (8+ FGA per game),Best,2,Lanie Grant,TCU Horned Frogs,65,"5 GP, 27.0 mpg, 11.6 ppg",2026-11-16
-True shooting pct (8+ FGA per game),Best,3,Jadyn Wooten,TCU Horned Frogs,63.3,"5 GP, 26.2 mpg, 11.8 ppg",2026-11-16
-True shooting pct (8+ FGA per game),Worst,1,Zamareya Jones,Louisville Cardinals,51.6,"5 GP, 24.8 mpg, 10.2 ppg",2026-11-16
-True shooting pct (8+ FGA per game),Worst,2,Tajianna Roberts,Louisville Cardinals,59.7,"5 GP, 27.0 mpg, 16.4 ppg",2026-11-16
-True shooting pct (8+ FGA per game),Worst,3,Lara Somfai,TCU Horned Frogs,59.9,"5 GP, 21.6 mpg, 15.0 ppg",2026-11-16
-Points per 40 minutes (15+ mpg),Best,1,Lara Somfai,TCU Horned Frogs,27.78,"5 GP, 21.6 mpg, 15.0 ppg",2026-11-16
-Points per 40 minutes (15+ mpg),Best,2,Imari Berry,Louisville Cardinals,26.67,"5 GP, 22.8 mpg, 15.2 ppg",2026-11-16
-Points per 40 minutes (15+ mpg),Best,3,Clara Silva,TCU Horned Frogs,24.65,"5 GP, 19.8 mpg, 12.2 ppg",2026-11-16
-Points per 40 minutes (15+ mpg),Best,4,Tajianna Roberts,Louisville Cardinals,24.3,"5 GP, 27.0 mpg, 16.4 ppg",2026-11-16
-Points per 40 minutes (15+ mpg),Best,5,Amiya Joyner,Louisville Cardinals,24.1,"5 GP, 16.6 mpg, 10.0 ppg",2026-11-16
-Points per 40 minutes (15+ mpg),Best,6,Ariyana Cradle,Louisville Cardinals,22.07,"5 GP, 17.4 mpg, 9.6 ppg",2026-11-16
-Points per 40 minutes (15+ mpg),Best,7,Laura Vilcinskas,TCU Horned Frogs,21.82,"5 GP, 15.4 mpg, 8.4 ppg",2026-11-16
-Points per 40 minutes (15+ mpg),Worst,1,Carys Baker,Louisville Cardinals,11.43,"5 GP, 22.4 mpg, 6.4 ppg",2026-11-16
-Points per 40 minutes (15+ mpg),Worst,2,Bella Hines,TCU Horned Frogs,12.27,"5 GP, 17.6 mpg, 5.4 ppg",2026-11-16
-Points per 40 minutes (15+ mpg),Worst,3,Clara Bielefeld,TCU Horned Frogs,15.47,"5 GP, 21.2 mpg, 8.2 ppg",2026-11-16
-Points per 40 minutes (15+ mpg),Worst,4,Zamareya Jones,Louisville Cardinals,16.45,"5 GP, 24.8 mpg, 10.2 ppg",2026-11-16
-Points per 40 minutes (15+ mpg),Worst,5,Jessie-May Hall,TCU Horned Frogs,16.98,"5 GP, 21.2 mpg, 9.0 ppg",2026-11-16
-Points per 40 minutes (15+ mpg),Worst,6,Lanie Grant,TCU Horned Frogs,17.18,"5 GP, 27.0 mpg, 11.6 ppg",2026-11-16
-Points per 40 minutes (15+ mpg),Worst,7,Jadyn Wooten,TCU Horned Frogs,18.02,"5 GP, 26.2 mpg, 11.8 ppg",2026-11-16
-Share of team points,Best,1,Tajianna Roberts,Louisville Cardinals,18.8,"5 GP, 27.0 mpg, 16.4 ppg",2026-11-16
-Share of team points,Best,2,Imari Berry,Louisville Cardinals,16.9,"5 GP, 22.8 mpg, 15.2 ppg",2026-11-16
-Share of team points,Best,3,Lara Somfai,TCU Horned Frogs,16,"5 GP, 21.6 mpg, 15.0 ppg",2026-11-16
-Share of team points,Best,4,Jadyn Wooten,TCU Horned Frogs,13.3,"5 GP, 26.2 mpg, 11.8 ppg",2026-11-16
-Share of team points,Best,5,Clara Silva,TCU Horned Frogs,13,"5 GP, 19.8 mpg, 12.2 ppg",2026-11-16
-Share of team points,Best,6,Lanie Grant,TCU Horned Frogs,12.3,"5 GP, 27.0 mpg, 11.6 ppg",2026-11-16
-Share of team points,Best,7,Zamareya Jones,Louisville Cardinals,11.3,"5 GP, 24.8 mpg, 10.2 ppg",2026-11-16
-Share of team points,Best,8,Ariyana Cradle,Louisville Cardinals,11.2,"5 GP, 17.4 mpg, 9.6 ppg",2026-11-16
-Share of team points,Best,9,Amiya Joyner,Louisville Cardinals,11.1,"5 GP, 16.6 mpg, 10.0 ppg",2026-11-16
-Share of team points,Worst,1,Reagan Bender,Louisville Cardinals,1.3,"5 GP, 10.8 mpg, 1.6 ppg",2026-11-16
-Share of team points,Worst,2,Deniya Prawl,Louisville Cardinals,4.6,"5 GP, 14.8 mpg, 4.2 ppg",2026-11-16
-Share of team points,Worst,3,Camille Williams,TCU Horned Frogs,5.3,"5 GP, 13.6 mpg, 5.2 ppg",2026-11-16
-Share of team points,Worst,4,Bella Hines,TCU Horned Frogs,5.7,"5 GP, 17.6 mpg, 5.4 ppg",2026-11-16
-Share of team points,Worst,5,Carys Baker,Louisville Cardinals,7.1,"5 GP, 22.4 mpg, 6.4 ppg",2026-11-16
-Share of team points,Worst,6,Grace Mbugua,Louisville Cardinals,7.5,"5 GP, 11.8 mpg, 6.6 ppg",2026-11-16
-Share of team points,Worst,7,Laura Vilcinskas,TCU Horned Frogs,8.8,"5 GP, 15.4 mpg, 8.4 ppg",2026-11-16
-Share of team points,Worst,8,Clara Bielefeld,TCU Horned Frogs,8.8,"5 GP, 21.2 mpg, 8.2 ppg",2026-11-16
-Share of team points,Worst,9,Jessie-May Hall,TCU Horned Frogs,9.8,"5 GP, 21.2 mpg, 9.0 ppg",2026-11-16
-Usage: share of team plays,Best,1,Lara Somfai,TCU Horned Frogs,16.8,"5 GP, 21.6 mpg, 15.0 ppg",2026-11-16
-Usage: share of team plays,Best,2,Tajianna Roberts,Louisville Cardinals,16.4,"5 GP, 27.0 mpg, 16.4 ppg",2026-11-16
-Usage: share of team plays,Best,3,Imari Berry,Louisville Cardinals,13.1,"5 GP, 22.8 mpg, 15.2 ppg",2026-11-16
-Usage: share of team plays,Best,4,Zamareya Jones,Louisville Cardinals,12.3,"5 GP, 24.8 mpg, 10.2 ppg",2026-11-16
-Usage: share of team plays,Best,5,Jadyn Wooten,TCU Horned Frogs,12.1,"5 GP, 26.2 mpg, 11.8 ppg",2026-11-16
-Usage: share of team plays,Best,6,Jessie-May Hall,TCU Horned Frogs,11.8,"5 GP, 21.2 mpg, 9.0 ppg",2026-11-16
-Usage: share of team plays,Best,7,Clara Silva,TCU Horned Frogs,11.2,"5 GP, 19.8 mpg, 12.2 ppg",2026-11-16
-Usage: share of team plays,Best,8,Lanie Grant,TCU Horned Frogs,11.2,"5 GP, 27.0 mpg, 11.6 ppg",2026-11-16
-Usage: share of team plays,Best,9,Ariyana Cradle,Louisville Cardinals,10.1,"5 GP, 17.4 mpg, 9.6 ppg",2026-11-16
-Usage: share of team plays,Worst,1,Reagan Bender,Louisville Cardinals,3.5,"5 GP, 10.8 mpg, 1.6 ppg",2026-11-16
-Usage: share of team plays,Worst,2,Deniya Prawl,Louisville Cardinals,5.9,"5 GP, 14.8 mpg, 4.2 ppg",2026-11-16
-Usage: share of team plays,Worst,3,Camille Williams,TCU Horned Frogs,6,"5 GP, 13.6 mpg, 5.2 ppg",2026-11-16
-Usage: share of team plays,Worst,4,Grace Mbugua,Louisville Cardinals,7.3,"5 GP, 11.8 mpg, 6.6 ppg",2026-11-16
-Usage: share of team plays,Worst,5,Laura Vilcinskas,TCU Horned Frogs,7.4,"5 GP, 15.4 mpg, 8.4 ppg",2026-11-16
-Usage: share of team plays,Worst,6,Bella Hines,TCU Horned Frogs,7.8,"5 GP, 17.6 mpg, 5.4 ppg",2026-11-16
-Usage: share of team plays,Worst,7,Amiya Joyner,Louisville Cardinals,8.5,"5 GP, 16.6 mpg, 10.0 ppg",2026-11-16
-Usage: share of team plays,Worst,8,Clara Bielefeld,TCU Horned Frogs,8.8,"5 GP, 21.2 mpg, 8.2 ppg",2026-11-16
-Usage: share of team plays,Worst,9,Carys Baker,Louisville Cardinals,9.8,"5 GP, 22.4 mpg, 6.4 ppg",2026-11-16
-Average Game Score,Best,1,Imari Berry,Louisville Cardinals,14.34,"5 GP, 22.8 mpg, 15.2 ppg",2026-11-16
-Average Game Score,Best,2,Jadyn Wooten,TCU Horned Frogs,13.8,"5 GP, 26.2 mpg, 11.8 ppg",2026-11-16
-Average Game Score,Best,3,Tajianna Roberts,Louisville Cardinals,13.16,"5 GP, 27.0 mpg, 16.4 ppg",2026-11-16
-Average Game Score,Best,4,Zamareya Jones,Louisville Cardinals,12.6,"5 GP, 24.8 mpg, 10.2 ppg",2026-11-16
-Average Game Score,Best,5,Lara Somfai,TCU Horned Frogs,12.5,"5 GP, 21.6 mpg, 15.0 ppg",2026-11-16
-Average Game Score,Best,6,Amiya Joyner,Louisville Cardinals,12.48,"5 GP, 16.6 mpg, 10.0 ppg",2026-11-16
-Average Game Score,Best,7,Clara Silva,TCU Horned Frogs,12.26,"5 GP, 19.8 mpg, 12.2 ppg",2026-11-16
-Average Game Score,Best,8,Lanie Grant,TCU Horned Frogs,9.9,"5 GP, 27.0 mpg, 11.6 ppg",2026-11-16
-Average Game Score,Best,9,Laura Vilcinskas,TCU Horned Frogs,9.74,"5 GP, 15.4 mpg, 8.4 ppg",2026-11-16
-Average Game Score,Worst,1,Reagan Bender,Louisville Cardinals,0.4,"5 GP, 10.8 mpg, 1.6 ppg",2026-11-16
-Average Game Score,Worst,2,Deniya Prawl,Louisville Cardinals,3.6,"5 GP, 14.8 mpg, 4.2 ppg",2026-11-16
-Average Game Score,Worst,3,Grace Mbugua,Louisville Cardinals,4.06,"5 GP, 11.8 mpg, 6.6 ppg",2026-11-16
-Average Game Score,Worst,4,Camille Williams,TCU Horned Frogs,4.42,"5 GP, 13.6 mpg, 5.2 ppg",2026-11-16
-Average Game Score,Worst,5,Carys Baker,Louisville Cardinals,6.44,"5 GP, 22.4 mpg, 6.4 ppg",2026-11-16
-Average Game Score,Worst,6,Bella Hines,TCU Horned Frogs,6.48,"5 GP, 17.6 mpg, 5.4 ppg",2026-11-16
-Average Game Score,Worst,7,Jessie-May Hall,TCU Horned Frogs,8.22,"5 GP, 21.2 mpg, 9.0 ppg",2026-11-16
-Average Game Score,Worst,8,Ariyana Cradle,Louisville Cardinals,8.28,"5 GP, 17.4 mpg, 9.6 ppg",2026-11-16
-Average Game Score,Worst,9,Clara Bielefeld,TCU Horned Frogs,9.46,"5 GP, 21.2 mpg, 8.2 ppg",2026-11-16
-Bench players: points per 40 minutes,Best,1,Grace Mbugua,Louisville Cardinals,22.37,"5 GP, 11.8 mpg, 6.6 ppg",2026-11-16
-Bench players: points per 40 minutes,Best,2,Ariyana Cradle,Louisville Cardinals,22.07,"5 GP, 17.4 mpg, 9.6 ppg",2026-11-16
-Bench players: points per 40 minutes,Best,3,Laura Vilcinskas,TCU Horned Frogs,21.82,"5 GP, 15.4 mpg, 8.4 ppg",2026-11-16
-Bench players: points per 40 minutes,Worst,1,Reagan Bender,Louisville Cardinals,5.93,"5 GP, 10.8 mpg, 1.6 ppg",2026-11-16
-Bench players: points per 40 minutes,Worst,2,Deniya Prawl,Louisville Cardinals,11.35,"5 GP, 14.8 mpg, 4.2 ppg",2026-11-16
-Bench players: points per 40 minutes,Worst,3,Camille Williams,TCU Horned Frogs,15.29,"5 GP, 13.6 mpg, 5.2 ppg",2026-11-16
-"Single-game Game Score, last 7 days",Best games,1,JuJu Watkins,USC Trojans,34.8,"32 pts, 16 reb, 6 ast on 10-19 FG vs Utah State Aggies (2026-11-08)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,2,Hannah Hidalgo,Notre Dame Fighting Irish,32.9,"31 pts, 7 reb, 7 ast on 12-19 FG vs DePaul Blue Demons (2026-11-14)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,3,Sarah Strong,UConn Huskies,29.5,"39 pts, 10 reb, 3 ast on 15-26 FG vs Iowa Hawkeyes (2026-11-08)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,4,Britt Prince,Nebraska Cornhuskers,27.2,"35 pts, 2 reb, 2 ast on 12-18 FG vs Kansas Jayhawks (2026-11-14)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,5,Mikayla Blakes,Vanderbilt Commodores,26.4,"25 pts, 3 reb, 6 ast on 7-15 FG vs Morehead State Eagles (2026-11-09)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,6,Ajsa Sivka,Kentucky Wildcats,26.1,"32 pts, 5 reb, 3 ast on 11-17 FG vs NC State Wolfpack (2026-11-08)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,7,Madison Booker,Texas Longhorns,25.7,"30 pts, 3 reb, 6 ast on 10-14 FG vs Northern Colorado Bears (2026-11-07)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,8,Sarah Strong,UConn Huskies,25.6,"25 pts, 9 reb, 5 ast on 9-12 FG vs Ohio State Buckeyes (2026-11-12)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,9,Grace Grocholski,Minnesota Golden Gophers,25.6,"25 pts, 11 reb, 4 ast on 9-17 FG vs Marquette Golden Eagles (2026-11-07)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,10,Olivia Olson,Michigan Wolverines,25.5,"19 pts, 4 reb, 7 ast on 7-9 FG vs Wright State Raiders (2026-11-08)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,11,Talaysia Cooper,Ole Miss Rebels,25.3,"29 pts, 2 reb, 2 ast on 10-16 FG vs UAlbany Great Danes (2026-11-11)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,12,Kate Harpring,North Carolina Tar Heels,25.1,"30 pts, 7 reb, 3 ast on 11-21 FG vs Pennsylvania Quakers (2026-11-14)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,13,Sahara Williams,Oklahoma Sooners,24.5,"21 pts, 10 reb, 10 ast on 8-19 FG vs Oral Roberts Golden Eagles (2026-11-13)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,14,Jazzy Davidson,USC Trojans,24.4,"24 pts, 4 reb, 4 ast on 9-17 FG vs Charleston Cougars (2026-11-10)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,15,JuJu Watkins,USC Trojans,24.2,"20 pts, 4 reb, 6 ast on 7-13 FG vs Charleston Cougars (2026-11-10)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,16,Elsa Lemmila,Ohio State Buckeyes,23.8,"19 pts, 12 reb, 1 ast on 7-7 FG vs Mercyhurst Lakers (2026-11-08)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,17,Mia Woolfolk,Vanderbilt Commodores,23.5,"27 pts, 3 reb, 0 ast on 12-14 FG vs Western Kentucky Lady Toppers (2026-11-11)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,18,Hannah Hidalgo,Notre Dame Fighting Irish,23.2,"23 pts, 10 reb, 5 ast on 7-13 FG vs Detroit Mercy Titans (2026-11-10)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,19,Emily McDonald,Kentucky Wildcats,22.7,"27 pts, 3 reb, 0 ast on 9-12 FG vs Evansville Purple Aces (2026-11-11)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,20,MiLaysia Fulwiley,LSU Tigers,22.7,"23 pts, 2 reb, 3 ast on 9-14 FG vs Denver Pioneers (2026-11-13)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,21,Mikaylah Williams,LSU Tigers,22.3,"20 pts, 7 reb, 3 ast on 9-16 FG vs Denver Pioneers (2026-11-13)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,22,Jayda Clark,Texas Longhorns,22.1,"24 pts, 5 reb, 3 ast on 10-15 FG vs South Dakota State Jackrabbits (2026-11-11)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,23,Khamil Pierre,NC State Wolfpack,22,"34 pts, 5 reb, 0 ast on 12-25 FG vs Kentucky Wildcats (2026-11-08)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,24,Oluchi Okananwa,Maryland Terrapins,21.9,"24 pts, 6 reb, 2 ast on 9-13 FG vs George Mason Patriots (2026-11-08)",2026-11-16
-"Single-game Game Score, last 7 days",Best games,25,Leah Macy,Notre Dame Fighting Irish,21.1,"24 pts, 9 reb, 1 ast on 10-13 FG vs DePaul Blue Demons (2026-11-14)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,1,Achol Akot,North Carolina Tar Heels,-4.9,"0 pts, 2 reb, 1 ast on 0-4 FG vs South Carolina Gamecocks (2026-11-08)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,2,Jovana Popovic,UConn Huskies,-3.2,"2 pts, 4 reb, 1 ast on 1-7 FG vs Ohio State Buckeyes (2026-11-12)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,3,Kate Harpring,North Carolina Tar Heels,-2.7,"8 pts, 7 reb, 2 ast on 3-16 FG vs South Carolina Gamecocks (2026-11-08)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,4,Blanca Quinonez,UConn Huskies,-2.5,"0 pts, 5 reb, 3 ast on 0-5 FG vs Ohio State Buckeyes (2026-11-12)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,5,Bella Ragone,Notre Dame Fighting Irish,-2.1,"2 pts, 0 reb, 0 ast on 1-4 FG vs Detroit Mercy Titans (2026-11-10)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,6,Elsa Lemmila,Ohio State Buckeyes,-1.5,"4 pts, 1 reb, 2 ast on 2-7 FG vs UConn Huskies (2026-11-12)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,7,Ky'She Lunan,NC State Wolfpack,-1.5,"2 pts, 2 reb, 0 ast on 1-5 FG vs Kentucky Wildcats (2026-11-08)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,8,Caya Smith,Oklahoma Sooners,-1.4,"0 pts, 2 reb, 4 ast on 0-5 FG vs Oral Roberts Golden Eagles (2026-11-13)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,9,Gabby White,North Carolina Tar Heels,-1.4,"2 pts, 7 reb, 0 ast on 0-5 FG vs Pennsylvania Quakers (2026-11-14)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,10,Bryn Martin,Ohio State Buckeyes,-1.4,"0 pts, 0 reb, 0 ast on 0-3 FG vs Mercyhurst Lakers (2026-11-08)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,11,Tayla Thomas,Minnesota Golden Gophers,-1.3,"4 pts, 2 reb, 0 ast on 2-10 FG vs Kansas State Wildcats (2026-11-14)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,12,Madison Greene,Vanderbilt Commodores,-1.2,"0 pts, 0 reb, 2 ast on 0-2 FG vs Morehead State Eagles (2026-11-09)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,13,Logan Nissley,Nebraska Cornhuskers,-1.1,"2 pts, 1 reb, 3 ast on 0-3 FG vs North Carolina A&T Aggies (2026-11-10)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,14,Vienna Murray,Oklahoma Sooners,-1,"0 pts, 1 reb, 1 ast on 0-2 FG vs San José State Spartans (2026-11-10)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,15,Kennedy Klick,Minnesota Golden Gophers,-0.9,"0 pts, 2 reb, 3 ast on 0-0 FG vs Southern Jaguars (2026-11-10)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,16,Taissa Queiroz,North Carolina Tar Heels,-0.5,"4 pts, 4 reb, 0 ast on 2-5 FG vs Pennsylvania Quakers (2026-11-14)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,17,Reniya Kelly,North Carolina Tar Heels,-0.4,"0 pts, 2 reb, 3 ast on 0-3 FG vs South Carolina Gamecocks (2026-11-08)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,18,Rainey Welson,Maryland Terrapins,-0.1,"7 pts, 0 reb, 0 ast on 2-9 FG vs George Mason Patriots (2026-11-08)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,19,Zya Vann,Texas Longhorns,-0.1,"0 pts, 4 reb, 1 ast on 0-6 FG vs Northern Colorado Bears (2026-11-07)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,20,Nene Ndiaye,Oklahoma State Cowgirls,-0.1,"3 pts, 3 reb, 0 ast on 1-6 FG vs Tulsa Golden Hurricane (2026-11-12)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,21,Desrae Kyles,Ole Miss Rebels,0.3,"0 pts, 5 reb, 1 ast on 0-2 FG vs UAlbany Great Danes (2026-11-11)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,22,Jordan Lee,South Carolina Gamecocks,0.3,"6 pts, 2 reb, 0 ast on 3-7 FG vs Clemson Tigers (2026-11-12)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,23,Callin Hake,Oklahoma State Cowgirls,0.4,"5 pts, 1 reb, 0 ast on 2-5 FG vs Tulsa Golden Hurricane (2026-11-12)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,24,McKenna Woliczko,Iowa Hawkeyes,0.7,"4 pts, 2 reb, 1 ast on 1-5 FG vs UConn Huskies (2026-11-08)",2026-11-16
-"Single-game Game Score, last 7 days",Worst games,25,Tori Oehrlein,Minnesota Golden Gophers,0.8,"4 pts, 4 reb, 1 ast on 2-5 FG vs Kansas State Wildcats (2026-11-14)",2026-11-16
-Team net rating,Best,1,LSU Tigers,LSU Tigers,100.69,"4 GP, AP #9",2026-11-16
-Team net rating,Best,2,USC Trojans,USC Trojans,77.1,"3 GP, AP #3",2026-11-16
-Team net rating,Best,3,Illinois Fighting Illini,Illinois Fighting Illini,76.32,"2 GP, AP #22",2026-11-16
-Team net rating,Best,4,TCU Horned Frogs,TCU Horned Frogs,69.58,"5 GP, AP #15",2026-11-16
-Team net rating,Best,5,Vanderbilt Commodores,Vanderbilt Commodores,68.94,"4 GP, AP #8",2026-11-16
-Team net rating,Best,6,Kentucky Wildcats,Kentucky Wildcats,63.94,"4 GP, AP #12",2026-11-16
-Team net rating,Best,7,Texas Longhorns,Texas Longhorns,61.11,"4 GP, AP #6",2026-11-16
-Team net rating,Best,8,Nebraska Cornhuskers,Nebraska Cornhuskers,55.65,"4 GP, AP #25",2026-11-16
-Team net rating,Best,9,Louisville Cardinals,Louisville Cardinals,53.31,"5 GP, AP #7",2026-11-16
-Team net rating,Best,10,Notre Dame Fighting Irish,Notre Dame Fighting Irish,53.31,"4 GP, AP #13",2026-11-16
-Team net rating,Worst,1,Maryland Terrapins,Maryland Terrapins,6.64,"2 GP, AP #19",2026-11-16
-Team net rating,Worst,2,North Carolina Tar Heels,North Carolina Tar Heels,9.82,"4 GP, AP #23",2026-11-16
-Team net rating,Worst,3,West Virginia Mountaineers,West Virginia Mountaineers,16.25,"4 GP, AP #24",2026-11-16
-Team net rating,Worst,4,Minnesota Golden Gophers,Minnesota Golden Gophers,24.34,"4 GP, AP #18",2026-11-16
-Team net rating,Worst,5,NC State Wolfpack,NC State Wolfpack,27.07,4 GP,2026-11-16
-Team net rating,Worst,6,UConn Huskies,UConn Huskies,31.67,"4 GP, AP #4",2026-11-16
-Team net rating,Worst,7,Washington Huskies,Washington Huskies,32.66,"3 GP, AP #16",2026-11-16
-Team net rating,Worst,8,South Carolina Gamecocks,South Carolina Gamecocks,34.09,"3 GP, AP #1",2026-11-16
-Team net rating,Worst,9,Iowa Hawkeyes,Iowa Hawkeyes,34.96,"4 GP, AP #10",2026-11-16
-Team net rating,Worst,10,Ohio State Buckeyes,Ohio State Buckeyes,36.23,"4 GP, AP #17",2026-11-16
-Team offensive rating,Best,1,USC Trojans,USC Trojans,144.35,"3 GP, AP #3",2026-11-16
-Team offensive rating,Best,2,LSU Tigers,LSU Tigers,144.23,"4 GP, AP #9",2026-11-16
-Team offensive rating,Best,3,Vanderbilt Commodores,Vanderbilt Commodores,136.07,"4 GP, AP #8",2026-11-16
-Team offensive rating,Best,4,TCU Horned Frogs,TCU Horned Frogs,133.8,"5 GP, AP #15",2026-11-16
-Team offensive rating,Best,5,Notre Dame Fighting Irish,Notre Dame Fighting Irish,132.17,"4 GP, AP #13",2026-11-16
-Team offensive rating,Best,6,Illinois Fighting Illini,Illinois Fighting Illini,131.99,"2 GP, AP #22",2026-11-16
-Team offensive rating,Best,7,Texas Longhorns,Texas Longhorns,130.94,"4 GP, AP #6",2026-11-16
-Team offensive rating,Best,8,Kentucky Wildcats,Kentucky Wildcats,125.73,"4 GP, AP #12",2026-11-16
-Team offensive rating,Best,9,Nebraska Cornhuskers,Nebraska Cornhuskers,121.67,"4 GP, AP #25",2026-11-16
-Team offensive rating,Best,10,Louisville Cardinals,Louisville Cardinals,120.53,"5 GP, AP #7",2026-11-16
-Team offensive rating,Worst,1,North Carolina Tar Heels,North Carolina Tar Heels,101.45,"4 GP, AP #23",2026-11-16
-Team offensive rating,Worst,2,West Virginia Mountaineers,West Virginia Mountaineers,101.63,"4 GP, AP #24",2026-11-16
-Team offensive rating,Worst,3,Maryland Terrapins,Maryland Terrapins,105.41,"2 GP, AP #19",2026-11-16
-Team offensive rating,Worst,4,UCLA Bruins,UCLA Bruins,107.06,"3 GP, AP #10",2026-11-16
-Team offensive rating,Worst,5,Ohio State Buckeyes,Ohio State Buckeyes,107.47,"4 GP, AP #17",2026-11-16
-Team offensive rating,Worst,6,Washington Huskies,Washington Huskies,108.17,"3 GP, AP #16",2026-11-16
-Team offensive rating,Worst,7,NC State Wolfpack,NC State Wolfpack,109.6,4 GP,2026-11-16
-Team offensive rating,Worst,8,South Carolina Gamecocks,South Carolina Gamecocks,110.05,"3 GP, AP #1",2026-11-16
-Team offensive rating,Worst,9,Ole Miss Rebels,Ole Miss Rebels,110.07,"3 GP, AP #21",2026-11-16
-Team offensive rating,Worst,10,Iowa Hawkeyes,Iowa Hawkeyes,110.33,"4 GP, AP #10",2026-11-16
-Team defensive rating,Best,1,LSU Tigers,LSU Tigers,43.54,"4 GP, AP #9",2026-11-16
-Team defensive rating,Best,2,Illinois Fighting Illini,Illinois Fighting Illini,55.67,"2 GP, AP #22",2026-11-16
-Team defensive rating,Best,3,Ole Miss Rebels,Ole Miss Rebels,58.1,"3 GP, AP #21",2026-11-16
-Team defensive rating,Best,4,Kentucky Wildcats,Kentucky Wildcats,61.79,"4 GP, AP #12",2026-11-16
-Team defensive rating,Best,5,TCU Horned Frogs,TCU Horned Frogs,64.22,"5 GP, AP #15",2026-11-16
-Team defensive rating,Best,6,Duke Blue Devils,Duke Blue Devils,64.91,"3 GP, AP #5",2026-11-16
-Team defensive rating,Best,7,UCLA Bruins,UCLA Bruins,65.68,"3 GP, AP #10",2026-11-16
-Team defensive rating,Best,8,Nebraska Cornhuskers,Nebraska Cornhuskers,66.02,"4 GP, AP #25",2026-11-16
-Team defensive rating,Best,9,Oklahoma State Cowgirls,Oklahoma State Cowgirls,66.8,"4 GP, AP #19",2026-11-16
-Team defensive rating,Best,10,Vanderbilt Commodores,Vanderbilt Commodores,67.13,"4 GP, AP #8",2026-11-16
-Team defensive rating,Worst,1,Maryland Terrapins,Maryland Terrapins,98.77,"2 GP, AP #19",2026-11-16
-Team defensive rating,Worst,2,North Carolina Tar Heels,North Carolina Tar Heels,91.63,"4 GP, AP #23",2026-11-16
-Team defensive rating,Worst,3,Minnesota Golden Gophers,Minnesota Golden Gophers,89.27,"4 GP, AP #18",2026-11-16
-Team defensive rating,Worst,4,West Virginia Mountaineers,West Virginia Mountaineers,85.38,"4 GP, AP #24",2026-11-16
-Team defensive rating,Worst,5,NC State Wolfpack,NC State Wolfpack,82.53,4 GP,2026-11-16
-Team defensive rating,Worst,6,UConn Huskies,UConn Huskies,81.65,"4 GP, AP #4",2026-11-16
-Team defensive rating,Worst,7,Notre Dame Fighting Irish,Notre Dame Fighting Irish,78.86,"4 GP, AP #13",2026-11-16
-Team defensive rating,Worst,8,Michigan Wolverines,Michigan Wolverines,78.38,"3 GP, AP #2",2026-11-16
-Team defensive rating,Worst,9,South Carolina Gamecocks,South Carolina Gamecocks,75.97,"3 GP, AP #1",2026-11-16
-Team defensive rating,Worst,10,Washington Huskies,Washington Huskies,75.51,"3 GP, AP #16",2026-11-16
-Team scoring margin,Best,1,LSU Tigers,LSU Tigers,81,"4 GP, AP #9",2026-11-16
-Team scoring margin,Best,2,USC Trojans,USC Trojans,57,"3 GP, AP #3",2026-11-16
-Team scoring margin,Best,3,Vanderbilt Commodores,Vanderbilt Commodores,52.75,"4 GP, AP #8",2026-11-16
-Team scoring margin,Best,4,Illinois Fighting Illini,Illinois Fighting Illini,52.5,"2 GP, AP #22",2026-11-16
-Team scoring margin,Best,5,TCU Horned Frogs,TCU Horned Frogs,48.4,"5 GP, AP #15",2026-11-16
-Team scoring margin,Best,6,Notre Dame Fighting Irish,Notre Dame Fighting Irish,44.75,"4 GP, AP #13",2026-11-16
-Team scoring margin,Best,7,Kentucky Wildcats,Kentucky Wildcats,44.25,"4 GP, AP #12",2026-11-16
-Team scoring margin,Best,8,Texas Longhorns,Texas Longhorns,42,"4 GP, AP #6",2026-11-16
-Team scoring margin,Best,9,Louisville Cardinals,Louisville Cardinals,40.8,"5 GP, AP #7",2026-11-16
-Team scoring margin,Best,10,Nebraska Cornhuskers,Nebraska Cornhuskers,40.75,"4 GP, AP #25",2026-11-16
-Team scoring margin,Worst,1,Maryland Terrapins,Maryland Terrapins,5.5,"2 GP, AP #19",2026-11-16
-Team scoring margin,Worst,2,North Carolina Tar Heels,North Carolina Tar Heels,5.75,"4 GP, AP #23",2026-11-16
-Team scoring margin,Worst,3,West Virginia Mountaineers,West Virginia Mountaineers,11.75,"4 GP, AP #24",2026-11-16
-Team scoring margin,Worst,4,Minnesota Golden Gophers,Minnesota Golden Gophers,17.5,"4 GP, AP #18",2026-11-16
-Team scoring margin,Worst,5,NC State Wolfpack,NC State Wolfpack,18.5,4 GP,2026-11-16
-Team scoring margin,Worst,6,Washington Huskies,Washington Huskies,23.67,"3 GP, AP #16",2026-11-16
-Team scoring margin,Worst,7,Iowa Hawkeyes,Iowa Hawkeyes,23.75,"4 GP, AP #10",2026-11-16
-Team scoring margin,Worst,8,UConn Huskies,UConn Huskies,24.5,"4 GP, AP #4",2026-11-16
-Team scoring margin,Worst,9,South Carolina Gamecocks,South Carolina Gamecocks,24.67,"3 GP, AP #1",2026-11-16
-Team scoring margin,Worst,10,Ohio State Buckeyes,Ohio State Buckeyes,29,"4 GP, AP #17",2026-11-16
-Team effective FG pct,Best,1,LSU Tigers,LSU Tigers,62.7,"4 GP, AP #9",2026-11-16
-Team effective FG pct,Best,2,USC Trojans,USC Trojans,62.5,"3 GP, AP #3",2026-11-16
-Team effective FG pct,Best,3,Vanderbilt Commodores,Vanderbilt Commodores,61.8,"4 GP, AP #8",2026-11-16
-Team effective FG pct,Best,4,Notre Dame Fighting Irish,Notre Dame Fighting Irish,61.5,"4 GP, AP #13",2026-11-16
-Team effective FG pct,Best,5,TCU Horned Frogs,TCU Horned Frogs,59.5,"5 GP, AP #15",2026-11-16
-Team effective FG pct,Best,6,UConn Huskies,UConn Huskies,59,"4 GP, AP #4",2026-11-16
-Team effective FG pct,Best,7,Illinois Fighting Illini,Illinois Fighting Illini,58.2,"2 GP, AP #22",2026-11-16
-Team effective FG pct,Best,8,Nebraska Cornhuskers,Nebraska Cornhuskers,57.9,"4 GP, AP #25",2026-11-16
-Team effective FG pct,Best,9,Texas Longhorns,Texas Longhorns,57,"4 GP, AP #6",2026-11-16
-Team effective FG pct,Best,10,Michigan Wolverines,Michigan Wolverines,56.7,"3 GP, AP #2",2026-11-16
-Team effective FG pct,Worst,1,North Carolina Tar Heels,North Carolina Tar Heels,46.4,"4 GP, AP #23",2026-11-16
-Team effective FG pct,Worst,2,West Virginia Mountaineers,West Virginia Mountaineers,47.8,"4 GP, AP #24",2026-11-16
-Team effective FG pct,Worst,3,Maryland Terrapins,Maryland Terrapins,48.9,"2 GP, AP #19",2026-11-16
-Team effective FG pct,Worst,4,UCLA Bruins,UCLA Bruins,49.3,"3 GP, AP #10",2026-11-16
-Team effective FG pct,Worst,5,South Carolina Gamecocks,South Carolina Gamecocks,50.3,"3 GP, AP #1",2026-11-16
-Team effective FG pct,Worst,6,NC State Wolfpack,NC State Wolfpack,50.3,4 GP,2026-11-16
-Team effective FG pct,Worst,7,Oklahoma Sooners,Oklahoma Sooners,50.4,"4 GP, AP #14",2026-11-16
-Team effective FG pct,Worst,8,Ole Miss Rebels,Ole Miss Rebels,51.1,"3 GP, AP #21",2026-11-16
-Team effective FG pct,Worst,9,Minnesota Golden Gophers,Minnesota Golden Gophers,51.3,"4 GP, AP #18",2026-11-16
-Team effective FG pct,Worst,10,Ohio State Buckeyes,Ohio State Buckeyes,52.2,"4 GP, AP #17",2026-11-16
-Opponent effective FG pct,Best,1,LSU Tigers,LSU Tigers,26.9,"4 GP, AP #9",2026-11-16
-Opponent effective FG pct,Best,2,Illinois Fighting Illini,Illinois Fighting Illini,28.3,"2 GP, AP #22",2026-11-16
-Opponent effective FG pct,Best,3,Kentucky Wildcats,Kentucky Wildcats,29.5,"4 GP, AP #12",2026-11-16
-Opponent effective FG pct,Best,4,Duke Blue Devils,Duke Blue Devils,31.4,"3 GP, AP #5",2026-11-16
-Opponent effective FG pct,Best,5,UCLA Bruins,UCLA Bruins,33.6,"3 GP, AP #10",2026-11-16
-Opponent effective FG pct,Best,6,Oklahoma Sooners,Oklahoma Sooners,34.5,"4 GP, AP #14",2026-11-16
-Opponent effective FG pct,Best,7,USC Trojans,USC Trojans,34.6,"3 GP, AP #3",2026-11-16
-Opponent effective FG pct,Best,8,Oklahoma State Cowgirls,Oklahoma State Cowgirls,35.2,"4 GP, AP #19",2026-11-16
-Opponent effective FG pct,Best,9,South Carolina Gamecocks,South Carolina Gamecocks,35.3,"3 GP, AP #1",2026-11-16
-Opponent effective FG pct,Best,10,Ole Miss Rebels,Ole Miss Rebels,36.1,"3 GP, AP #21",2026-11-16
-Opponent effective FG pct,Worst,1,West Virginia Mountaineers,West Virginia Mountaineers,49.3,"4 GP, AP #24",2026-11-16
-Opponent effective FG pct,Worst,2,Minnesota Golden Gophers,Minnesota Golden Gophers,48.3,"4 GP, AP #18",2026-11-16
-Opponent effective FG pct,Worst,3,Maryland Terrapins,Maryland Terrapins,45.9,"2 GP, AP #19",2026-11-16
-Opponent effective FG pct,Worst,4,NC State Wolfpack,NC State Wolfpack,45.7,4 GP,2026-11-16
-Opponent effective FG pct,Worst,5,UConn Huskies,UConn Huskies,44.5,"4 GP, AP #4",2026-11-16
-Opponent effective FG pct,Worst,6,Nebraska Cornhuskers,Nebraska Cornhuskers,44.5,"4 GP, AP #25",2026-11-16
-Opponent effective FG pct,Worst,7,Washington Huskies,Washington Huskies,44.1,"3 GP, AP #16",2026-11-16
-Opponent effective FG pct,Worst,8,North Carolina Tar Heels,North Carolina Tar Heels,43.1,"4 GP, AP #23",2026-11-16
-Opponent effective FG pct,Worst,9,Texas Longhorns,Texas Longhorns,42.8,"4 GP, AP #6",2026-11-16
-Opponent effective FG pct,Worst,10,Michigan Wolverines,Michigan Wolverines,41.1,"3 GP, AP #2",2026-11-16
-Team turnover rate,Best,1,Texas Longhorns,Texas Longhorns,11.5,"4 GP, AP #6",2026-11-16
-Team turnover rate,Best,2,USC Trojans,USC Trojans,12.2,"3 GP, AP #3",2026-11-16
-Team turnover rate,Best,3,Kentucky Wildcats,Kentucky Wildcats,13,"4 GP, AP #12",2026-11-16
-Team turnover rate,Best,4,LSU Tigers,LSU Tigers,13.6,"4 GP, AP #9",2026-11-16
-Team turnover rate,Best,5,NC State Wolfpack,NC State Wolfpack,14.2,4 GP,2026-11-16
-Team turnover rate,Best,6,Vanderbilt Commodores,Vanderbilt Commodores,14.8,"4 GP, AP #8",2026-11-16
-Team turnover rate,Best,7,TCU Horned Frogs,TCU Horned Frogs,15.8,"5 GP, AP #15",2026-11-16
-Team turnover rate,Best,8,Ole Miss Rebels,Ole Miss Rebels,15.8,"3 GP, AP #21",2026-11-16
-Team turnover rate,Best,9,Notre Dame Fighting Irish,Notre Dame Fighting Irish,16.4,"4 GP, AP #13",2026-11-16
-Team turnover rate,Best,10,Louisville Cardinals,Louisville Cardinals,17.4,"5 GP, AP #7",2026-11-16
-Team turnover rate,Worst,1,Ohio State Buckeyes,Ohio State Buckeyes,24.1,"4 GP, AP #17",2026-11-16
-Team turnover rate,Worst,2,UConn Huskies,UConn Huskies,22.2,"4 GP, AP #4",2026-11-16
-Team turnover rate,Worst,3,Washington Huskies,Washington Huskies,22.2,"3 GP, AP #16",2026-11-16
-Team turnover rate,Worst,4,West Virginia Mountaineers,West Virginia Mountaineers,21.8,"4 GP, AP #24",2026-11-16
-Team turnover rate,Worst,5,Iowa Hawkeyes,Iowa Hawkeyes,21.4,"4 GP, AP #10",2026-11-16
-Team turnover rate,Worst,6,Oklahoma Sooners,Oklahoma Sooners,20.9,"4 GP, AP #14",2026-11-16
-Team turnover rate,Worst,7,South Carolina Gamecocks,South Carolina Gamecocks,20.8,"3 GP, AP #1",2026-11-16
-Team turnover rate,Worst,8,Oklahoma State Cowgirls,Oklahoma State Cowgirls,20.7,"4 GP, AP #19",2026-11-16
-Team turnover rate,Worst,9,Minnesota Golden Gophers,Minnesota Golden Gophers,20.4,"4 GP, AP #18",2026-11-16
-Team turnover rate,Worst,10,North Carolina Tar Heels,North Carolina Tar Heels,20,"4 GP, AP #23",2026-11-16
-Forced turnover rate,Best,1,Vanderbilt Commodores,Vanderbilt Commodores,38.1,"4 GP, AP #8",2026-11-16
-Forced turnover rate,Best,2,Ole Miss Rebels,Ole Miss Rebels,37,"3 GP, AP #21",2026-11-16
-Forced turnover rate,Best,3,LSU Tigers,LSU Tigers,36.7,"4 GP, AP #9",2026-11-16
-Forced turnover rate,Best,4,Texas Longhorns,Texas Longhorns,36,"4 GP, AP #6",2026-11-16
-Forced turnover rate,Best,5,Nebraska Cornhuskers,Nebraska Cornhuskers,35.8,"4 GP, AP #25",2026-11-16
-Forced turnover rate,Best,6,Ohio State Buckeyes,Ohio State Buckeyes,34,"4 GP, AP #17",2026-11-16
-Forced turnover rate,Best,7,Louisville Cardinals,Louisville Cardinals,32.5,"5 GP, AP #7",2026-11-16
-Forced turnover rate,Best,8,Michigan Wolverines,Michigan Wolverines,30.5,"3 GP, AP #2",2026-11-16
-Forced turnover rate,Best,9,TCU Horned Frogs,TCU Horned Frogs,29.5,"5 GP, AP #15",2026-11-16
-Forced turnover rate,Best,10,West Virginia Mountaineers,West Virginia Mountaineers,29.4,"4 GP, AP #24",2026-11-16
-Forced turnover rate,Worst,1,North Carolina Tar Heels,North Carolina Tar Heels,23.2,"4 GP, AP #23",2026-11-16
-Forced turnover rate,Worst,2,Illinois Fighting Illini,Illinois Fighting Illini,23.8,"2 GP, AP #22",2026-11-16
-Forced turnover rate,Worst,3,UConn Huskies,UConn Huskies,24.9,"4 GP, AP #4",2026-11-16
-Forced turnover rate,Worst,4,Notre Dame Fighting Irish,Notre Dame Fighting Irish,25,"4 GP, AP #13",2026-11-16
-Forced turnover rate,Worst,5,Kentucky Wildcats,Kentucky Wildcats,25.1,"4 GP, AP #12",2026-11-16
-Forced turnover rate,Worst,6,Oklahoma State Cowgirls,Oklahoma State Cowgirls,25.3,"4 GP, AP #19",2026-11-16
-Forced turnover rate,Worst,7,Duke Blue Devils,Duke Blue Devils,26,"3 GP, AP #5",2026-11-16
-Forced turnover rate,Worst,8,UCLA Bruins,UCLA Bruins,26.5,"3 GP, AP #10",2026-11-16
-Forced turnover rate,Worst,9,NC State Wolfpack,NC State Wolfpack,26.6,4 GP,2026-11-16
-Forced turnover rate,Worst,10,Washington Huskies,Washington Huskies,26.7,"3 GP, AP #16",2026-11-16
-Offensive rebound rate,Best,1,LSU Tigers,LSU Tigers,55.9,"4 GP, AP #9",2026-11-16
-Offensive rebound rate,Best,2,Illinois Fighting Illini,Illinois Fighting Illini,55.6,"2 GP, AP #22",2026-11-16
-Offensive rebound rate,Best,3,Oklahoma Sooners,Oklahoma Sooners,55.1,"4 GP, AP #14",2026-11-16
-Offensive rebound rate,Best,4,USC Trojans,USC Trojans,51.5,"3 GP, AP #3",2026-11-16
-Offensive rebound rate,Best,5,Minnesota Golden Gophers,Minnesota Golden Gophers,49.7,"4 GP, AP #18",2026-11-16
-Offensive rebound rate,Best,6,TCU Horned Frogs,TCU Horned Frogs,49.2,"5 GP, AP #15",2026-11-16
-Offensive rebound rate,Best,7,Vanderbilt Commodores,Vanderbilt Commodores,47.8,"4 GP, AP #8",2026-11-16
-Offensive rebound rate,Best,8,Notre Dame Fighting Irish,Notre Dame Fighting Irish,46.1,"4 GP, AP #13",2026-11-16
-Offensive rebound rate,Best,9,Ohio State Buckeyes,Ohio State Buckeyes,45,"4 GP, AP #17",2026-11-16
-Offensive rebound rate,Best,10,Louisville Cardinals,Louisville Cardinals,44.6,"5 GP, AP #7",2026-11-16
-Offensive rebound rate,Worst,1,Washington Huskies,Washington Huskies,34.7,"3 GP, AP #16",2026-11-16
-Offensive rebound rate,Worst,2,Iowa Hawkeyes,Iowa Hawkeyes,34.8,"4 GP, AP #10",2026-11-16
-Offensive rebound rate,Worst,3,NC State Wolfpack,NC State Wolfpack,35.3,4 GP,2026-11-16
-Offensive rebound rate,Worst,4,UConn Huskies,UConn Huskies,35.7,"4 GP, AP #4",2026-11-16
-Offensive rebound rate,Worst,5,Ole Miss Rebels,Ole Miss Rebels,36,"3 GP, AP #21",2026-11-16
-Offensive rebound rate,Worst,6,Maryland Terrapins,Maryland Terrapins,37,"2 GP, AP #19",2026-11-16
-Offensive rebound rate,Worst,7,Oklahoma State Cowgirls,Oklahoma State Cowgirls,37.2,"4 GP, AP #19",2026-11-16
-Offensive rebound rate,Worst,8,Michigan Wolverines,Michigan Wolverines,38,"3 GP, AP #2",2026-11-16
-Offensive rebound rate,Worst,9,Kentucky Wildcats,Kentucky Wildcats,39.2,"4 GP, AP #12",2026-11-16
-Offensive rebound rate,Worst,10,West Virginia Mountaineers,West Virginia Mountaineers,39.4,"4 GP, AP #24",2026-11-16
-Pace (possessions per game),Highest,1,Notre Dame Fighting Irish,Notre Dame Fighting Irish,82.87,"4 GP, AP #13",2026-11-16
-Pace (possessions per game),Highest,2,Maryland Terrapins,Maryland Terrapins,82.54,"2 GP, AP #19",2026-11-16
-Pace (possessions per game),Highest,3,Oklahoma Sooners,Oklahoma Sooners,80.4,"4 GP, AP #14",2026-11-16
-Pace (possessions per game),Highest,4,LSU Tigers,LSU Tigers,79.71,"4 GP, AP #9",2026-11-16
-Pace (possessions per game),Highest,5,Ohio State Buckeyes,Ohio State Buckeyes,76.46,"4 GP, AP #17",2026-11-16
-Pace (possessions per game),Highest,6,Vanderbilt Commodores,Vanderbilt Commodores,76.32,"4 GP, AP #8",2026-11-16
-Pace (possessions per game),Highest,7,UConn Huskies,UConn Huskies,75.74,"4 GP, AP #4",2026-11-16
-Pace (possessions per game),Highest,8,South Carolina Gamecocks,South Carolina Gamecocks,75.52,"3 GP, AP #1",2026-11-16
-Pace (possessions per game),Highest,9,Michigan Wolverines,Michigan Wolverines,74.89,"3 GP, AP #2",2026-11-16
-Pace (possessions per game),Highest,10,USC Trojans,USC Trojans,74.83,"3 GP, AP #3",2026-11-16
-Pace (possessions per game),Lowest,1,Texas Longhorns,Texas Longhorns,68.77,"4 GP, AP #6",2026-11-16
-Pace (possessions per game),Lowest,2,Illinois Fighting Illini,Illinois Fighting Illini,69.54,"2 GP, AP #22",2026-11-16
-Pace (possessions per game),Lowest,3,Duke Blue Devils,Duke Blue Devils,69.87,"3 GP, AP #5",2026-11-16
-Pace (possessions per game),Lowest,4,TCU Horned Frogs,TCU Horned Frogs,70.24,"5 GP, AP #15",2026-11-16
-Pace (possessions per game),Lowest,5,Iowa Hawkeyes,Iowa Hawkeyes,70.42,"4 GP, AP #10",2026-11-16
-Pace (possessions per game),Lowest,6,NC State Wolfpack,NC State Wolfpack,70.59,4 GP,2026-11-16
-Pace (possessions per game),Lowest,7,UCLA Bruins,UCLA Bruins,70.79,"3 GP, AP #10",2026-11-16
-Pace (possessions per game),Lowest,8,Minnesota Golden Gophers,Minnesota Golden Gophers,70.97,"4 GP, AP #18",2026-11-16
-Pace (possessions per game),Lowest,9,Kentucky Wildcats,Kentucky Wildcats,71.21,"4 GP, AP #12",2026-11-16
-Pace (possessions per game),Lowest,10,West Virginia Mountaineers,West Virginia Mountaineers,72.05,"4 GP, AP #24",2026-11-16
-Three-point attempt rate,Highest,1,Kentucky Wildcats,Kentucky Wildcats,48.9,"4 GP, AP #12",2026-11-16
-Three-point attempt rate,Highest,2,Washington Huskies,Washington Huskies,47.9,"3 GP, AP #16",2026-11-16
-Three-point attempt rate,Highest,3,North Carolina Tar Heels,North Carolina Tar Heels,47.3,"4 GP, AP #23",2026-11-16
-Three-point attempt rate,Highest,4,Iowa Hawkeyes,Iowa Hawkeyes,44.8,"4 GP, AP #10",2026-11-16
-Three-point attempt rate,Highest,5,TCU Horned Frogs,TCU Horned Frogs,43.2,"5 GP, AP #15",2026-11-16
-Three-point attempt rate,Highest,6,Louisville Cardinals,Louisville Cardinals,40.5,"5 GP, AP #7",2026-11-16
-Three-point attempt rate,Highest,7,Maryland Terrapins,Maryland Terrapins,39.4,"2 GP, AP #19",2026-11-16
-Three-point attempt rate,Highest,8,Ohio State Buckeyes,Ohio State Buckeyes,39.2,"4 GP, AP #17",2026-11-16
-Three-point attempt rate,Highest,9,Oklahoma Sooners,Oklahoma Sooners,38.9,"4 GP, AP #14",2026-11-16
-Three-point attempt rate,Highest,10,UConn Huskies,UConn Huskies,38.1,"4 GP, AP #4",2026-11-16
-Three-point attempt rate,Lowest,1,Texas Longhorns,Texas Longhorns,20.1,"4 GP, AP #6",2026-11-16
-Three-point attempt rate,Lowest,2,South Carolina Gamecocks,South Carolina Gamecocks,22.6,"3 GP, AP #1",2026-11-16
-Three-point attempt rate,Lowest,3,LSU Tigers,LSU Tigers,24.1,"4 GP, AP #9",2026-11-16
-Three-point attempt rate,Lowest,4,Duke Blue Devils,Duke Blue Devils,26,"3 GP, AP #5",2026-11-16
-Three-point attempt rate,Lowest,5,Notre Dame Fighting Irish,Notre Dame Fighting Irish,27.4,"4 GP, AP #13",2026-11-16
-Three-point attempt rate,Lowest,6,Minnesota Golden Gophers,Minnesota Golden Gophers,29.8,"4 GP, AP #18",2026-11-16
-Three-point attempt rate,Lowest,7,NC State Wolfpack,NC State Wolfpack,30.2,4 GP,2026-11-16
-Three-point attempt rate,Lowest,8,Michigan Wolverines,Michigan Wolverines,31,"3 GP, AP #2",2026-11-16
-Three-point attempt rate,Lowest,9,USC Trojans,USC Trojans,32,"3 GP, AP #3",2026-11-16
-Three-point attempt rate,Lowest,10,Vanderbilt Commodores,Vanderbilt Commodores,33.4,"4 GP, AP #8",2026-11-16
-Share of points in the paint,Highest,1,Duke Blue Devils,Duke Blue Devils,59.1,"3 GP, AP #5",2026-11-16
-Share of points in the paint,Highest,2,Notre Dame Fighting Irish,Notre Dame Fighting Irish,59.1,"4 GP, AP #13",2026-11-16
-Share of points in the paint,Highest,3,Michigan Wolverines,Michigan Wolverines,54.5,"3 GP, AP #2",2026-11-16
-Share of points in the paint,Highest,4,Minnesota Golden Gophers,Minnesota Golden Gophers,54.5,"4 GP, AP #18",2026-11-16
-Share of points in the paint,Highest,5,LSU Tigers,LSU Tigers,54.3,"4 GP, AP #9",2026-11-16
-Share of points in the paint,Highest,6,USC Trojans,USC Trojans,54.2,"3 GP, AP #3",2026-11-16
-Share of points in the paint,Highest,7,Vanderbilt Commodores,Vanderbilt Commodores,53.5,"4 GP, AP #8",2026-11-16
-Share of points in the paint,Highest,8,Nebraska Cornhuskers,Nebraska Cornhuskers,53,"4 GP, AP #25",2026-11-16
-Share of points in the paint,Highest,9,NC State Wolfpack,NC State Wolfpack,52.8,4 GP,2026-11-16
-Share of points in the paint,Highest,10,UCLA Bruins,UCLA Bruins,52,"3 GP, AP #10",2026-11-16
-Share of points in the paint,Lowest,1,Washington Huskies,Washington Huskies,39.5,"3 GP, AP #16",2026-11-16
-Share of points in the paint,Lowest,2,North Carolina Tar Heels,North Carolina Tar Heels,39.6,"4 GP, AP #23",2026-11-16
-Share of points in the paint,Lowest,3,Maryland Terrapins,Maryland Terrapins,40.5,"2 GP, AP #19",2026-11-16
-Share of points in the paint,Lowest,4,Kentucky Wildcats,Kentucky Wildcats,40.6,"4 GP, AP #12",2026-11-16
-Share of points in the paint,Lowest,5,UConn Huskies,UConn Huskies,41.8,"4 GP, AP #4",2026-11-16
-Share of points in the paint,Lowest,6,Oklahoma Sooners,Oklahoma Sooners,45.1,"4 GP, AP #14",2026-11-16
-Share of points in the paint,Lowest,7,Texas Longhorns,Texas Longhorns,45.4,"4 GP, AP #6",2026-11-16
-Share of points in the paint,Lowest,8,Oklahoma State Cowgirls,Oklahoma State Cowgirls,45.4,"4 GP, AP #19",2026-11-16
-Share of points in the paint,Lowest,9,Illinois Fighting Illini,Illinois Fighting Illini,45.9,"2 GP, AP #22",2026-11-16
-Share of points in the paint,Lowest,10,Iowa Hawkeyes,Iowa Hawkeyes,47.6,"4 GP, AP #10",2026-11-16
-Share of points on fast breaks,Highest,1,Notre Dame Fighting Irish,Notre Dame Fighting Irish,27.8,"4 GP, AP #13",2026-11-16
-Share of points on fast breaks,Highest,2,LSU Tigers,LSU Tigers,26.4,"4 GP, AP #9",2026-11-16
-Share of points on fast breaks,Highest,3,Ohio State Buckeyes,Ohio State Buckeyes,25.9,"4 GP, AP #17",2026-11-16
-Share of points on fast breaks,Highest,4,Vanderbilt Commodores,Vanderbilt Commodores,25.4,"4 GP, AP #8",2026-11-16
-Share of points on fast breaks,Highest,5,Duke Blue Devils,Duke Blue Devils,24.7,"3 GP, AP #5",2026-11-16
-Share of points on fast breaks,Highest,6,NC State Wolfpack,NC State Wolfpack,23.5,4 GP,2026-11-16
-Share of points on fast breaks,Highest,7,Ole Miss Rebels,Ole Miss Rebels,23.2,"3 GP, AP #21",2026-11-16
-Share of points on fast breaks,Highest,8,USC Trojans,USC Trojans,21.8,"3 GP, AP #3",2026-11-16
-Share of points on fast breaks,Highest,9,North Carolina Tar Heels,North Carolina Tar Heels,20.2,"4 GP, AP #23",2026-11-16
-Share of points on fast breaks,Highest,10,Washington Huskies,Washington Huskies,19.9,"3 GP, AP #16",2026-11-16
-Share of points on fast breaks,Lowest,1,Kentucky Wildcats,Kentucky Wildcats,9.2,"4 GP, AP #12",2026-11-16
-Share of points on fast breaks,Lowest,2,Texas Longhorns,Texas Longhorns,9.9,"4 GP, AP #6",2026-11-16
-Share of points on fast breaks,Lowest,3,UConn Huskies,UConn Huskies,12.2,"4 GP, AP #4",2026-11-16
-Share of points on fast breaks,Lowest,4,Oklahoma Sooners,Oklahoma Sooners,14,"4 GP, AP #14",2026-11-16
-Share of points on fast breaks,Lowest,5,Minnesota Golden Gophers,Minnesota Golden Gophers,14.7,"4 GP, AP #18",2026-11-16
-Share of points on fast breaks,Lowest,6,West Virginia Mountaineers,West Virginia Mountaineers,14.7,"4 GP, AP #24",2026-11-16
-Share of points on fast breaks,Lowest,7,Oklahoma State Cowgirls,Oklahoma State Cowgirls,15,"4 GP, AP #19",2026-11-16
-Share of points on fast breaks,Lowest,8,Louisville Cardinals,Louisville Cardinals,15.1,"5 GP, AP #7",2026-11-16
-Share of points on fast breaks,Lowest,9,Iowa Hawkeyes,Iowa Hawkeyes,15.2,"4 GP, AP #10",2026-11-16
-Share of points on fast breaks,Lowest,10,UCLA Bruins,UCLA Bruins,16.3,"3 GP, AP #10",2026-11-16
-Share of points off turnovers,Highest,1,Ohio State Buckeyes,Ohio State Buckeyes,39.9,"4 GP, AP #17",2026-11-16
-Share of points off turnovers,Highest,2,Ole Miss Rebels,Ole Miss Rebels,39.9,"3 GP, AP #21",2026-11-16
-Share of points off turnovers,Highest,3,Vanderbilt Commodores,Vanderbilt Commodores,39.4,"4 GP, AP #8",2026-11-16
-Share of points off turnovers,Highest,4,Louisville Cardinals,Louisville Cardinals,37,"5 GP, AP #7",2026-11-16
-Share of points off turnovers,Highest,5,Nebraska Cornhuskers,Nebraska Cornhuskers,35.3,"4 GP, AP #25",2026-11-16
-Share of points off turnovers,Highest,6,Texas Longhorns,Texas Longhorns,34.1,"4 GP, AP #6",2026-11-16
-Share of points off turnovers,Highest,7,LSU Tigers,LSU Tigers,34,"4 GP, AP #9",2026-11-16
-Share of points off turnovers,Highest,8,UCLA Bruins,UCLA Bruins,33.9,"3 GP, AP #10",2026-11-16
-Share of points off turnovers,Highest,9,South Carolina Gamecocks,South Carolina Gamecocks,33.1,"3 GP, AP #1",2026-11-16
-Share of points off turnovers,Highest,10,Illinois Fighting Illini,Illinois Fighting Illini,31.5,"2 GP, AP #22",2026-11-16
-Share of points off turnovers,Lowest,1,Oklahoma State Cowgirls,Oklahoma State Cowgirls,22.3,"4 GP, AP #19",2026-11-16
-Share of points off turnovers,Lowest,2,North Carolina Tar Heels,North Carolina Tar Heels,22.6,"4 GP, AP #23",2026-11-16
-Share of points off turnovers,Lowest,3,Oklahoma Sooners,Oklahoma Sooners,24.4,"4 GP, AP #14",2026-11-16
-Share of points off turnovers,Lowest,4,Minnesota Golden Gophers,Minnesota Golden Gophers,25.3,"4 GP, AP #18",2026-11-16
-Share of points off turnovers,Lowest,5,Kentucky Wildcats,Kentucky Wildcats,25.5,"4 GP, AP #12",2026-11-16
-Share of points off turnovers,Lowest,6,UConn Huskies,UConn Huskies,26.4,"4 GP, AP #4",2026-11-16
-Share of points off turnovers,Lowest,7,Washington Huskies,Washington Huskies,26.5,"3 GP, AP #16",2026-11-16
-Share of points off turnovers,Lowest,8,Notre Dame Fighting Irish,Notre Dame Fighting Irish,27,"4 GP, AP #13",2026-11-16
-Share of points off turnovers,Lowest,9,USC Trojans,USC Trojans,27.2,"3 GP, AP #3",2026-11-16
-Share of points off turnovers,Lowest,10,Duke Blue Devils,Duke Blue Devils,27.5,"3 GP, AP #5",2026-11-16
-Poll rank vs net rating,Ratings like them more than the poll,1,Illinois Fighting Illini,Illinois Fighting Illini,19,"AP #22, but #3 in net rating among ranked teams",2026-11-16
-Poll rank vs net rating,Ratings like them more than the poll,2,Nebraska Cornhuskers,Nebraska Cornhuskers,17,"AP #25, but #8 in net rating among ranked teams",2026-11-16
-Poll rank vs net rating,Ratings like them more than the poll,3,TCU Horned Frogs,TCU Horned Frogs,11,"AP #15, but #4 in net rating among ranked teams",2026-11-16
-Poll rank vs net rating,Ratings like them more than the poll,4,Ole Miss Rebels,Ole Miss Rebels,10,"AP #21, but #11 in net rating among ranked teams",2026-11-16
-Poll rank vs net rating,Ratings like them more than the poll,5,LSU Tigers,LSU Tigers,8,"AP #9, but #1 in net rating among ranked teams",2026-11-16
-Poll rank vs net rating,Ratings like them more than the poll,6,Kentucky Wildcats,Kentucky Wildcats,6,"AP #12, but #6 in net rating among ranked teams",2026-11-16
-Poll rank vs net rating,Ratings like them more than the poll,7,Oklahoma State Cowgirls,Oklahoma State Cowgirls,5,"AP #19, but #14 in net rating among ranked teams",2026-11-16
-Poll rank vs net rating,Ratings like them more than the poll,8,Vanderbilt Commodores,Vanderbilt Commodores,3,"AP #8, but #5 in net rating among ranked teams",2026-11-16
-Poll rank vs net rating,Ratings like them more than the poll,9,Notre Dame Fighting Irish,Notre Dame Fighting Irish,3,"AP #13, but #10 in net rating among ranked teams",2026-11-16
-Poll rank vs net rating,Ratings like them more than the poll,10,USC Trojans,USC Trojans,1,"AP #3, but #2 in net rating among ranked teams",2026-11-16
-Poll rank vs net rating,Ratings like them less than the poll,1,South Carolina Gamecocks,South Carolina Gamecocks,-18,"AP #1, but #19 in net rating among ranked teams",2026-11-16
-Poll rank vs net rating,Ratings like them less than the poll,2,UConn Huskies,UConn Huskies,-17,"AP #4, but #21 in net rating among ranked teams",2026-11-16
-Poll rank vs net rating,Ratings like them less than the poll,3,Michigan Wolverines,Michigan Wolverines,-14,"AP #2, but #16 in net rating among ranked teams",2026-11-16
-Poll rank vs net rating,Ratings like them less than the poll,4,Iowa Hawkeyes,Iowa Hawkeyes,-8,"AP #10, but #18 in net rating among ranked teams",2026-11-16
-Poll rank vs net rating,Ratings like them less than the poll,5,Duke Blue Devils,Duke Blue Devils,-7,"AP #5, but #12 in net rating among ranked teams",2026-11-16
-Poll rank vs net rating,Ratings like them less than the poll,6,Maryland Terrapins,Maryland Terrapins,-6,"AP #19, but #25 in net rating among ranked teams",2026-11-16
-Poll rank vs net rating,Ratings like them less than the poll,7,UCLA Bruins,UCLA Bruins,-5,"AP #10, but #15 in net rating among ranked teams",2026-11-16
-Poll rank vs net rating,Ratings like them less than the poll,8,Washington Huskies,Washington Huskies,-4,"AP #16, but #20 in net rating among ranked teams",2026-11-16
-Poll rank vs net rating,Ratings like them less than the poll,9,Minnesota Golden Gophers,Minnesota Golden Gophers,-4,"AP #18, but #22 in net rating among ranked teams",2026-11-16
-Poll rank vs net rating,Ratings like them less than the poll,10,Louisville Cardinals,Louisville Cardinals,-2,"AP #7, but #9 in net rating among ranked teams",2026-11-16
+Points per game,Best,1,Sarah Strong,UConn Huskies,23,"5 GP, 29.8 mpg, 23.0 ppg",2026-11-17
+Points per game,Best,2,Mikayla Blakes,Vanderbilt Commodores,21.6,"5 GP, 30.0 mpg, 21.6 ppg",2026-11-17
+Points per game,Best,3,Khamil Pierre,NC State Wolfpack,21.2,"5 GP, 30.6 mpg, 21.2 ppg",2026-11-17
+Points per game,Best,4,Liv McGill,Oklahoma State Cowgirls,20.2,"5 GP, 30.0 mpg, 20.2 ppg",2026-11-17
+Points per game,Best,5,Jaloni Cambridge,Ohio State Buckeyes,19.6,"5 GP, 27.6 mpg, 19.6 ppg",2026-11-17
+Points per game,Best,6,Mia Woolfolk,Vanderbilt Commodores,19.4,"5 GP, 21.2 mpg, 19.4 ppg",2026-11-17
+Points per game,Best,7,Clara Strack,Kentucky Wildcats,18.4,"5 GP, 24.6 mpg, 18.4 ppg",2026-11-17
+Points per game,Best,8,Audi Crooks,Oklahoma State Cowgirls,16.8,"5 GP, 25.2 mpg, 16.8 ppg",2026-11-17
+Points per game,Best,9,Aubrey Galvan,Vanderbilt Commodores,16.2,"5 GP, 28.6 mpg, 16.2 ppg",2026-11-17
+Points per game,Best,10,Imari Berry,Louisville Cardinals,16.17,"6 GP, 23.2 mpg, 16.2 ppg",2026-11-17
+Points per game,Best,11,Tajianna Roberts,Louisville Cardinals,15.5,"6 GP, 29.0 mpg, 15.5 ppg",2026-11-17
+Points per game,Best,12,Dani Carnegie,Iowa Hawkeyes,15.4,"5 GP, 24.0 mpg, 15.4 ppg",2026-11-17
+Points per game,Best,13,Ajsa Sivka,Kentucky Wildcats,14.4,"5 GP, 27.0 mpg, 14.4 ppg",2026-11-17
+Points per game,Best,14,Jovana Popovic,UConn Huskies,13.8,"5 GP, 29.4 mpg, 13.8 ppg",2026-11-17
+Points per game,Best,15,Lara Somfai,TCU Horned Frogs,13.67,"6 GP, 21.8 mpg, 13.7 ppg",2026-11-17
+Points per game,Best,16,Ava Heiden,Iowa Hawkeyes,13.4,"5 GP, 24.2 mpg, 13.4 ppg",2026-11-17
+Points per game,Best,17,Chazadi Wright,Iowa Hawkeyes,13.2,"5 GP, 31.2 mpg, 13.2 ppg",2026-11-17
+Points per game,Best,18,Lanie Grant,TCU Horned Frogs,13.17,"6 GP, 27.0 mpg, 13.2 ppg",2026-11-17
+Points per game,Best,19,Jadyn Wooten,TCU Horned Frogs,12.5,"6 GP, 26.8 mpg, 12.5 ppg",2026-11-17
+Points per game,Best,20,Me'Arah O'Neal,Kentucky Wildcats,12,"5 GP, 22.6 mpg, 12.0 ppg",2026-11-17
+Points per game,Best,21,Clara Silva,TCU Horned Frogs,11.5,"6 GP, 20.3 mpg, 11.5 ppg",2026-11-17
+Points per game,Best,22,Sydney Mobley,Ohio State Buckeyes,11.4,"5 GP, 16.2 mpg, 11.4 ppg",2026-11-17
+Points per game,Best,23,Ava Watson,Ohio State Buckeyes,11.2,"5 GP, 27.4 mpg, 11.2 ppg",2026-11-17
+Points per game,Best,24,McKenna Woliczko,Iowa Hawkeyes,11.2,"5 GP, 25.0 mpg, 11.2 ppg",2026-11-17
+Points per game,Best,25,Nene Ndiaye,Oklahoma State Cowgirls,11,"5 GP, 28.2 mpg, 11.0 ppg",2026-11-17
+Points per game,Worst,1,Atlee Vanesko,Ohio State Buckeyes,1.4,"5 GP, 10.0 mpg, 1.4 ppg",2026-11-17
+Points per game,Worst,2,Seini Henry,Ohio State Buckeyes,1.6,"5 GP, 10.2 mpg, 1.6 ppg",2026-11-17
+Points per game,Worst,3,Allie Ziebell,UConn Huskies,3,"5 GP, 12.4 mpg, 3.0 ppg",2026-11-17
+Points per game,Worst,4,Kayleigh Heckel,UConn Huskies,3,"5 GP, 15.0 mpg, 3.0 ppg",2026-11-17
+Points per game,Worst,5,Ayanna Patterson,Kentucky Wildcats,3.4,"5 GP, 11.8 mpg, 3.4 ppg",2026-11-17
+Points per game,Worst,6,Deniya Prawl,Louisville Cardinals,3.5,"6 GP, 12.5 mpg, 3.5 ppg",2026-11-17
+Points per game,Worst,7,Jocelyn Faison,Iowa Hawkeyes,3.6,"5 GP, 16.2 mpg, 3.6 ppg",2026-11-17
+Points per game,Worst,8,Bryn Martin,Ohio State Buckeyes,3.8,"5 GP, 19.8 mpg, 3.8 ppg",2026-11-17
+Points per game,Worst,9,Maddyn Greenway,Kentucky Wildcats,3.8,"5 GP, 17.2 mpg, 3.8 ppg",2026-11-17
+Points per game,Worst,10,Jhai Johnson,Vanderbilt Commodores,4.2,"5 GP, 17.8 mpg, 4.2 ppg",2026-11-17
+Points per game,Worst,11,Camille Williams,TCU Horned Frogs,4.33,"6 GP, 12.8 mpg, 4.3 ppg",2026-11-17
+Points per game,Worst,12,LA Sneed,Oklahoma State Cowgirls,4.4,"5 GP, 20.2 mpg, 4.4 ppg",2026-11-17
+Points per game,Worst,13,Olivia Vukosa,UConn Huskies,4.4,"5 GP, 17.8 mpg, 4.4 ppg",2026-11-17
+Points per game,Worst,14,Diana Collins,Kentucky Wildcats,5,"5 GP, 23.4 mpg, 5.0 ppg",2026-11-17
+Points per game,Worst,15,Madison Greene,Vanderbilt Commodores,5.2,"5 GP, 19.2 mpg, 5.2 ppg",2026-11-17
+Points per game,Worst,16,Taylor Stremlow,Iowa Hawkeyes,5.2,"5 GP, 20.2 mpg, 5.2 ppg",2026-11-17
+Points per game,Worst,17,Bella Hines,TCU Horned Frogs,5.5,"6 GP, 18.5 mpg, 5.5 ppg",2026-11-17
+Points per game,Worst,18,Grace Mbugua,Louisville Cardinals,5.5,"6 GP, 10.0 mpg, 5.5 ppg",2026-11-17
+Points per game,Worst,19,Journey Houston,Iowa Hawkeyes,5.6,"5 GP, 19.0 mpg, 5.6 ppg",2026-11-17
+Points per game,Worst,20,Talexa Weeter,Oklahoma State Cowgirls,5.6,"5 GP, 16.2 mpg, 5.6 ppg",2026-11-17
+Points per game,Worst,21,Carys Baker,Louisville Cardinals,6.17,"6 GP, 21.5 mpg, 6.2 ppg",2026-11-17
+Points per game,Worst,22,Amari Whiting,Iowa Hawkeyes,6.2,"5 GP, 24.6 mpg, 6.2 ppg",2026-11-17
+Points per game,Worst,23,Kamora Pruitt,NC State Wolfpack,6.2,"5 GP, 18.6 mpg, 6.2 ppg",2026-11-17
+Points per game,Worst,24,Vernell Atamah,Vanderbilt Commodores,6.4,"5 GP, 22.6 mpg, 6.4 ppg",2026-11-17
+Points per game,Worst,25,Stailee Heard,Oklahoma State Cowgirls,6.6,"5 GP, 27.0 mpg, 6.6 ppg",2026-11-17
+Rebounds per game,Best,1,Clara Strack,Kentucky Wildcats,9.6,"5 GP, 24.6 mpg, 18.4 ppg",2026-11-17
+Rebounds per game,Best,2,Lara Somfai,TCU Horned Frogs,9,"6 GP, 21.8 mpg, 13.7 ppg",2026-11-17
+Rebounds per game,Best,3,Savvy Swords,Kentucky Wildcats,8.8,"5 GP, 24.2 mpg, 8.8 ppg",2026-11-17
+Rebounds per game,Best,4,Khamil Pierre,NC State Wolfpack,8.4,"5 GP, 30.6 mpg, 21.2 ppg",2026-11-17
+Rebounds per game,Best,5,Kylee Kitts,Ohio State Buckeyes,7.8,"5 GP, 24.4 mpg, 8.4 ppg",2026-11-17
+Rebounds per game,Best,6,Olivia Vukosa,UConn Huskies,7.8,"5 GP, 17.8 mpg, 4.4 ppg",2026-11-17
+Rebounds per game,Best,7,Amiya Joyner,Louisville Cardinals,7.67,"6 GP, 15.8 mpg, 8.7 ppg",2026-11-17
+Rebounds per game,Best,8,Sarah Strong,UConn Huskies,7.2,"5 GP, 29.8 mpg, 23.0 ppg",2026-11-17
+Rebounds per game,Best,9,Clara Silva,TCU Horned Frogs,7.17,"6 GP, 20.3 mpg, 11.5 ppg",2026-11-17
+Rebounds per game,Best,10,Stailee Heard,Oklahoma State Cowgirls,7,"5 GP, 27.0 mpg, 6.6 ppg",2026-11-17
+Rebounds per game,Best,11,Amari Whiting,Iowa Hawkeyes,6.8,"5 GP, 24.6 mpg, 6.2 ppg",2026-11-17
+Rebounds per game,Best,12,Ava Heiden,Iowa Hawkeyes,6.6,"5 GP, 24.2 mpg, 13.4 ppg",2026-11-17
+Rebounds per game,Best,13,Qadence Samuels,NC State Wolfpack,6.6,"5 GP, 27.8 mpg, 8.2 ppg",2026-11-17
+Rebounds per game,Best,14,Liv McGill,Oklahoma State Cowgirls,6.4,"5 GP, 30.0 mpg, 20.2 ppg",2026-11-17
+Rebounds per game,Best,15,McKenna Woliczko,Iowa Hawkeyes,6.2,"5 GP, 25.0 mpg, 11.2 ppg",2026-11-17
+Rebounds per game,Best,16,Yuting Deng,Oklahoma State Cowgirls,6.2,"5 GP, 22.6 mpg, 10.6 ppg",2026-11-17
+Rebounds per game,Best,17,Jhai Johnson,Vanderbilt Commodores,6.2,"5 GP, 17.8 mpg, 4.2 ppg",2026-11-17
+Rebounds per game,Best,18,Aiyana Mitchell,Vanderbilt Commodores,6,"5 GP, 13.6 mpg, 7.4 ppg",2026-11-17
+Rebounds per game,Best,19,Audi Crooks,Oklahoma State Cowgirls,5.8,"5 GP, 25.2 mpg, 16.8 ppg",2026-11-17
+Rebounds per game,Best,20,Kennedy Cambridge,Ohio State Buckeyes,5.8,"5 GP, 25.2 mpg, 9.4 ppg",2026-11-17
+Rebounds per game,Best,21,Mikayla Blakes,Vanderbilt Commodores,5.6,"5 GP, 30.0 mpg, 21.6 ppg",2026-11-17
+Rebounds per game,Best,22,Me'Arah O'Neal,Kentucky Wildcats,5.4,"5 GP, 22.6 mpg, 12.0 ppg",2026-11-17
+Rebounds per game,Best,23,Laura Vilcinskas,TCU Horned Frogs,5.17,"6 GP, 15.5 mpg, 8.7 ppg",2026-11-17
+Rebounds per game,Best,24,Clara Bielefeld,TCU Horned Frogs,5.17,"6 GP, 20.5 mpg, 7.5 ppg",2026-11-17
+Rebounds per game,Best,25,Jaloni Cambridge,Ohio State Buckeyes,5,"5 GP, 27.6 mpg, 19.6 ppg",2026-11-17
+Rebounds per game,Worst,1,Bryn Martin,Ohio State Buckeyes,0.6,"5 GP, 19.8 mpg, 3.8 ppg",2026-11-17
+Rebounds per game,Worst,2,Lanie Grant,TCU Horned Frogs,0.83,"6 GP, 27.0 mpg, 13.2 ppg",2026-11-17
+Rebounds per game,Worst,3,Atlee Vanesko,Ohio State Buckeyes,1,"5 GP, 10.0 mpg, 1.4 ppg",2026-11-17
+Rebounds per game,Worst,4,Camille Williams,TCU Horned Frogs,1.17,"6 GP, 12.8 mpg, 4.3 ppg",2026-11-17
+Rebounds per game,Worst,5,Allie Ziebell,UConn Huskies,1.2,"5 GP, 12.4 mpg, 3.0 ppg",2026-11-17
+Rebounds per game,Worst,6,Madison Greene,Vanderbilt Commodores,1.4,"5 GP, 19.2 mpg, 5.2 ppg",2026-11-17
+Rebounds per game,Worst,7,Maddyn Greenway,Kentucky Wildcats,1.6,"5 GP, 17.2 mpg, 3.8 ppg",2026-11-17
+Rebounds per game,Worst,8,Kamora Pruitt,NC State Wolfpack,1.8,"5 GP, 18.6 mpg, 6.2 ppg",2026-11-17
+Rebounds per game,Worst,9,Ava Watson,Ohio State Buckeyes,2,"5 GP, 27.4 mpg, 11.2 ppg",2026-11-17
+Rebounds per game,Worst,10,Chazadi Wright,Iowa Hawkeyes,2.2,"5 GP, 31.2 mpg, 13.2 ppg",2026-11-17
+Rebounds per game,Worst,11,KK Arnold,UConn Huskies,2.2,"5 GP, 28.8 mpg, 8.8 ppg",2026-11-17
+Rebounds per game,Worst,12,Taylor Stremlow,Iowa Hawkeyes,2.2,"5 GP, 20.2 mpg, 5.2 ppg",2026-11-17
+Rebounds per game,Worst,13,Diana Collins,Kentucky Wildcats,2.4,"5 GP, 23.4 mpg, 5.0 ppg",2026-11-17
+Rebounds per game,Worst,14,Bella Hines,TCU Horned Frogs,2.5,"6 GP, 18.5 mpg, 5.5 ppg",2026-11-17
+Rebounds per game,Worst,15,Deniya Prawl,Louisville Cardinals,2.5,"6 GP, 12.5 mpg, 3.5 ppg",2026-11-17
+Rebounds per game,Worst,16,Aubrey Galvan,Vanderbilt Commodores,2.6,"5 GP, 28.6 mpg, 16.2 ppg",2026-11-17
+Rebounds per game,Worst,17,Callin Hake,Oklahoma State Cowgirls,2.6,"5 GP, 22.2 mpg, 6.8 ppg",2026-11-17
+Rebounds per game,Worst,18,Asia Boone,Kentucky Wildcats,2.8,"5 GP, 26.2 mpg, 10.4 ppg",2026-11-17
+Rebounds per game,Worst,19,Olivia Jones,Vanderbilt Commodores,2.8,"5 GP, 25.6 mpg, 8.6 ppg",2026-11-17
+Rebounds per game,Worst,20,Ky'She Lunan,NC State Wolfpack,2.8,"5 GP, 26.4 mpg, 8.4 ppg",2026-11-17
+Rebounds per game,Worst,21,Ashlynn Shade,UConn Huskies,2.8,"5 GP, 24.4 mpg, 7.8 ppg",2026-11-17
+Rebounds per game,Worst,22,Annsley Trivette,NC State Wolfpack,2.8,"5 GP, 12.6 mpg, 6.6 ppg",2026-11-17
+Rebounds per game,Worst,23,Vernell Atamah,Vanderbilt Commodores,2.8,"5 GP, 22.6 mpg, 6.4 ppg",2026-11-17
+Rebounds per game,Worst,24,Kayleigh Heckel,UConn Huskies,2.8,"5 GP, 15.0 mpg, 3.0 ppg",2026-11-17
+Rebounds per game,Worst,25,Seini Henry,Ohio State Buckeyes,2.8,"5 GP, 10.2 mpg, 1.6 ppg",2026-11-17
+Assists per game,Best,1,Aubrey Galvan,Vanderbilt Commodores,7.4,"5 GP, 28.6 mpg, 16.2 ppg",2026-11-17
+Assists per game,Best,2,Liv McGill,Oklahoma State Cowgirls,7.2,"5 GP, 30.0 mpg, 20.2 ppg",2026-11-17
+Assists per game,Best,3,Jadyn Wooten,TCU Horned Frogs,6.33,"6 GP, 26.8 mpg, 12.5 ppg",2026-11-17
+Assists per game,Best,4,Jaloni Cambridge,Ohio State Buckeyes,6.2,"5 GP, 27.6 mpg, 19.6 ppg",2026-11-17
+Assists per game,Best,5,Zamareya Jones,Louisville Cardinals,5.83,"6 GP, 27.2 mpg, 10.2 ppg",2026-11-17
+Assists per game,Best,6,Desiree Wooten,NC State Wolfpack,4.6,"5 GP, 33.4 mpg, 7.0 ppg",2026-11-17
+Assists per game,Best,7,KK Arnold,UConn Huskies,4.2,"5 GP, 28.8 mpg, 8.8 ppg",2026-11-17
+Assists per game,Best,8,Mikayla Blakes,Vanderbilt Commodores,3.8,"5 GP, 30.0 mpg, 21.6 ppg",2026-11-17
+Assists per game,Best,9,Chazadi Wright,Iowa Hawkeyes,3.8,"5 GP, 31.2 mpg, 13.2 ppg",2026-11-17
+Assists per game,Best,10,Stailee Heard,Oklahoma State Cowgirls,3.8,"5 GP, 27.0 mpg, 6.6 ppg",2026-11-17
+Assists per game,Best,11,Maddyn Greenway,Kentucky Wildcats,3.8,"5 GP, 17.2 mpg, 3.8 ppg",2026-11-17
+Assists per game,Best,12,Bella Hines,TCU Horned Frogs,3.67,"6 GP, 18.5 mpg, 5.5 ppg",2026-11-17
+Assists per game,Best,13,Ajsa Sivka,Kentucky Wildcats,3.6,"5 GP, 27.0 mpg, 14.4 ppg",2026-11-17
+Assists per game,Best,14,Lanie Grant,TCU Horned Frogs,3.5,"6 GP, 27.0 mpg, 13.2 ppg",2026-11-17
+Assists per game,Best,15,Sarah Strong,UConn Huskies,3.4,"5 GP, 29.8 mpg, 23.0 ppg",2026-11-17
+Assists per game,Best,16,Dani Carnegie,Iowa Hawkeyes,3.2,"5 GP, 24.0 mpg, 15.4 ppg",2026-11-17
+Assists per game,Best,17,Taylor Stremlow,Iowa Hawkeyes,3.2,"5 GP, 20.2 mpg, 5.2 ppg",2026-11-17
+Assists per game,Best,18,Clara Bielefeld,TCU Horned Frogs,3.17,"6 GP, 20.5 mpg, 7.5 ppg",2026-11-17
+Assists per game,Best,19,Clara Strack,Kentucky Wildcats,3,"5 GP, 24.6 mpg, 18.4 ppg",2026-11-17
+Assists per game,Best,20,Imari Berry,Louisville Cardinals,3,"6 GP, 23.2 mpg, 16.2 ppg",2026-11-17
+Assists per game,Best,21,Diana Collins,Kentucky Wildcats,3,"5 GP, 23.4 mpg, 5.0 ppg",2026-11-17
+Assists per game,Best,22,Jovana Popovic,UConn Huskies,2.8,"5 GP, 29.4 mpg, 13.8 ppg",2026-11-17
+Assists per game,Best,23,Ava Watson,Ohio State Buckeyes,2.6,"5 GP, 27.4 mpg, 11.2 ppg",2026-11-17
+Assists per game,Best,24,Blanca Quinonez,UConn Huskies,2.6,"5 GP, 22.6 mpg, 6.8 ppg",2026-11-17
+Assists per game,Best,25,Amari Whiting,Iowa Hawkeyes,2.6,"5 GP, 24.6 mpg, 6.2 ppg",2026-11-17
+Assists per game,Worst,1,Annsley Trivette,NC State Wolfpack,0,"5 GP, 12.6 mpg, 6.6 ppg",2026-11-17
+Assists per game,Worst,2,Seini Henry,Ohio State Buckeyes,0,"5 GP, 10.2 mpg, 1.6 ppg",2026-11-17
+Assists per game,Worst,3,Grace Mbugua,Louisville Cardinals,0.17,"6 GP, 10.0 mpg, 5.5 ppg",2026-11-17
+Assists per game,Worst,4,Ayanna Patterson,Kentucky Wildcats,0.2,"5 GP, 11.8 mpg, 3.4 ppg",2026-11-17
+Assists per game,Worst,5,Laura Vilcinskas,TCU Horned Frogs,0.33,"6 GP, 15.5 mpg, 8.7 ppg",2026-11-17
+Assists per game,Worst,6,Sydney Mobley,Ohio State Buckeyes,0.4,"5 GP, 16.2 mpg, 11.4 ppg",2026-11-17
+Assists per game,Worst,7,Qadence Samuels,NC State Wolfpack,0.4,"5 GP, 27.8 mpg, 8.2 ppg",2026-11-17
+Assists per game,Worst,8,Talexa Weeter,Oklahoma State Cowgirls,0.4,"5 GP, 16.2 mpg, 5.6 ppg",2026-11-17
+Assists per game,Worst,9,Deniya Prawl,Louisville Cardinals,0.5,"6 GP, 12.5 mpg, 3.5 ppg",2026-11-17
+Assists per game,Worst,10,Mia Woolfolk,Vanderbilt Commodores,0.6,"5 GP, 21.2 mpg, 19.4 ppg",2026-11-17
+Assists per game,Worst,11,Audi Crooks,Oklahoma State Cowgirls,0.6,"5 GP, 25.2 mpg, 16.8 ppg",2026-11-17
+Assists per game,Worst,12,Aiyana Mitchell,Vanderbilt Commodores,0.6,"5 GP, 13.6 mpg, 7.4 ppg",2026-11-17
+Assists per game,Worst,13,Allie Ziebell,UConn Huskies,0.6,"5 GP, 12.4 mpg, 3.0 ppg",2026-11-17
+Assists per game,Worst,14,Clara Silva,TCU Horned Frogs,0.67,"6 GP, 20.3 mpg, 11.5 ppg",2026-11-17
+Assists per game,Worst,15,Nene Ndiaye,Oklahoma State Cowgirls,0.8,"5 GP, 28.2 mpg, 11.0 ppg",2026-11-17
+Assists per game,Worst,16,Journey Houston,Iowa Hawkeyes,0.8,"5 GP, 19.0 mpg, 5.6 ppg",2026-11-17
+Assists per game,Worst,17,Camille Williams,TCU Horned Frogs,0.83,"6 GP, 12.8 mpg, 4.3 ppg",2026-11-17
+Assists per game,Worst,18,Emily McDonald,Kentucky Wildcats,1,"5 GP, 19.0 mpg, 9.8 ppg",2026-11-17
+Assists per game,Worst,19,Amiya Joyner,Louisville Cardinals,1,"6 GP, 15.8 mpg, 8.7 ppg",2026-11-17
+Assists per game,Worst,20,Bryn Martin,Ohio State Buckeyes,1,"5 GP, 19.8 mpg, 3.8 ppg",2026-11-17
+Assists per game,Worst,21,Ky'She Lunan,NC State Wolfpack,1.2,"5 GP, 26.4 mpg, 8.4 ppg",2026-11-17
+Assists per game,Worst,22,Khady Leye,NC State Wolfpack,1.2,"5 GP, 20.4 mpg, 7.0 ppg",2026-11-17
+Assists per game,Worst,23,Kamora Pruitt,NC State Wolfpack,1.2,"5 GP, 18.6 mpg, 6.2 ppg",2026-11-17
+Assists per game,Worst,24,Kayleigh Heckel,UConn Huskies,1.2,"5 GP, 15.0 mpg, 3.0 ppg",2026-11-17
+Assists per game,Worst,25,Atlee Vanesko,Ohio State Buckeyes,1.2,"5 GP, 10.0 mpg, 1.4 ppg",2026-11-17
+Steals per game,Best,1,Mikayla Blakes,Vanderbilt Commodores,3.8,"5 GP, 30.0 mpg, 21.6 ppg",2026-11-17
+Steals per game,Best,2,Kennedy Cambridge,Ohio State Buckeyes,3.4,"5 GP, 25.2 mpg, 9.4 ppg",2026-11-17
+Steals per game,Best,3,Zamareya Jones,Louisville Cardinals,3.33,"6 GP, 27.2 mpg, 10.2 ppg",2026-11-17
+Steals per game,Best,4,Ava Watson,Ohio State Buckeyes,2.8,"5 GP, 27.4 mpg, 11.2 ppg",2026-11-17
+Steals per game,Best,5,Sarah Strong,UConn Huskies,2.6,"5 GP, 29.8 mpg, 23.0 ppg",2026-11-17
+Steals per game,Best,6,Khamil Pierre,NC State Wolfpack,2.6,"5 GP, 30.6 mpg, 21.2 ppg",2026-11-17
+Steals per game,Best,7,Liv McGill,Oklahoma State Cowgirls,2.6,"5 GP, 30.0 mpg, 20.2 ppg",2026-11-17
+Steals per game,Best,8,Ky'She Lunan,NC State Wolfpack,2.4,"5 GP, 26.4 mpg, 8.4 ppg",2026-11-17
+Steals per game,Best,9,Blanca Quinonez,UConn Huskies,2.4,"5 GP, 22.6 mpg, 6.8 ppg",2026-11-17
+Steals per game,Best,10,Vernell Atamah,Vanderbilt Commodores,2.4,"5 GP, 22.6 mpg, 6.4 ppg",2026-11-17
+Steals per game,Best,11,Jessie-May Hall,TCU Horned Frogs,2.33,"6 GP, 21.5 mpg, 10.0 ppg",2026-11-17
+Steals per game,Best,12,Aubrey Galvan,Vanderbilt Commodores,2.2,"5 GP, 28.6 mpg, 16.2 ppg",2026-11-17
+Steals per game,Best,13,KK Arnold,UConn Huskies,2.2,"5 GP, 28.8 mpg, 8.8 ppg",2026-11-17
+Steals per game,Best,14,Olivia Jones,Vanderbilt Commodores,2.2,"5 GP, 25.6 mpg, 8.6 ppg",2026-11-17
+Steals per game,Best,15,Tajianna Roberts,Louisville Cardinals,2.17,"6 GP, 29.0 mpg, 15.5 ppg",2026-11-17
+Steals per game,Best,16,Jaloni Cambridge,Ohio State Buckeyes,2,"5 GP, 27.6 mpg, 19.6 ppg",2026-11-17
+Steals per game,Best,17,Qadence Samuels,NC State Wolfpack,2,"5 GP, 27.8 mpg, 8.2 ppg",2026-11-17
+Steals per game,Best,18,Journey Houston,Iowa Hawkeyes,2,"5 GP, 19.0 mpg, 5.6 ppg",2026-11-17
+Steals per game,Best,19,Bryn Martin,Ohio State Buckeyes,2,"5 GP, 19.8 mpg, 3.8 ppg",2026-11-17
+Steals per game,Best,20,Jovana Popovic,UConn Huskies,1.8,"5 GP, 29.4 mpg, 13.8 ppg",2026-11-17
+Steals per game,Best,21,Adriana Diaz,Ohio State Buckeyes,1.8,"5 GP, 20.2 mpg, 7.2 ppg",2026-11-17
+Steals per game,Best,22,Desiree Wooten,NC State Wolfpack,1.8,"5 GP, 33.4 mpg, 7.0 ppg",2026-11-17
+Steals per game,Best,23,Stailee Heard,Oklahoma State Cowgirls,1.8,"5 GP, 27.0 mpg, 6.6 ppg",2026-11-17
+Steals per game,Best,24,Amari Whiting,Iowa Hawkeyes,1.8,"5 GP, 24.6 mpg, 6.2 ppg",2026-11-17
+Steals per game,Best,25,Imari Berry,Louisville Cardinals,1.67,"6 GP, 23.2 mpg, 16.2 ppg",2026-11-17
+Steals per game,Worst,1,Kamora Pruitt,NC State Wolfpack,0,"5 GP, 18.6 mpg, 6.2 ppg",2026-11-17
+Steals per game,Worst,2,Olivia Vukosa,UConn Huskies,0,"5 GP, 17.8 mpg, 4.4 ppg",2026-11-17
+Steals per game,Worst,3,Kylee Kitts,Ohio State Buckeyes,0.2,"5 GP, 24.4 mpg, 8.4 ppg",2026-11-17
+Steals per game,Worst,4,Ayanna Patterson,Kentucky Wildcats,0.2,"5 GP, 11.8 mpg, 3.4 ppg",2026-11-17
+Steals per game,Worst,5,Atlee Vanesko,Ohio State Buckeyes,0.2,"5 GP, 10.0 mpg, 1.4 ppg",2026-11-17
+Steals per game,Worst,6,Grace Mbugua,Louisville Cardinals,0.33,"6 GP, 10.0 mpg, 5.5 ppg",2026-11-17
+Steals per game,Worst,7,Camille Williams,TCU Horned Frogs,0.33,"6 GP, 12.8 mpg, 4.3 ppg",2026-11-17
+Steals per game,Worst,8,Ajsa Sivka,Kentucky Wildcats,0.4,"5 GP, 27.0 mpg, 14.4 ppg",2026-11-17
+Steals per game,Worst,9,McKenna Woliczko,Iowa Hawkeyes,0.4,"5 GP, 25.0 mpg, 11.2 ppg",2026-11-17
+Steals per game,Worst,10,Emily McDonald,Kentucky Wildcats,0.4,"5 GP, 19.0 mpg, 9.8 ppg",2026-11-17
+Steals per game,Worst,11,Khady Leye,NC State Wolfpack,0.4,"5 GP, 20.4 mpg, 7.0 ppg",2026-11-17
+Steals per game,Worst,12,Deniya Prawl,Louisville Cardinals,0.5,"6 GP, 12.5 mpg, 3.5 ppg",2026-11-17
+Steals per game,Worst,13,Dani Carnegie,Iowa Hawkeyes,0.6,"5 GP, 24.0 mpg, 15.4 ppg",2026-11-17
+Steals per game,Worst,14,Ava Heiden,Iowa Hawkeyes,0.6,"5 GP, 24.2 mpg, 13.4 ppg",2026-11-17
+Steals per game,Worst,15,Me'Arah O'Neal,Kentucky Wildcats,0.6,"5 GP, 22.6 mpg, 12.0 ppg",2026-11-17
+Steals per game,Worst,16,Asia Boone,Kentucky Wildcats,0.6,"5 GP, 26.2 mpg, 10.4 ppg",2026-11-17
+Steals per game,Worst,17,Annsley Trivette,NC State Wolfpack,0.6,"5 GP, 12.6 mpg, 6.6 ppg",2026-11-17
+Steals per game,Worst,18,Jocelyn Faison,Iowa Hawkeyes,0.6,"5 GP, 16.2 mpg, 3.6 ppg",2026-11-17
+Steals per game,Worst,19,Allie Ziebell,UConn Huskies,0.6,"5 GP, 12.4 mpg, 3.0 ppg",2026-11-17
+Steals per game,Worst,20,Kayleigh Heckel,UConn Huskies,0.6,"5 GP, 15.0 mpg, 3.0 ppg",2026-11-17
+Steals per game,Worst,21,Seini Henry,Ohio State Buckeyes,0.6,"5 GP, 10.2 mpg, 1.6 ppg",2026-11-17
+Steals per game,Worst,22,Lara Somfai,TCU Horned Frogs,0.67,"6 GP, 21.8 mpg, 13.7 ppg",2026-11-17
+Steals per game,Worst,23,Clara Silva,TCU Horned Frogs,0.67,"6 GP, 20.3 mpg, 11.5 ppg",2026-11-17
+Steals per game,Worst,24,Audi Crooks,Oklahoma State Cowgirls,0.8,"5 GP, 25.2 mpg, 16.8 ppg",2026-11-17
+Steals per game,Worst,25,Yuting Deng,Oklahoma State Cowgirls,0.8,"5 GP, 22.6 mpg, 10.6 ppg",2026-11-17
+Blocks per game,Best,1,Clara Strack,Kentucky Wildcats,3.8,"5 GP, 24.6 mpg, 18.4 ppg",2026-11-17
+Blocks per game,Best,2,Jhai Johnson,Vanderbilt Commodores,1.6,"5 GP, 17.8 mpg, 4.2 ppg",2026-11-17
+Blocks per game,Best,3,Audi Crooks,Oklahoma State Cowgirls,1.2,"5 GP, 25.2 mpg, 16.8 ppg",2026-11-17
+Blocks per game,Best,4,McKenna Woliczko,Iowa Hawkeyes,1.2,"5 GP, 25.0 mpg, 11.2 ppg",2026-11-17
+Blocks per game,Best,5,Clara Silva,TCU Horned Frogs,1,"6 GP, 20.3 mpg, 11.5 ppg",2026-11-17
+Blocks per game,Best,6,Amiya Joyner,Louisville Cardinals,1,"6 GP, 15.8 mpg, 8.7 ppg",2026-11-17
+Blocks per game,Best,7,Laura Vilcinskas,TCU Horned Frogs,1,"6 GP, 15.5 mpg, 8.7 ppg",2026-11-17
+Blocks per game,Best,8,Aiyana Mitchell,Vanderbilt Commodores,1,"5 GP, 13.6 mpg, 7.4 ppg",2026-11-17
+Blocks per game,Best,9,Vernell Atamah,Vanderbilt Commodores,1,"5 GP, 22.6 mpg, 6.4 ppg",2026-11-17
+Blocks per game,Best,10,Zamareya Jones,Louisville Cardinals,0.83,"6 GP, 27.2 mpg, 10.2 ppg",2026-11-17
+Blocks per game,Best,11,Carys Baker,Louisville Cardinals,0.83,"6 GP, 21.5 mpg, 6.2 ppg",2026-11-17
+Blocks per game,Best,12,Mikayla Blakes,Vanderbilt Commodores,0.8,"5 GP, 30.0 mpg, 21.6 ppg",2026-11-17
+Blocks per game,Best,13,Clara Bielefeld,TCU Horned Frogs,0.67,"6 GP, 20.5 mpg, 7.5 ppg",2026-11-17
+Blocks per game,Best,14,Sarah Strong,UConn Huskies,0.6,"5 GP, 29.8 mpg, 23.0 ppg",2026-11-17
+Blocks per game,Best,15,Sydney Mobley,Ohio State Buckeyes,0.6,"5 GP, 16.2 mpg, 11.4 ppg",2026-11-17
+Blocks per game,Best,16,Nene Ndiaye,Oklahoma State Cowgirls,0.6,"5 GP, 28.2 mpg, 11.0 ppg",2026-11-17
+Blocks per game,Best,17,Asia Boone,Kentucky Wildcats,0.6,"5 GP, 26.2 mpg, 10.4 ppg",2026-11-17
+Blocks per game,Best,18,Kennedy Cambridge,Ohio State Buckeyes,0.6,"5 GP, 25.2 mpg, 9.4 ppg",2026-11-17
+Blocks per game,Best,19,Taylor Stremlow,Iowa Hawkeyes,0.6,"5 GP, 20.2 mpg, 5.2 ppg",2026-11-17
+Blocks per game,Best,20,Olivia Vukosa,UConn Huskies,0.6,"5 GP, 17.8 mpg, 4.4 ppg",2026-11-17
+Blocks per game,Best,21,Lara Somfai,TCU Horned Frogs,0.5,"6 GP, 21.8 mpg, 13.7 ppg",2026-11-17
+Blocks per game,Best,22,Bella Hines,TCU Horned Frogs,0.5,"6 GP, 18.5 mpg, 5.5 ppg",2026-11-17
+Blocks per game,Best,23,Camille Williams,TCU Horned Frogs,0.5,"6 GP, 12.8 mpg, 4.3 ppg",2026-11-17
+Blocks per game,Best,24,Deniya Prawl,Louisville Cardinals,0.5,"6 GP, 12.5 mpg, 3.5 ppg",2026-11-17
+Blocks per game,Best,25,Khamil Pierre,NC State Wolfpack,0.4,"5 GP, 30.6 mpg, 21.2 ppg",2026-11-17
+Blocks per game,Worst,1,Aubrey Galvan,Vanderbilt Commodores,0,"5 GP, 28.6 mpg, 16.2 ppg",2026-11-17
+Blocks per game,Worst,2,Tajianna Roberts,Louisville Cardinals,0,"6 GP, 29.0 mpg, 15.5 ppg",2026-11-17
+Blocks per game,Worst,3,Jovana Popovic,UConn Huskies,0,"5 GP, 29.4 mpg, 13.8 ppg",2026-11-17
+Blocks per game,Worst,4,Ava Watson,Ohio State Buckeyes,0,"5 GP, 27.4 mpg, 11.2 ppg",2026-11-17
+Blocks per game,Worst,5,Jessie-May Hall,TCU Horned Frogs,0,"6 GP, 21.5 mpg, 10.0 ppg",2026-11-17
+Blocks per game,Worst,6,KK Arnold,UConn Huskies,0,"5 GP, 28.8 mpg, 8.8 ppg",2026-11-17
+Blocks per game,Worst,7,Ky'She Lunan,NC State Wolfpack,0,"5 GP, 26.4 mpg, 8.4 ppg",2026-11-17
+Blocks per game,Worst,8,Ariyana Cradle,Louisville Cardinals,0,"6 GP, 16.3 mpg, 8.3 ppg",2026-11-17
+Blocks per game,Worst,9,Blanca Quinonez,UConn Huskies,0,"5 GP, 22.6 mpg, 6.8 ppg",2026-11-17
+Blocks per game,Worst,10,Stailee Heard,Oklahoma State Cowgirls,0,"5 GP, 27.0 mpg, 6.6 ppg",2026-11-17
+Blocks per game,Worst,11,Annsley Trivette,NC State Wolfpack,0,"5 GP, 12.6 mpg, 6.6 ppg",2026-11-17
+Blocks per game,Worst,12,Amari Whiting,Iowa Hawkeyes,0,"5 GP, 24.6 mpg, 6.2 ppg",2026-11-17
+Blocks per game,Worst,13,Madison Greene,Vanderbilt Commodores,0,"5 GP, 19.2 mpg, 5.2 ppg",2026-11-17
+Blocks per game,Worst,14,LA Sneed,Oklahoma State Cowgirls,0,"5 GP, 20.2 mpg, 4.4 ppg",2026-11-17
+Blocks per game,Worst,15,Jocelyn Faison,Iowa Hawkeyes,0,"5 GP, 16.2 mpg, 3.6 ppg",2026-11-17
+Blocks per game,Worst,16,Kayleigh Heckel,UConn Huskies,0,"5 GP, 15.0 mpg, 3.0 ppg",2026-11-17
+Blocks per game,Worst,17,Seini Henry,Ohio State Buckeyes,0,"5 GP, 10.2 mpg, 1.6 ppg",2026-11-17
+Blocks per game,Worst,18,Atlee Vanesko,Ohio State Buckeyes,0,"5 GP, 10.0 mpg, 1.4 ppg",2026-11-17
+Blocks per game,Worst,19,Lanie Grant,TCU Horned Frogs,0.17,"6 GP, 27.0 mpg, 13.2 ppg",2026-11-17
+Blocks per game,Worst,20,Liv McGill,Oklahoma State Cowgirls,0.2,"5 GP, 30.0 mpg, 20.2 ppg",2026-11-17
+Blocks per game,Worst,21,Mia Woolfolk,Vanderbilt Commodores,0.2,"5 GP, 21.2 mpg, 19.4 ppg",2026-11-17
+Blocks per game,Worst,22,Dani Carnegie,Iowa Hawkeyes,0.2,"5 GP, 24.0 mpg, 15.4 ppg",2026-11-17
+Blocks per game,Worst,23,Ajsa Sivka,Kentucky Wildcats,0.2,"5 GP, 27.0 mpg, 14.4 ppg",2026-11-17
+Blocks per game,Worst,24,Ava Heiden,Iowa Hawkeyes,0.2,"5 GP, 24.2 mpg, 13.4 ppg",2026-11-17
+Blocks per game,Worst,25,Yuting Deng,Oklahoma State Cowgirls,0.2,"5 GP, 22.6 mpg, 10.6 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,1,Vernell Atamah,Vanderbilt Commodores,0.2,"5 GP, 22.6 mpg, 6.4 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,2,Mikayla Blakes,Vanderbilt Commodores,0.4,"5 GP, 30.0 mpg, 21.6 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,3,Ashlynn Shade,UConn Huskies,0.4,"5 GP, 24.4 mpg, 7.8 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,4,Qadence Samuels,NC State Wolfpack,0.6,"5 GP, 27.8 mpg, 8.2 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,5,Olivia Jones,Vanderbilt Commodores,0.8,"5 GP, 25.6 mpg, 8.6 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,6,Lanie Grant,TCU Horned Frogs,0.83,"6 GP, 27.0 mpg, 13.2 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,7,Carys Baker,Louisville Cardinals,0.83,"6 GP, 21.5 mpg, 6.2 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,8,Clara Strack,Kentucky Wildcats,1,"5 GP, 24.6 mpg, 18.4 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,9,Jadyn Wooten,TCU Horned Frogs,1,"6 GP, 26.8 mpg, 12.5 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,10,Clara Silva,TCU Horned Frogs,1,"6 GP, 20.3 mpg, 11.5 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,11,Yuting Deng,Oklahoma State Cowgirls,1,"5 GP, 22.6 mpg, 10.6 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,12,Callin Hake,Oklahoma State Cowgirls,1,"5 GP, 22.2 mpg, 6.8 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,13,Imari Berry,Louisville Cardinals,1.17,"6 GP, 23.2 mpg, 16.2 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,14,Mia Woolfolk,Vanderbilt Commodores,1.2,"5 GP, 21.2 mpg, 19.4 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,15,Asia Boone,Kentucky Wildcats,1.2,"5 GP, 26.2 mpg, 10.4 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,16,Ky'She Lunan,NC State Wolfpack,1.2,"5 GP, 26.4 mpg, 8.4 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,17,Desiree Wooten,NC State Wolfpack,1.2,"5 GP, 33.4 mpg, 7.0 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,18,LA Sneed,Oklahoma State Cowgirls,1.2,"5 GP, 20.2 mpg, 4.4 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,19,Khamil Pierre,NC State Wolfpack,1.4,"5 GP, 30.6 mpg, 21.2 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,20,Chazadi Wright,Iowa Hawkeyes,1.4,"5 GP, 31.2 mpg, 13.2 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,21,Me'Arah O'Neal,Kentucky Wildcats,1.4,"5 GP, 22.6 mpg, 12.0 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,22,Diana Collins,Kentucky Wildcats,1.4,"5 GP, 23.4 mpg, 5.0 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,23,Tajianna Roberts,Louisville Cardinals,1.5,"6 GP, 29.0 mpg, 15.5 ppg",2026-11-17
+Turnovers per game (20+ mpg),Best,24,Ava Heiden,Iowa Hawkeyes,1.6,"5 GP, 24.2 mpg, 13.4 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,1,Liv McGill,Oklahoma State Cowgirls,3.6,"5 GP, 30.0 mpg, 20.2 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,2,Jaloni Cambridge,Ohio State Buckeyes,3.2,"5 GP, 27.6 mpg, 19.6 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,3,KK Arnold,UConn Huskies,3,"5 GP, 28.8 mpg, 8.8 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,4,Blanca Quinonez,UConn Huskies,2.8,"5 GP, 22.6 mpg, 6.8 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,5,Kennedy Cambridge,Ohio State Buckeyes,2.6,"5 GP, 25.2 mpg, 9.4 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,6,Kylee Kitts,Ohio State Buckeyes,2.6,"5 GP, 24.4 mpg, 8.4 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,7,Stailee Heard,Oklahoma State Cowgirls,2.6,"5 GP, 27.0 mpg, 6.6 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,8,Aubrey Galvan,Vanderbilt Commodores,2.4,"5 GP, 28.6 mpg, 16.2 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,9,Jovana Popovic,UConn Huskies,2.4,"5 GP, 29.4 mpg, 13.8 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,10,McKenna Woliczko,Iowa Hawkeyes,2.4,"5 GP, 25.0 mpg, 11.2 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,11,Sarah Strong,UConn Huskies,2.2,"5 GP, 29.8 mpg, 23.0 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,12,Audi Crooks,Oklahoma State Cowgirls,2.2,"5 GP, 25.2 mpg, 16.8 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,13,Taylor Stremlow,Iowa Hawkeyes,2.2,"5 GP, 20.2 mpg, 5.2 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,14,Jessie-May Hall,TCU Horned Frogs,2.17,"6 GP, 21.5 mpg, 10.0 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,15,Ajsa Sivka,Kentucky Wildcats,2,"5 GP, 27.0 mpg, 14.4 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,16,Lara Somfai,TCU Horned Frogs,2,"6 GP, 21.8 mpg, 13.7 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,17,Ava Watson,Ohio State Buckeyes,2,"5 GP, 27.4 mpg, 11.2 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,18,Clara Bielefeld,TCU Horned Frogs,2,"6 GP, 20.5 mpg, 7.5 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,19,Amari Whiting,Iowa Hawkeyes,2,"5 GP, 24.6 mpg, 6.2 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,20,Dani Carnegie,Iowa Hawkeyes,1.8,"5 GP, 24.0 mpg, 15.4 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,21,Nene Ndiaye,Oklahoma State Cowgirls,1.8,"5 GP, 28.2 mpg, 11.0 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,22,Savvy Swords,Kentucky Wildcats,1.8,"5 GP, 24.2 mpg, 8.8 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,23,Khady Leye,NC State Wolfpack,1.8,"5 GP, 20.4 mpg, 7.0 ppg",2026-11-17
+Turnovers per game (20+ mpg),Worst,24,Zamareya Jones,Louisville Cardinals,1.67,"6 GP, 27.2 mpg, 10.2 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,1,Mia Woolfolk,Vanderbilt Commodores,69.4,"5 GP, 21.2 mpg, 19.4 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,2,Ava Heiden,Iowa Hawkeyes,68.9,"5 GP, 24.2 mpg, 13.4 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,3,Clara Silva,TCU Horned Frogs,67.4,"6 GP, 20.3 mpg, 11.5 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,4,Aiyana Mitchell,Vanderbilt Commodores,65.4,"5 GP, 13.6 mpg, 7.4 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,5,Sydney Mobley,Ohio State Buckeyes,64.9,"5 GP, 16.2 mpg, 11.4 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,6,Audi Crooks,Oklahoma State Cowgirls,63.5,"5 GP, 25.2 mpg, 16.8 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,7,Amiya Joyner,Louisville Cardinals,61.8,"6 GP, 15.8 mpg, 8.7 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,8,McKenna Woliczko,Iowa Hawkeyes,59.5,"5 GP, 25.0 mpg, 11.2 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,9,Sarah Strong,UConn Huskies,59.2,"5 GP, 29.8 mpg, 23.0 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,10,Ajsa Sivka,Kentucky Wildcats,59.1,"5 GP, 27.0 mpg, 14.4 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,11,Ariyana Cradle,Louisville Cardinals,58.8,"6 GP, 16.3 mpg, 8.3 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,12,Kennedy Cambridge,Ohio State Buckeyes,58.1,"5 GP, 25.2 mpg, 9.4 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,13,Jessie-May Hall,TCU Horned Frogs,57.8,"6 GP, 21.5 mpg, 10.0 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,14,Aubrey Galvan,Vanderbilt Commodores,55.4,"5 GP, 28.6 mpg, 16.2 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,15,Imari Berry,Louisville Cardinals,54.5,"6 GP, 23.2 mpg, 16.2 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,16,Jadyn Wooten,TCU Horned Frogs,54,"6 GP, 26.8 mpg, 12.5 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,17,Khady Leye,NC State Wolfpack,53.6,"5 GP, 20.4 mpg, 7.0 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,18,Clara Strack,Kentucky Wildcats,52.3,"5 GP, 24.6 mpg, 18.4 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,19,Jovana Popovic,UConn Huskies,51.9,"5 GP, 29.4 mpg, 13.8 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,20,Yuting Deng,Oklahoma State Cowgirls,51.4,"5 GP, 22.6 mpg, 10.6 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,21,Khamil Pierre,NC State Wolfpack,51.2,"5 GP, 30.6 mpg, 21.2 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,22,Lanie Grant,TCU Horned Frogs,50.9,"6 GP, 27.0 mpg, 13.2 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,23,Lara Somfai,TCU Horned Frogs,50.8,"6 GP, 21.8 mpg, 13.7 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,24,Nene Ndiaye,Oklahoma State Cowgirls,50,"5 GP, 28.2 mpg, 11.0 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Best,25,Kylee Kitts,Ohio State Buckeyes,50,"5 GP, 24.4 mpg, 8.4 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,1,Desiree Wooten,NC State Wolfpack,32.6,"5 GP, 33.4 mpg, 7.0 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,2,Carys Baker,Louisville Cardinals,32.6,"6 GP, 21.5 mpg, 6.2 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,3,Blanca Quinonez,UConn Huskies,33.3,"5 GP, 22.6 mpg, 6.8 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,4,Journey Houston,Iowa Hawkeyes,34.4,"5 GP, 19.0 mpg, 5.6 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,5,Savvy Swords,Kentucky Wildcats,36,"5 GP, 24.2 mpg, 8.8 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,6,Vernell Atamah,Vanderbilt Commodores,37.9,"5 GP, 22.6 mpg, 6.4 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,7,Zamareya Jones,Louisville Cardinals,38.3,"6 GP, 27.2 mpg, 10.2 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,8,Stailee Heard,Oklahoma State Cowgirls,38.7,"5 GP, 27.0 mpg, 6.6 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,9,Callin Hake,Oklahoma State Cowgirls,39.3,"5 GP, 22.2 mpg, 6.8 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,10,Taylor Stremlow,Iowa Hawkeyes,39.3,"5 GP, 20.2 mpg, 5.2 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,11,Bella Hines,TCU Horned Frogs,39.4,"6 GP, 18.5 mpg, 5.5 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,12,Adriana Diaz,Ohio State Buckeyes,40,"5 GP, 20.2 mpg, 7.2 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,13,Madison Greene,Vanderbilt Commodores,40,"5 GP, 19.2 mpg, 5.2 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,14,Olivia Jones,Vanderbilt Commodores,40.5,"5 GP, 25.6 mpg, 8.6 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,15,Chazadi Wright,Iowa Hawkeyes,41.5,"5 GP, 31.2 mpg, 13.2 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,16,Ky'She Lunan,NC State Wolfpack,42.1,"5 GP, 26.4 mpg, 8.4 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,17,Ava Watson,Ohio State Buckeyes,42.3,"5 GP, 27.4 mpg, 11.2 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,18,Asia Boone,Kentucky Wildcats,42.9,"5 GP, 26.2 mpg, 10.4 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,19,Qadence Samuels,NC State Wolfpack,43.2,"5 GP, 27.8 mpg, 8.2 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,20,Jaloni Cambridge,Ohio State Buckeyes,43.4,"5 GP, 27.6 mpg, 19.6 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,21,Emily McDonald,Kentucky Wildcats,43.9,"5 GP, 19.0 mpg, 9.8 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,22,Mikayla Blakes,Vanderbilt Commodores,44.8,"5 GP, 30.0 mpg, 21.6 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,23,Dani Carnegie,Iowa Hawkeyes,46,"5 GP, 24.0 mpg, 15.4 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,24,Liv McGill,Oklahoma State Cowgirls,47.4,"5 GP, 30.0 mpg, 20.2 ppg",2026-11-17
+Field goal pct (5+ FGA per game),Worst,25,KK Arnold,UConn Huskies,47.4,"5 GP, 28.8 mpg, 8.8 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Best,1,Ajsa Sivka,Kentucky Wildcats,63.6,"5 GP, 27.0 mpg, 14.4 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Best,2,Ashlynn Shade,UConn Huskies,56.2,"5 GP, 24.4 mpg, 7.8 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Best,3,Sarah Strong,UConn Huskies,54.5,"5 GP, 29.8 mpg, 23.0 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Best,4,Aubrey Galvan,Vanderbilt Commodores,51.7,"5 GP, 28.6 mpg, 16.2 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Best,5,Jovana Popovic,UConn Huskies,50,"5 GP, 29.4 mpg, 13.8 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Best,6,Yuting Deng,Oklahoma State Cowgirls,50,"5 GP, 22.6 mpg, 10.6 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Best,7,Nene Ndiaye,Oklahoma State Cowgirls,47.6,"5 GP, 28.2 mpg, 11.0 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Best,8,Imari Berry,Louisville Cardinals,45.2,"6 GP, 23.2 mpg, 16.2 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Best,9,Ky'She Lunan,NC State Wolfpack,44.4,"5 GP, 26.4 mpg, 8.4 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Best,10,Chazadi Wright,Iowa Hawkeyes,44.1,"5 GP, 31.2 mpg, 13.2 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Best,11,Emily McDonald,Kentucky Wildcats,42.9,"5 GP, 19.0 mpg, 9.8 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Best,12,McKenna Woliczko,Iowa Hawkeyes,42.1,"5 GP, 25.0 mpg, 11.2 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Best,13,Lanie Grant,TCU Horned Frogs,41.9,"6 GP, 27.0 mpg, 13.2 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Best,14,Asia Boone,Kentucky Wildcats,40,"5 GP, 26.2 mpg, 10.4 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Best,15,Callin Hake,Oklahoma State Cowgirls,39.1,"5 GP, 22.2 mpg, 6.8 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Best,16,Clara Strack,Kentucky Wildcats,38.1,"5 GP, 24.6 mpg, 18.4 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Best,17,Kennedy Cambridge,Ohio State Buckeyes,37.5,"5 GP, 25.2 mpg, 9.4 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Best,18,Kamora Pruitt,NC State Wolfpack,37.5,"5 GP, 18.6 mpg, 6.2 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Best,19,Me'Arah O'Neal,Kentucky Wildcats,36.4,"5 GP, 22.6 mpg, 12.0 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Best,20,Madison Greene,Vanderbilt Commodores,35.3,"5 GP, 19.2 mpg, 5.2 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Best,21,Bella Hines,TCU Horned Frogs,35,"6 GP, 18.5 mpg, 5.5 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Worst,1,Stailee Heard,Oklahoma State Cowgirls,14.3,"5 GP, 27.0 mpg, 6.6 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Worst,2,Taylor Stremlow,Iowa Hawkeyes,16.7,"5 GP, 20.2 mpg, 5.2 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Worst,3,Desiree Wooten,NC State Wolfpack,20,"5 GP, 33.4 mpg, 7.0 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Worst,4,Olivia Jones,Vanderbilt Commodores,21.4,"5 GP, 25.6 mpg, 8.6 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Worst,5,Allie Ziebell,UConn Huskies,21.4,"5 GP, 12.4 mpg, 3.0 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Worst,6,Lara Somfai,TCU Horned Frogs,21.7,"6 GP, 21.8 mpg, 13.7 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Worst,7,Camille Williams,TCU Horned Frogs,23.5,"6 GP, 12.8 mpg, 4.3 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Worst,8,Zamareya Jones,Louisville Cardinals,23.8,"6 GP, 27.2 mpg, 10.2 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Worst,9,Mikayla Blakes,Vanderbilt Commodores,25,"5 GP, 30.0 mpg, 21.6 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Worst,10,Jessie-May Hall,TCU Horned Frogs,25,"6 GP, 21.5 mpg, 10.0 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Worst,11,Dani Carnegie,Iowa Hawkeyes,25.7,"5 GP, 24.0 mpg, 15.4 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Worst,12,Liv McGill,Oklahoma State Cowgirls,26.7,"5 GP, 30.0 mpg, 20.2 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Worst,13,Jaloni Cambridge,Ohio State Buckeyes,26.9,"5 GP, 27.6 mpg, 19.6 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Worst,14,Tajianna Roberts,Louisville Cardinals,27.3,"6 GP, 29.0 mpg, 15.5 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Worst,15,Ava Watson,Ohio State Buckeyes,27.6,"5 GP, 27.4 mpg, 11.2 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Worst,16,Carys Baker,Louisville Cardinals,27.6,"6 GP, 21.5 mpg, 6.2 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Worst,17,Qadence Samuels,NC State Wolfpack,28.6,"5 GP, 27.8 mpg, 8.2 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Worst,18,Blanca Quinonez,UConn Huskies,29.4,"5 GP, 22.6 mpg, 6.8 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Worst,19,Vernell Atamah,Vanderbilt Commodores,30,"5 GP, 22.6 mpg, 6.4 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Worst,20,Savvy Swords,Kentucky Wildcats,30.8,"5 GP, 24.2 mpg, 8.8 ppg",2026-11-17
+Three-point pct (2.5+ 3PA per game),Worst,21,Jadyn Wooten,TCU Horned Frogs,31.6,"6 GP, 26.8 mpg, 12.5 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Best,1,Mikayla Blakes,Vanderbilt Commodores,100,"5 GP, 30.0 mpg, 21.6 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Best,2,Nene Ndiaye,Oklahoma State Cowgirls,91.7,"5 GP, 28.2 mpg, 11.0 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Best,3,Clara Strack,Kentucky Wildcats,88.9,"5 GP, 24.6 mpg, 18.4 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Best,4,Lara Somfai,TCU Horned Frogs,88.2,"6 GP, 21.8 mpg, 13.7 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Best,5,Laura Vilcinskas,TCU Horned Frogs,88,"6 GP, 15.5 mpg, 8.7 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Best,6,Adriana Diaz,Ohio State Buckeyes,86.7,"5 GP, 20.2 mpg, 7.2 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Best,7,LA Sneed,Oklahoma State Cowgirls,85.7,"5 GP, 20.2 mpg, 4.4 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Best,8,Clara Silva,TCU Horned Frogs,84.6,"6 GP, 20.3 mpg, 11.5 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Best,9,Clara Bielefeld,TCU Horned Frogs,83.3,"6 GP, 20.5 mpg, 7.5 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Best,10,Jadyn Wooten,TCU Horned Frogs,78.9,"6 GP, 26.8 mpg, 12.5 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Best,11,Audi Crooks,Oklahoma State Cowgirls,78.3,"5 GP, 25.2 mpg, 16.8 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Best,12,Jaloni Cambridge,Ohio State Buckeyes,78.1,"5 GP, 27.6 mpg, 19.6 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Best,13,Me'Arah O'Neal,Kentucky Wildcats,77.8,"5 GP, 22.6 mpg, 12.0 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Worst,1,Ava Heiden,Iowa Hawkeyes,45.5,"5 GP, 24.2 mpg, 13.4 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Worst,2,Ayanna Patterson,Kentucky Wildcats,50,"5 GP, 11.8 mpg, 3.4 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Worst,3,Kylee Kitts,Ohio State Buckeyes,54.5,"5 GP, 24.4 mpg, 8.4 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Worst,4,Jhai Johnson,Vanderbilt Commodores,60,"5 GP, 17.8 mpg, 4.2 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Worst,5,Dani Carnegie,Iowa Hawkeyes,62.5,"5 GP, 24.0 mpg, 15.4 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Worst,6,Amari Whiting,Iowa Hawkeyes,62.5,"5 GP, 24.6 mpg, 6.2 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Worst,7,Khamil Pierre,NC State Wolfpack,65.7,"5 GP, 30.6 mpg, 21.2 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Worst,8,Olivia Jones,Vanderbilt Commodores,66.7,"5 GP, 25.6 mpg, 8.6 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Worst,9,Tajianna Roberts,Louisville Cardinals,69.2,"6 GP, 29.0 mpg, 15.5 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Worst,10,Sarah Strong,UConn Huskies,70,"5 GP, 29.8 mpg, 23.0 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Worst,11,Zamareya Jones,Louisville Cardinals,71.4,"6 GP, 27.2 mpg, 10.2 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Worst,12,Mia Woolfolk,Vanderbilt Commodores,73.3,"5 GP, 21.2 mpg, 19.4 ppg",2026-11-17
+Free throw pct (2+ FTA per game),Worst,13,Liv McGill,Oklahoma State Cowgirls,75.8,"5 GP, 30.0 mpg, 20.2 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Best,1,Ajsa Sivka,Kentucky Wildcats,76.5,"5 GP, 27.0 mpg, 14.4 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Best,2,Sarah Strong,UConn Huskies,71.5,"5 GP, 29.8 mpg, 23.0 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Best,3,Mia Woolfolk,Vanderbilt Commodores,70.7,"5 GP, 21.2 mpg, 19.4 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Best,4,Imari Berry,Louisville Cardinals,70.2,"6 GP, 23.2 mpg, 16.2 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Best,5,Aubrey Galvan,Vanderbilt Commodores,69.6,"5 GP, 28.6 mpg, 16.2 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Best,6,Lanie Grant,TCU Horned Frogs,69.3,"6 GP, 27.0 mpg, 13.2 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Best,7,Audi Crooks,Oklahoma State Cowgirls,67.6,"5 GP, 25.2 mpg, 16.8 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Best,8,Ava Heiden,Iowa Hawkeyes,67.2,"5 GP, 24.2 mpg, 13.4 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Best,9,Jadyn Wooten,TCU Horned Frogs,64.3,"6 GP, 26.8 mpg, 12.5 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Best,10,Clara Strack,Kentucky Wildcats,63.1,"5 GP, 24.6 mpg, 18.4 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Best,11,Me'Arah O'Neal,Kentucky Wildcats,62.6,"5 GP, 22.6 mpg, 12.0 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Best,12,Jovana Popovic,UConn Huskies,61.4,"5 GP, 29.4 mpg, 13.8 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Best,13,Asia Boone,Kentucky Wildcats,60.6,"5 GP, 26.2 mpg, 10.4 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Worst,1,Desiree Wooten,NC State Wolfpack,39.1,"5 GP, 33.4 mpg, 7.0 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Worst,2,Savvy Swords,Kentucky Wildcats,40.8,"5 GP, 24.2 mpg, 8.8 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Worst,3,Zamareya Jones,Louisville Cardinals,46.1,"6 GP, 27.2 mpg, 10.2 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Worst,4,Ava Watson,Ohio State Buckeyes,51.2,"5 GP, 27.4 mpg, 11.2 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Worst,5,Jaloni Cambridge,Ohio State Buckeyes,54.4,"5 GP, 27.6 mpg, 19.6 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Worst,6,Dani Carnegie,Iowa Hawkeyes,55,"5 GP, 24.0 mpg, 15.4 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Worst,7,Khamil Pierre,NC State Wolfpack,55.6,"5 GP, 30.6 mpg, 21.2 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Worst,8,Liv McGill,Oklahoma State Cowgirls,55.8,"5 GP, 30.0 mpg, 20.2 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Worst,9,Mikayla Blakes,Vanderbilt Commodores,55.9,"5 GP, 30.0 mpg, 21.6 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Worst,10,Tajianna Roberts,Louisville Cardinals,57.8,"6 GP, 29.0 mpg, 15.5 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Worst,11,Chazadi Wright,Iowa Hawkeyes,58.4,"5 GP, 31.2 mpg, 13.2 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Worst,12,Emily McDonald,Kentucky Wildcats,59.1,"5 GP, 19.0 mpg, 9.8 ppg",2026-11-17
+True shooting pct (8+ FGA per game),Worst,13,Lara Somfai,TCU Horned Frogs,59.9,"6 GP, 21.8 mpg, 13.7 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,1,Mia Woolfolk,Vanderbilt Commodores,36.6,"5 GP, 21.2 mpg, 19.4 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,2,Sarah Strong,UConn Huskies,30.87,"5 GP, 29.8 mpg, 23.0 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,3,Clara Strack,Kentucky Wildcats,29.92,"5 GP, 24.6 mpg, 18.4 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,4,Mikayla Blakes,Vanderbilt Commodores,28.8,"5 GP, 30.0 mpg, 21.6 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,5,Jaloni Cambridge,Ohio State Buckeyes,28.41,"5 GP, 27.6 mpg, 19.6 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,6,Sydney Mobley,Ohio State Buckeyes,28.15,"5 GP, 16.2 mpg, 11.4 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,7,Imari Berry,Louisville Cardinals,27.91,"6 GP, 23.2 mpg, 16.2 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,8,Khamil Pierre,NC State Wolfpack,27.71,"5 GP, 30.6 mpg, 21.2 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,9,Liv McGill,Oklahoma State Cowgirls,26.93,"5 GP, 30.0 mpg, 20.2 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,10,Audi Crooks,Oklahoma State Cowgirls,26.67,"5 GP, 25.2 mpg, 16.8 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,11,Dani Carnegie,Iowa Hawkeyes,25.67,"5 GP, 24.0 mpg, 15.4 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,12,Lara Somfai,TCU Horned Frogs,25.04,"6 GP, 21.8 mpg, 13.7 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,13,Aubrey Galvan,Vanderbilt Commodores,22.66,"5 GP, 28.6 mpg, 16.2 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,14,Clara Silva,TCU Horned Frogs,22.62,"6 GP, 20.3 mpg, 11.5 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,15,Laura Vilcinskas,TCU Horned Frogs,22.37,"6 GP, 15.5 mpg, 8.7 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,16,Ava Heiden,Iowa Hawkeyes,22.15,"5 GP, 24.2 mpg, 13.4 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,17,Amiya Joyner,Louisville Cardinals,21.9,"6 GP, 15.8 mpg, 8.7 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,18,Tajianna Roberts,Louisville Cardinals,21.38,"6 GP, 29.0 mpg, 15.5 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,19,Ajsa Sivka,Kentucky Wildcats,21.33,"5 GP, 27.0 mpg, 14.4 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,20,Me'Arah O'Neal,Kentucky Wildcats,21.24,"5 GP, 22.6 mpg, 12.0 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,21,Emily McDonald,Kentucky Wildcats,20.63,"5 GP, 19.0 mpg, 9.8 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,22,Ariyana Cradle,Louisville Cardinals,20.41,"6 GP, 16.3 mpg, 8.3 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,23,Lanie Grant,TCU Horned Frogs,19.51,"6 GP, 27.0 mpg, 13.2 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,24,Jovana Popovic,UConn Huskies,18.78,"5 GP, 29.4 mpg, 13.8 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Best,25,Yuting Deng,Oklahoma State Cowgirls,18.76,"5 GP, 22.6 mpg, 10.6 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,1,Bryn Martin,Ohio State Buckeyes,7.68,"5 GP, 19.8 mpg, 3.8 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,2,Kayleigh Heckel,UConn Huskies,8,"5 GP, 15.0 mpg, 3.0 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,3,Desiree Wooten,NC State Wolfpack,8.38,"5 GP, 33.4 mpg, 7.0 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,4,Diana Collins,Kentucky Wildcats,8.55,"5 GP, 23.4 mpg, 5.0 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,5,LA Sneed,Oklahoma State Cowgirls,8.71,"5 GP, 20.2 mpg, 4.4 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,6,Maddyn Greenway,Kentucky Wildcats,8.84,"5 GP, 17.2 mpg, 3.8 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,7,Jocelyn Faison,Iowa Hawkeyes,8.89,"5 GP, 16.2 mpg, 3.6 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,8,Jhai Johnson,Vanderbilt Commodores,9.44,"5 GP, 17.8 mpg, 4.2 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,9,Stailee Heard,Oklahoma State Cowgirls,9.78,"5 GP, 27.0 mpg, 6.6 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,10,Olivia Vukosa,UConn Huskies,9.89,"5 GP, 17.8 mpg, 4.4 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,11,Amari Whiting,Iowa Hawkeyes,10.08,"5 GP, 24.6 mpg, 6.2 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,12,Taylor Stremlow,Iowa Hawkeyes,10.3,"5 GP, 20.2 mpg, 5.2 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,13,Madison Greene,Vanderbilt Commodores,10.83,"5 GP, 19.2 mpg, 5.2 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,14,Vernell Atamah,Vanderbilt Commodores,11.33,"5 GP, 22.6 mpg, 6.4 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,15,Carys Baker,Louisville Cardinals,11.47,"6 GP, 21.5 mpg, 6.2 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,16,Journey Houston,Iowa Hawkeyes,11.79,"5 GP, 19.0 mpg, 5.6 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,17,Qadence Samuels,NC State Wolfpack,11.8,"5 GP, 27.8 mpg, 8.2 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,18,Bella Hines,TCU Horned Frogs,11.89,"6 GP, 18.5 mpg, 5.5 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,19,Blanca Quinonez,UConn Huskies,12.04,"5 GP, 22.6 mpg, 6.8 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,20,KK Arnold,UConn Huskies,12.22,"5 GP, 28.8 mpg, 8.8 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,21,Callin Hake,Oklahoma State Cowgirls,12.25,"5 GP, 22.2 mpg, 6.8 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,22,Ky'She Lunan,NC State Wolfpack,12.73,"5 GP, 26.4 mpg, 8.4 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,23,Ashlynn Shade,UConn Huskies,12.79,"5 GP, 24.4 mpg, 7.8 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,24,Kamora Pruitt,NC State Wolfpack,13.33,"5 GP, 18.6 mpg, 6.2 ppg",2026-11-17
+Points per 40 minutes (15+ mpg),Worst,25,Olivia Jones,Vanderbilt Commodores,13.44,"5 GP, 25.6 mpg, 8.6 ppg",2026-11-17
+Share of team points,Best,1,Sarah Strong,UConn Huskies,29.5,"5 GP, 29.8 mpg, 23.0 ppg",2026-11-17
+Share of team points,Best,2,Khamil Pierre,NC State Wolfpack,27.6,"5 GP, 30.6 mpg, 21.2 ppg",2026-11-17
+Share of team points,Best,3,Jaloni Cambridge,Ohio State Buckeyes,24.5,"5 GP, 27.6 mpg, 19.6 ppg",2026-11-17
+Share of team points,Best,4,Liv McGill,Oklahoma State Cowgirls,23.6,"5 GP, 30.0 mpg, 20.2 ppg",2026-11-17
+Share of team points,Best,5,Mikayla Blakes,Vanderbilt Commodores,23.1,"5 GP, 30.0 mpg, 21.6 ppg",2026-11-17
+Share of team points,Best,6,Clara Strack,Kentucky Wildcats,21.4,"5 GP, 24.6 mpg, 18.4 ppg",2026-11-17
+Share of team points,Best,7,Mia Woolfolk,Vanderbilt Commodores,21,"5 GP, 21.2 mpg, 19.4 ppg",2026-11-17
+Share of team points,Best,8,Audi Crooks,Oklahoma State Cowgirls,20.7,"5 GP, 25.2 mpg, 16.8 ppg",2026-11-17
+Share of team points,Best,9,Dani Carnegie,Iowa Hawkeyes,20.1,"5 GP, 24.0 mpg, 15.4 ppg",2026-11-17
+Share of team points,Best,10,Imari Berry,Louisville Cardinals,19.1,"6 GP, 23.2 mpg, 16.2 ppg",2026-11-17
+Share of team points,Best,11,Jovana Popovic,UConn Huskies,19.1,"5 GP, 29.4 mpg, 13.8 ppg",2026-11-17
+Share of team points,Best,12,Tajianna Roberts,Louisville Cardinals,18.3,"6 GP, 29.0 mpg, 15.5 ppg",2026-11-17
+Share of team points,Best,13,Aubrey Galvan,Vanderbilt Commodores,17.4,"5 GP, 28.6 mpg, 16.2 ppg",2026-11-17
+Share of team points,Best,14,Ava Heiden,Iowa Hawkeyes,17.3,"5 GP, 24.2 mpg, 13.4 ppg",2026-11-17
+Share of team points,Best,15,Chazadi Wright,Iowa Hawkeyes,17.2,"5 GP, 31.2 mpg, 13.2 ppg",2026-11-17
+Share of team points,Best,16,Ajsa Sivka,Kentucky Wildcats,16.2,"5 GP, 27.0 mpg, 14.4 ppg",2026-11-17
+Share of team points,Best,17,Lara Somfai,TCU Horned Frogs,14.7,"6 GP, 21.8 mpg, 13.7 ppg",2026-11-17
+Share of team points,Best,18,McKenna Woliczko,Iowa Hawkeyes,14.4,"5 GP, 25.0 mpg, 11.2 ppg",2026-11-17
+Share of team points,Best,19,Lanie Grant,TCU Horned Frogs,14.2,"6 GP, 27.0 mpg, 13.2 ppg",2026-11-17
+Share of team points,Best,20,Jadyn Wooten,TCU Horned Frogs,14.1,"6 GP, 26.8 mpg, 12.5 ppg",2026-11-17
+Share of team points,Best,21,Ava Watson,Ohio State Buckeyes,13.9,"5 GP, 27.4 mpg, 11.2 ppg",2026-11-17
+Share of team points,Best,22,Me'Arah O'Neal,Kentucky Wildcats,13.7,"5 GP, 22.6 mpg, 12.0 ppg",2026-11-17
+Share of team points,Best,23,Nene Ndiaye,Oklahoma State Cowgirls,12.7,"5 GP, 28.2 mpg, 11.0 ppg",2026-11-17
+Share of team points,Best,24,Sydney Mobley,Ohio State Buckeyes,12.5,"5 GP, 16.2 mpg, 11.4 ppg",2026-11-17
+Share of team points,Best,25,Yuting Deng,Oklahoma State Cowgirls,12.5,"5 GP, 22.6 mpg, 10.6 ppg",2026-11-17
+Share of team points,Worst,1,Atlee Vanesko,Ohio State Buckeyes,1.5,"5 GP, 10.0 mpg, 1.4 ppg",2026-11-17
+Share of team points,Worst,2,Seini Henry,Ohio State Buckeyes,1.7,"5 GP, 10.2 mpg, 1.6 ppg",2026-11-17
+Share of team points,Worst,3,Allie Ziebell,UConn Huskies,3.2,"5 GP, 12.4 mpg, 3.0 ppg",2026-11-17
+Share of team points,Worst,4,Kayleigh Heckel,UConn Huskies,3.5,"5 GP, 15.0 mpg, 3.0 ppg",2026-11-17
+Share of team points,Worst,5,Deniya Prawl,Louisville Cardinals,3.8,"6 GP, 12.5 mpg, 3.5 ppg",2026-11-17
+Share of team points,Worst,6,Ayanna Patterson,Kentucky Wildcats,4,"5 GP, 11.8 mpg, 3.4 ppg",2026-11-17
+Share of team points,Worst,7,Camille Williams,TCU Horned Frogs,4.4,"6 GP, 12.8 mpg, 4.3 ppg",2026-11-17
+Share of team points,Worst,8,Jhai Johnson,Vanderbilt Commodores,4.4,"5 GP, 17.8 mpg, 4.2 ppg",2026-11-17
+Share of team points,Worst,9,Bryn Martin,Ohio State Buckeyes,4.5,"5 GP, 19.8 mpg, 3.8 ppg",2026-11-17
+Share of team points,Worst,10,Maddyn Greenway,Kentucky Wildcats,4.5,"5 GP, 17.2 mpg, 3.8 ppg",2026-11-17
+Share of team points,Worst,11,Jocelyn Faison,Iowa Hawkeyes,4.6,"5 GP, 16.2 mpg, 3.6 ppg",2026-11-17
+Share of team points,Worst,12,Madison Greene,Vanderbilt Commodores,4.8,"5 GP, 19.2 mpg, 5.2 ppg",2026-11-17
+Share of team points,Worst,13,LA Sneed,Oklahoma State Cowgirls,5.3,"5 GP, 20.2 mpg, 4.4 ppg",2026-11-17
+Share of team points,Worst,14,Olivia Vukosa,UConn Huskies,5.5,"5 GP, 17.8 mpg, 4.4 ppg",2026-11-17
+Share of team points,Worst,15,Diana Collins,Kentucky Wildcats,5.7,"5 GP, 23.4 mpg, 5.0 ppg",2026-11-17
+Share of team points,Worst,16,Bella Hines,TCU Horned Frogs,5.9,"6 GP, 18.5 mpg, 5.5 ppg",2026-11-17
+Share of team points,Worst,17,Grace Mbugua,Louisville Cardinals,6.2,"6 GP, 10.0 mpg, 5.5 ppg",2026-11-17
+Share of team points,Worst,18,Vernell Atamah,Vanderbilt Commodores,6.6,"5 GP, 22.6 mpg, 6.4 ppg",2026-11-17
+Share of team points,Worst,19,Talexa Weeter,Oklahoma State Cowgirls,6.6,"5 GP, 16.2 mpg, 5.6 ppg",2026-11-17
+Share of team points,Worst,20,Taylor Stremlow,Iowa Hawkeyes,6.8,"5 GP, 20.2 mpg, 5.2 ppg",2026-11-17
+Share of team points,Worst,21,Carys Baker,Louisville Cardinals,7.1,"6 GP, 21.5 mpg, 6.2 ppg",2026-11-17
+Share of team points,Worst,22,Aiyana Mitchell,Vanderbilt Commodores,7.3,"5 GP, 13.6 mpg, 7.4 ppg",2026-11-17
+Share of team points,Worst,23,Journey Houston,Iowa Hawkeyes,7.3,"5 GP, 19.0 mpg, 5.6 ppg",2026-11-17
+Share of team points,Worst,24,Clara Bielefeld,TCU Horned Frogs,8.1,"6 GP, 20.5 mpg, 7.5 ppg",2026-11-17
+Share of team points,Worst,25,Adriana Diaz,Ohio State Buckeyes,8.1,"5 GP, 20.2 mpg, 7.2 ppg",2026-11-17
+Usage: share of team plays,Best,1,Liv McGill,Oklahoma State Cowgirls,25.8,"5 GP, 30.0 mpg, 20.2 ppg",2026-11-17
+Usage: share of team plays,Best,2,Khamil Pierre,NC State Wolfpack,25.4,"5 GP, 30.6 mpg, 21.2 ppg",2026-11-17
+Usage: share of team plays,Best,3,Jaloni Cambridge,Ohio State Buckeyes,23.8,"5 GP, 27.6 mpg, 19.6 ppg",2026-11-17
+Usage: share of team plays,Best,4,Mikayla Blakes,Vanderbilt Commodores,21.8,"5 GP, 30.0 mpg, 21.6 ppg",2026-11-17
+Usage: share of team plays,Best,5,Sarah Strong,UConn Huskies,21.5,"5 GP, 29.8 mpg, 23.0 ppg",2026-11-17
+Usage: share of team plays,Best,6,Dani Carnegie,Iowa Hawkeyes,19.2,"5 GP, 24.0 mpg, 15.4 ppg",2026-11-17
+Usage: share of team plays,Best,7,Clara Strack,Kentucky Wildcats,18.2,"5 GP, 24.6 mpg, 18.4 ppg",2026-11-17
+Usage: share of team plays,Best,8,Audi Crooks,Oklahoma State Cowgirls,17.2,"5 GP, 25.2 mpg, 16.8 ppg",2026-11-17
+Usage: share of team plays,Best,9,Tajianna Roberts,Louisville Cardinals,16.7,"6 GP, 29.0 mpg, 15.5 ppg",2026-11-17
+Usage: share of team plays,Best,10,Mia Woolfolk,Vanderbilt Commodores,16.5,"5 GP, 21.2 mpg, 19.4 ppg",2026-11-17
+Usage: share of team plays,Best,11,Jovana Popovic,UConn Huskies,16,"5 GP, 29.4 mpg, 13.8 ppg",2026-11-17
+Usage: share of team plays,Best,12,Lara Somfai,TCU Horned Frogs,15.8,"6 GP, 21.8 mpg, 13.7 ppg",2026-11-17
+Usage: share of team plays,Best,13,Aubrey Galvan,Vanderbilt Commodores,15.7,"5 GP, 28.6 mpg, 16.2 ppg",2026-11-17
+Usage: share of team plays,Best,14,Chazadi Wright,Iowa Hawkeyes,15.4,"5 GP, 31.2 mpg, 13.2 ppg",2026-11-17
+Usage: share of team plays,Best,15,Savvy Swords,Kentucky Wildcats,14.7,"5 GP, 24.2 mpg, 8.8 ppg",2026-11-17
+Usage: share of team plays,Best,16,Ava Watson,Ohio State Buckeyes,14.3,"5 GP, 27.4 mpg, 11.2 ppg",2026-11-17
+Usage: share of team plays,Best,17,Zamareya Jones,Louisville Cardinals,14.3,"6 GP, 27.2 mpg, 10.2 ppg",2026-11-17
+Usage: share of team plays,Best,18,Imari Berry,Louisville Cardinals,14.2,"6 GP, 23.2 mpg, 16.2 ppg",2026-11-17
+Usage: share of team plays,Best,19,Ava Heiden,Iowa Hawkeyes,14,"5 GP, 24.2 mpg, 13.4 ppg",2026-11-17
+Usage: share of team plays,Best,20,Ajsa Sivka,Kentucky Wildcats,13.4,"5 GP, 27.0 mpg, 14.4 ppg",2026-11-17
+Usage: share of team plays,Best,21,KK Arnold,UConn Huskies,13,"5 GP, 28.8 mpg, 8.8 ppg",2026-11-17
+Usage: share of team plays,Best,22,Jadyn Wooten,TCU Horned Frogs,12.7,"6 GP, 26.8 mpg, 12.5 ppg",2026-11-17
+Usage: share of team plays,Best,23,Me'Arah O'Neal,Kentucky Wildcats,12.7,"5 GP, 22.6 mpg, 12.0 ppg",2026-11-17
+Usage: share of team plays,Best,24,Desiree Wooten,NC State Wolfpack,12.5,"5 GP, 33.4 mpg, 7.0 ppg",2026-11-17
+Usage: share of team plays,Best,25,Blanca Quinonez,UConn Huskies,12.5,"5 GP, 22.6 mpg, 6.8 ppg",2026-11-17
+Usage: share of team plays,Worst,1,Seini Henry,Ohio State Buckeyes,2.5,"5 GP, 10.2 mpg, 1.6 ppg",2026-11-17
+Usage: share of team plays,Worst,2,Atlee Vanesko,Ohio State Buckeyes,3.4,"5 GP, 10.0 mpg, 1.4 ppg",2026-11-17
+Usage: share of team plays,Worst,3,Ayanna Patterson,Kentucky Wildcats,4.2,"5 GP, 11.8 mpg, 3.4 ppg",2026-11-17
+Usage: share of team plays,Worst,4,Deniya Prawl,Louisville Cardinals,4.9,"6 GP, 12.5 mpg, 3.5 ppg",2026-11-17
+Usage: share of team plays,Worst,5,Allie Ziebell,UConn Huskies,5.1,"5 GP, 12.4 mpg, 3.0 ppg",2026-11-17
+Usage: share of team plays,Worst,6,LA Sneed,Oklahoma State Cowgirls,5.5,"5 GP, 20.2 mpg, 4.4 ppg",2026-11-17
+Usage: share of team plays,Worst,7,Camille Williams,TCU Horned Frogs,5.7,"6 GP, 12.8 mpg, 4.3 ppg",2026-11-17
+Usage: share of team plays,Worst,8,Jhai Johnson,Vanderbilt Commodores,5.8,"5 GP, 17.8 mpg, 4.2 ppg",2026-11-17
+Usage: share of team plays,Worst,9,Talexa Weeter,Oklahoma State Cowgirls,6,"5 GP, 16.2 mpg, 5.6 ppg",2026-11-17
+Usage: share of team plays,Worst,10,Grace Mbugua,Louisville Cardinals,6.1,"6 GP, 10.0 mpg, 5.5 ppg",2026-11-17
+Usage: share of team plays,Worst,11,Bryn Martin,Ohio State Buckeyes,6.1,"5 GP, 19.8 mpg, 3.8 ppg",2026-11-17
+Usage: share of team plays,Worst,12,Maddyn Greenway,Kentucky Wildcats,6.2,"5 GP, 17.2 mpg, 3.8 ppg",2026-11-17
+Usage: share of team plays,Worst,13,Kamora Pruitt,NC State Wolfpack,6.6,"5 GP, 18.6 mpg, 6.2 ppg",2026-11-17
+Usage: share of team plays,Worst,14,Olivia Vukosa,UConn Huskies,6.6,"5 GP, 17.8 mpg, 4.4 ppg",2026-11-17
+Usage: share of team plays,Worst,15,Jocelyn Faison,Iowa Hawkeyes,6.6,"5 GP, 16.2 mpg, 3.6 ppg",2026-11-17
+Usage: share of team plays,Worst,16,Aiyana Mitchell,Vanderbilt Commodores,6.9,"5 GP, 13.6 mpg, 7.4 ppg",2026-11-17
+Usage: share of team plays,Worst,17,Vernell Atamah,Vanderbilt Commodores,7.1,"5 GP, 22.6 mpg, 6.4 ppg",2026-11-17
+Usage: share of team plays,Worst,18,Diana Collins,Kentucky Wildcats,7.1,"5 GP, 23.4 mpg, 5.0 ppg",2026-11-17
+Usage: share of team plays,Worst,19,Madison Greene,Vanderbilt Commodores,7.2,"5 GP, 19.2 mpg, 5.2 ppg",2026-11-17
+Usage: share of team plays,Worst,20,Annsley Trivette,NC State Wolfpack,7.3,"5 GP, 12.6 mpg, 6.6 ppg",2026-11-17
+Usage: share of team plays,Worst,21,Laura Vilcinskas,TCU Horned Frogs,7.5,"6 GP, 15.5 mpg, 8.7 ppg",2026-11-17
+Usage: share of team plays,Worst,22,Amiya Joyner,Louisville Cardinals,7.7,"6 GP, 15.8 mpg, 8.7 ppg",2026-11-17
+Usage: share of team plays,Worst,23,Ashlynn Shade,UConn Huskies,7.7,"5 GP, 24.4 mpg, 7.8 ppg",2026-11-17
+Usage: share of team plays,Worst,24,Bella Hines,TCU Horned Frogs,8.1,"6 GP, 18.5 mpg, 5.5 ppg",2026-11-17
+Usage: share of team plays,Worst,25,Callin Hake,Oklahoma State Cowgirls,8.2,"5 GP, 22.2 mpg, 6.8 ppg",2026-11-17
+Average Game Score,Best,1,Mikayla Blakes,Vanderbilt Commodores,20.84,"5 GP, 30.0 mpg, 21.6 ppg",2026-11-17
+Average Game Score,Best,2,Sarah Strong,UConn Huskies,20.36,"5 GP, 29.8 mpg, 23.0 ppg",2026-11-17
+Average Game Score,Best,3,Clara Strack,Kentucky Wildcats,19.98,"5 GP, 24.6 mpg, 18.4 ppg",2026-11-17
+Average Game Score,Best,4,Liv McGill,Oklahoma State Cowgirls,18.06,"5 GP, 30.0 mpg, 20.2 ppg",2026-11-17
+Average Game Score,Best,5,Khamil Pierre,NC State Wolfpack,17.3,"5 GP, 30.6 mpg, 21.2 ppg",2026-11-17
+Average Game Score,Best,6,Aubrey Galvan,Vanderbilt Commodores,16.12,"5 GP, 28.6 mpg, 16.2 ppg",2026-11-17
+Average Game Score,Best,7,Jaloni Cambridge,Ohio State Buckeyes,15.96,"5 GP, 27.6 mpg, 19.6 ppg",2026-11-17
+Average Game Score,Best,8,Mia Woolfolk,Vanderbilt Commodores,15.04,"5 GP, 21.2 mpg, 19.4 ppg",2026-11-17
+Average Game Score,Best,9,Imari Berry,Louisville Cardinals,14.35,"6 GP, 23.2 mpg, 16.2 ppg",2026-11-17
+Average Game Score,Best,10,Jadyn Wooten,TCU Horned Frogs,14.3,"6 GP, 26.8 mpg, 12.5 ppg",2026-11-17
+Average Game Score,Best,11,Audi Crooks,Oklahoma State Cowgirls,13.2,"5 GP, 25.2 mpg, 16.8 ppg",2026-11-17
+Average Game Score,Best,12,Ajsa Sivka,Kentucky Wildcats,12.6,"5 GP, 27.0 mpg, 14.4 ppg",2026-11-17
+Average Game Score,Best,13,Clara Silva,TCU Horned Frogs,12,"6 GP, 20.3 mpg, 11.5 ppg",2026-11-17
+Average Game Score,Best,14,Tajianna Roberts,Louisville Cardinals,11.92,"6 GP, 29.0 mpg, 15.5 ppg",2026-11-17
+Average Game Score,Best,15,Zamareya Jones,Louisville Cardinals,11.77,"6 GP, 27.2 mpg, 10.2 ppg",2026-11-17
+Average Game Score,Best,16,Ava Heiden,Iowa Hawkeyes,11.42,"5 GP, 24.2 mpg, 13.4 ppg",2026-11-17
+Average Game Score,Best,17,Kennedy Cambridge,Ohio State Buckeyes,11.12,"5 GP, 25.2 mpg, 9.4 ppg",2026-11-17
+Average Game Score,Best,18,Lara Somfai,TCU Horned Frogs,11.12,"6 GP, 21.8 mpg, 13.7 ppg",2026-11-17
+Average Game Score,Best,19,Amiya Joyner,Louisville Cardinals,11,"6 GP, 15.8 mpg, 8.7 ppg",2026-11-17
+Average Game Score,Best,20,Lanie Grant,TCU Horned Frogs,10.73,"6 GP, 27.0 mpg, 13.2 ppg",2026-11-17
+Average Game Score,Best,21,Chazadi Wright,Iowa Hawkeyes,10.66,"5 GP, 31.2 mpg, 13.2 ppg",2026-11-17
+Average Game Score,Best,22,Dani Carnegie,Iowa Hawkeyes,10.62,"5 GP, 24.0 mpg, 15.4 ppg",2026-11-17
+Average Game Score,Best,23,Jovana Popovic,UConn Huskies,10.26,"5 GP, 29.4 mpg, 13.8 ppg",2026-11-17
+Average Game Score,Best,24,Me'Arah O'Neal,Kentucky Wildcats,9.84,"5 GP, 22.6 mpg, 12.0 ppg",2026-11-17
+Average Game Score,Best,25,Laura Vilcinskas,TCU Horned Frogs,9.53,"6 GP, 15.5 mpg, 8.7 ppg",2026-11-17
+Average Game Score,Worst,1,Kayleigh Heckel,UConn Huskies,-0.52,"5 GP, 15.0 mpg, 3.0 ppg",2026-11-17
+Average Game Score,Worst,2,Atlee Vanesko,Ohio State Buckeyes,0.38,"5 GP, 10.0 mpg, 1.4 ppg",2026-11-17
+Average Game Score,Worst,3,Seini Henry,Ohio State Buckeyes,1.2,"5 GP, 10.2 mpg, 1.6 ppg",2026-11-17
+Average Game Score,Worst,4,Allie Ziebell,UConn Huskies,1.84,"5 GP, 12.4 mpg, 3.0 ppg",2026-11-17
+Average Game Score,Worst,5,Jocelyn Faison,Iowa Hawkeyes,2.98,"5 GP, 16.2 mpg, 3.6 ppg",2026-11-17
+Average Game Score,Worst,6,Ayanna Patterson,Kentucky Wildcats,2.98,"5 GP, 11.8 mpg, 3.4 ppg",2026-11-17
+Average Game Score,Worst,7,Deniya Prawl,Louisville Cardinals,3,"6 GP, 12.5 mpg, 3.5 ppg",2026-11-17
+Average Game Score,Worst,8,Bryn Martin,Ohio State Buckeyes,3.24,"5 GP, 19.8 mpg, 3.8 ppg",2026-11-17
+Average Game Score,Worst,9,Grace Mbugua,Louisville Cardinals,3.38,"6 GP, 10.0 mpg, 5.5 ppg",2026-11-17
+Average Game Score,Worst,10,Camille Williams,TCU Horned Frogs,3.43,"6 GP, 12.8 mpg, 4.3 ppg",2026-11-17
+Average Game Score,Worst,11,Madison Greene,Vanderbilt Commodores,3.64,"5 GP, 19.2 mpg, 5.2 ppg",2026-11-17
+Average Game Score,Worst,12,Blanca Quinonez,UConn Huskies,3.88,"5 GP, 22.6 mpg, 6.8 ppg",2026-11-17
+Average Game Score,Worst,13,Taylor Stremlow,Iowa Hawkeyes,4.28,"5 GP, 20.2 mpg, 5.2 ppg",2026-11-17
+Average Game Score,Worst,14,Maddyn Greenway,Kentucky Wildcats,4.38,"5 GP, 17.2 mpg, 3.8 ppg",2026-11-17
+Average Game Score,Worst,15,Khady Leye,NC State Wolfpack,4.96,"5 GP, 20.4 mpg, 7.0 ppg",2026-11-17
+Average Game Score,Worst,16,Journey Houston,Iowa Hawkeyes,5.14,"5 GP, 19.0 mpg, 5.6 ppg",2026-11-17
+Average Game Score,Worst,17,LA Sneed,Oklahoma State Cowgirls,5.18,"5 GP, 20.2 mpg, 4.4 ppg",2026-11-17
+Average Game Score,Worst,18,Kamora Pruitt,NC State Wolfpack,5.3,"5 GP, 18.6 mpg, 6.2 ppg",2026-11-17
+Average Game Score,Worst,19,Diana Collins,Kentucky Wildcats,5.32,"5 GP, 23.4 mpg, 5.0 ppg",2026-11-17
+Average Game Score,Worst,20,Olivia Vukosa,UConn Huskies,5.4,"5 GP, 17.8 mpg, 4.4 ppg",2026-11-17
+Average Game Score,Worst,21,Annsley Trivette,NC State Wolfpack,5.58,"5 GP, 12.6 mpg, 6.6 ppg",2026-11-17
+Average Game Score,Worst,22,Ky'She Lunan,NC State Wolfpack,5.72,"5 GP, 26.4 mpg, 8.4 ppg",2026-11-17
+Average Game Score,Worst,23,Talexa Weeter,Oklahoma State Cowgirls,6.02,"5 GP, 16.2 mpg, 5.6 ppg",2026-11-17
+Average Game Score,Worst,24,Callin Hake,Oklahoma State Cowgirls,6.1,"5 GP, 22.2 mpg, 6.8 ppg",2026-11-17
+Average Game Score,Worst,25,Bella Hines,TCU Horned Frogs,6.12,"6 GP, 18.5 mpg, 5.5 ppg",2026-11-17
+Bench players: points per 40 minutes,Best,1,Sydney Mobley,Ohio State Buckeyes,28.15,"5 GP, 16.2 mpg, 11.4 ppg",2026-11-17
+Bench players: points per 40 minutes,Best,2,Laura Vilcinskas,TCU Horned Frogs,22.37,"6 GP, 15.5 mpg, 8.7 ppg",2026-11-17
+Bench players: points per 40 minutes,Best,3,Grace Mbugua,Louisville Cardinals,22,"6 GP, 10.0 mpg, 5.5 ppg",2026-11-17
+Bench players: points per 40 minutes,Best,4,Aiyana Mitchell,Vanderbilt Commodores,21.76,"5 GP, 13.6 mpg, 7.4 ppg",2026-11-17
+Bench players: points per 40 minutes,Best,5,Annsley Trivette,NC State Wolfpack,20.95,"5 GP, 12.6 mpg, 6.6 ppg",2026-11-17
+Bench players: points per 40 minutes,Best,6,Emily McDonald,Kentucky Wildcats,20.63,"5 GP, 19.0 mpg, 9.8 ppg",2026-11-17
+Bench players: points per 40 minutes,Best,7,Ariyana Cradle,Louisville Cardinals,20.41,"6 GP, 16.3 mpg, 8.3 ppg",2026-11-17
+Bench players: points per 40 minutes,Best,8,Savvy Swords,Kentucky Wildcats,14.54,"5 GP, 24.2 mpg, 8.8 ppg",2026-11-17
+Bench players: points per 40 minutes,Best,9,Adriana Diaz,Ohio State Buckeyes,14.26,"5 GP, 20.2 mpg, 7.2 ppg",2026-11-17
+Bench players: points per 40 minutes,Best,10,Talexa Weeter,Oklahoma State Cowgirls,13.83,"5 GP, 16.2 mpg, 5.6 ppg",2026-11-17
+Bench players: points per 40 minutes,Best,11,Camille Williams,TCU Horned Frogs,13.51,"6 GP, 12.8 mpg, 4.3 ppg",2026-11-17
+Bench players: points per 40 minutes,Best,12,Kamora Pruitt,NC State Wolfpack,13.33,"5 GP, 18.6 mpg, 6.2 ppg",2026-11-17
+Bench players: points per 40 minutes,Best,13,Callin Hake,Oklahoma State Cowgirls,12.25,"5 GP, 22.2 mpg, 6.8 ppg",2026-11-17
+Bench players: points per 40 minutes,Best,14,Blanca Quinonez,UConn Huskies,12.04,"5 GP, 22.6 mpg, 6.8 ppg",2026-11-17
+Bench players: points per 40 minutes,Worst,1,Atlee Vanesko,Ohio State Buckeyes,5.6,"5 GP, 10.0 mpg, 1.4 ppg",2026-11-17
+Bench players: points per 40 minutes,Worst,2,Seini Henry,Ohio State Buckeyes,6.28,"5 GP, 10.2 mpg, 1.6 ppg",2026-11-17
+Bench players: points per 40 minutes,Worst,3,Bryn Martin,Ohio State Buckeyes,7.68,"5 GP, 19.8 mpg, 3.8 ppg",2026-11-17
+Bench players: points per 40 minutes,Worst,4,Kayleigh Heckel,UConn Huskies,8,"5 GP, 15.0 mpg, 3.0 ppg",2026-11-17
+Bench players: points per 40 minutes,Worst,5,LA Sneed,Oklahoma State Cowgirls,8.71,"5 GP, 20.2 mpg, 4.4 ppg",2026-11-17
+Bench players: points per 40 minutes,Worst,6,Maddyn Greenway,Kentucky Wildcats,8.84,"5 GP, 17.2 mpg, 3.8 ppg",2026-11-17
+Bench players: points per 40 minutes,Worst,7,Jocelyn Faison,Iowa Hawkeyes,8.89,"5 GP, 16.2 mpg, 3.6 ppg",2026-11-17
+Bench players: points per 40 minutes,Worst,8,Jhai Johnson,Vanderbilt Commodores,9.44,"5 GP, 17.8 mpg, 4.2 ppg",2026-11-17
+Bench players: points per 40 minutes,Worst,9,Allie Ziebell,UConn Huskies,9.68,"5 GP, 12.4 mpg, 3.0 ppg",2026-11-17
+Bench players: points per 40 minutes,Worst,10,Olivia Vukosa,UConn Huskies,9.89,"5 GP, 17.8 mpg, 4.4 ppg",2026-11-17
+Bench players: points per 40 minutes,Worst,11,Taylor Stremlow,Iowa Hawkeyes,10.3,"5 GP, 20.2 mpg, 5.2 ppg",2026-11-17
+Bench players: points per 40 minutes,Worst,12,Madison Greene,Vanderbilt Commodores,10.83,"5 GP, 19.2 mpg, 5.2 ppg",2026-11-17
+Bench players: points per 40 minutes,Worst,13,Deniya Prawl,Louisville Cardinals,11.2,"6 GP, 12.5 mpg, 3.5 ppg",2026-11-17
+Bench players: points per 40 minutes,Worst,14,Ayanna Patterson,Kentucky Wildcats,11.53,"5 GP, 11.8 mpg, 3.4 ppg",2026-11-17
+"Single-game Game Score, last 7 days",Best games,1,Clara Strack,Kentucky Wildcats,35.7,"29 pts, 18 reb, 3 ast on 8-14 FG vs Eastern Michigan Eagles (2026-11-15)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,2,JuJu Watkins,USC Trojans,34.8,"32 pts, 16 reb, 6 ast on 10-19 FG vs Utah State Aggies (2026-11-08)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,3,Hannah Hidalgo,Notre Dame Fighting Irish,32.9,"31 pts, 7 reb, 7 ast on 12-19 FG vs DePaul Blue Demons (2026-11-14)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,4,Liv McGill,Oklahoma State Cowgirls,32.1,"34 pts, 4 reb, 7 ast on 14-20 FG vs South Dakota State Jackrabbits (2026-11-15)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,5,Sarah Strong,UConn Huskies,29.5,"39 pts, 10 reb, 3 ast on 15-26 FG vs Iowa Hawkeyes (2026-11-08)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,6,Britt Prince,Nebraska Cornhuskers,27.2,"35 pts, 2 reb, 2 ast on 12-18 FG vs Kansas Jayhawks (2026-11-14)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,7,Mikayla Blakes,Vanderbilt Commodores,26.4,"25 pts, 3 reb, 6 ast on 7-15 FG vs Morehead State Eagles (2026-11-09)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,8,Ajsa Sivka,Kentucky Wildcats,26.1,"32 pts, 5 reb, 3 ast on 11-17 FG vs NC State Wolfpack (2026-11-08)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,9,Sarah Strong,UConn Huskies,25.6,"25 pts, 9 reb, 5 ast on 9-12 FG vs Ohio State Buckeyes (2026-11-12)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,10,Olivia Olson,Michigan Wolverines,25.5,"19 pts, 4 reb, 7 ast on 7-9 FG vs Wright State Raiders (2026-11-08)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,11,Talaysia Cooper,Ole Miss Rebels,25.3,"29 pts, 2 reb, 2 ast on 10-16 FG vs UAlbany Great Danes (2026-11-11)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,12,Kate Harpring,North Carolina Tar Heels,25.1,"30 pts, 7 reb, 3 ast on 11-21 FG vs Pennsylvania Quakers (2026-11-14)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,13,Sahara Williams,Oklahoma Sooners,24.5,"21 pts, 10 reb, 10 ast on 8-19 FG vs Oral Roberts Golden Eagles (2026-11-13)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,14,Jazzy Davidson,USC Trojans,24.4,"24 pts, 4 reb, 4 ast on 9-17 FG vs Charleston Cougars (2026-11-10)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,15,JuJu Watkins,USC Trojans,24.2,"20 pts, 4 reb, 6 ast on 7-13 FG vs Charleston Cougars (2026-11-10)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,16,Elsa Lemmila,Ohio State Buckeyes,23.8,"19 pts, 12 reb, 1 ast on 7-7 FG vs Mercyhurst Lakers (2026-11-08)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,17,Mia Woolfolk,Vanderbilt Commodores,23.5,"27 pts, 3 reb, 0 ast on 12-14 FG vs Western Kentucky Lady Toppers (2026-11-11)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,18,Hannah Hidalgo,Notre Dame Fighting Irish,23.2,"23 pts, 10 reb, 5 ast on 7-13 FG vs Detroit Mercy Titans (2026-11-10)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,19,Tessa Johnson,South Carolina Gamecocks,22.7,"28 pts, 2 reb, 3 ast on 9-16 FG vs USC Trojans (2026-11-15)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,20,Emily McDonald,Kentucky Wildcats,22.7,"27 pts, 3 reb, 0 ast on 9-12 FG vs Evansville Purple Aces (2026-11-11)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,21,MiLaysia Fulwiley,LSU Tigers,22.7,"23 pts, 2 reb, 3 ast on 9-14 FG vs Denver Pioneers (2026-11-13)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,22,Mikaylah Williams,LSU Tigers,22.3,"20 pts, 7 reb, 3 ast on 9-16 FG vs Denver Pioneers (2026-11-13)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,23,Jayda Clark,Texas Longhorns,22.1,"24 pts, 5 reb, 3 ast on 10-15 FG vs South Dakota State Jackrabbits (2026-11-11)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,24,Khamil Pierre,NC State Wolfpack,22,"34 pts, 5 reb, 0 ast on 12-25 FG vs Kentucky Wildcats (2026-11-08)",2026-11-17
+"Single-game Game Score, last 7 days",Best games,25,Oluchi Okananwa,Maryland Terrapins,21.9,"24 pts, 6 reb, 2 ast on 9-13 FG vs George Mason Patriots (2026-11-08)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,1,Achol Akot,North Carolina Tar Heels,-4.9,"0 pts, 2 reb, 1 ast on 0-4 FG vs South Carolina Gamecocks (2026-11-08)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,2,Olivia Jones,Vanderbilt Commodores,-4.3,"3 pts, 1 reb, 0 ast on 1-8 FG vs Iowa Hawkeyes (2026-11-15)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,3,Jovana Popovic,UConn Huskies,-3.2,"2 pts, 4 reb, 1 ast on 1-7 FG vs Ohio State Buckeyes (2026-11-12)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,4,KK Arnold,UConn Huskies,-2.9,"2 pts, 3 reb, 5 ast on 1-9 FG vs Louisville Cardinals (2026-11-15)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,5,Kate Harpring,North Carolina Tar Heels,-2.7,"8 pts, 7 reb, 2 ast on 3-16 FG vs South Carolina Gamecocks (2026-11-08)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,6,Knisha Godfrey,Ole Miss Rebels,-2.6,"0 pts, 1 reb, 1 ast on 0-0 FG vs Louisiana Tech Lady Techsters (2026-11-15)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,7,Blanca Quinonez,UConn Huskies,-2.5,"0 pts, 5 reb, 3 ast on 0-5 FG vs Ohio State Buckeyes (2026-11-12)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,8,Bella Ragone,Notre Dame Fighting Irish,-2.1,"2 pts, 0 reb, 0 ast on 1-4 FG vs Detroit Mercy Titans (2026-11-10)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,9,Blanca Quinonez,UConn Huskies,-1.7,"2 pts, 4 reb, 1 ast on 1-6 FG vs Louisville Cardinals (2026-11-15)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,10,Elsa Lemmila,Ohio State Buckeyes,-1.5,"4 pts, 1 reb, 2 ast on 2-7 FG vs UConn Huskies (2026-11-12)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,11,Ky'She Lunan,NC State Wolfpack,-1.5,"2 pts, 2 reb, 0 ast on 1-5 FG vs Kentucky Wildcats (2026-11-08)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,12,Caya Smith,Oklahoma Sooners,-1.4,"0 pts, 2 reb, 4 ast on 0-5 FG vs Oral Roberts Golden Eagles (2026-11-13)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,13,Gabby White,North Carolina Tar Heels,-1.4,"2 pts, 7 reb, 0 ast on 0-5 FG vs Pennsylvania Quakers (2026-11-14)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,14,Bryn Martin,Ohio State Buckeyes,-1.4,"0 pts, 0 reb, 0 ast on 0-3 FG vs Mercyhurst Lakers (2026-11-08)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,15,Tayla Thomas,Minnesota Golden Gophers,-1.3,"4 pts, 2 reb, 0 ast on 2-10 FG vs Kansas State Wildcats (2026-11-14)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,16,Madison Greene,Vanderbilt Commodores,-1.2,"0 pts, 0 reb, 2 ast on 0-2 FG vs Morehead State Eagles (2026-11-09)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,17,Logan Nissley,Nebraska Cornhuskers,-1.1,"2 pts, 1 reb, 3 ast on 0-3 FG vs North Carolina A&T Aggies (2026-11-10)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,18,Vienna Murray,Oklahoma Sooners,-1,"0 pts, 1 reb, 1 ast on 0-2 FG vs San José State Spartans (2026-11-10)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,19,Kennedy Klick,Minnesota Golden Gophers,-0.9,"0 pts, 2 reb, 3 ast on 0-0 FG vs Southern Jaguars (2026-11-10)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,20,Riley Nelson,Duke Blue Devils,-0.6,"7 pts, 4 reb, 2 ast on 1-8 FG vs Marshall Thundering Herd (2026-11-15)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,21,Lina Jerkovic,UCLA Bruins,-0.6,"0 pts, 3 reb, 0 ast on 0-1 FG vs Princeton Tigers (2026-11-15)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,22,Diana Collins,Kentucky Wildcats,-0.5,"1 pts, 2 reb, 3 ast on 0-2 FG vs Eastern Michigan Eagles (2026-11-15)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,23,Taissa Queiroz,North Carolina Tar Heels,-0.5,"4 pts, 4 reb, 0 ast on 2-5 FG vs Pennsylvania Quakers (2026-11-14)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,24,Reniya Kelly,North Carolina Tar Heels,-0.4,"0 pts, 2 reb, 3 ast on 0-3 FG vs South Carolina Gamecocks (2026-11-08)",2026-11-17
+"Single-game Game Score, last 7 days",Worst games,25,Rainey Welson,Maryland Terrapins,-0.1,"7 pts, 0 reb, 0 ast on 2-9 FG vs George Mason Patriots (2026-11-08)",2026-11-17
+Team net rating,Best,1,LSU Tigers,LSU Tigers,100.69,"4 GP, AP #9",2026-11-17
+Team net rating,Best,2,Illinois Fighting Illini,Illinois Fighting Illini,77.4,"3 GP, AP #21",2026-11-17
+Team net rating,Best,3,TCU Horned Frogs,TCU Horned Frogs,66.09,"6 GP, AP #15",2026-11-17
+Team net rating,Best,4,Kentucky Wildcats,Kentucky Wildcats,61.35,"5 GP, AP #12",2026-11-17
+Team net rating,Best,5,Texas Longhorns,Texas Longhorns,61.11,"4 GP, AP #6",2026-11-17
+Team net rating,Best,6,USC Trojans,USC Trojans,56.6,"4 GP, AP #4",2026-11-17
+Team net rating,Best,7,Nebraska Cornhuskers,Nebraska Cornhuskers,55.65,"4 GP, AP #23",2026-11-17
+Team net rating,Best,8,Notre Dame Fighting Irish,Notre Dame Fighting Irish,53.31,"4 GP, AP #13",2026-11-17
+Team net rating,Best,9,Vanderbilt Commodores,Vanderbilt Commodores,52.42,"5 GP, AP #11",2026-11-17
+Team net rating,Best,10,Duke Blue Devils,Duke Blue Devils,50.11,"4 GP, AP #5",2026-11-17
+Team net rating,Worst,1,North Carolina Tar Heels,North Carolina Tar Heels,9.82,"4 GP, AP #24",2026-11-17
+Team net rating,Worst,2,Maryland Terrapins,Maryland Terrapins,15.8,"3 GP, AP #18",2026-11-17
+Team net rating,Worst,3,West Virginia Mountaineers,West Virginia Mountaineers,16.25,"4 GP, AP #22",2026-11-17
+Team net rating,Worst,4,UConn Huskies,UConn Huskies,20.34,"5 GP, AP #7",2026-11-17
+Team net rating,Worst,5,Minnesota Golden Gophers,Minnesota Golden Gophers,24.34,"4 GP, AP #17",2026-11-17
+Team net rating,Worst,6,South Carolina Gamecocks,South Carolina Gamecocks,26.79,"4 GP, AP #1",2026-11-17
+Team net rating,Worst,7,NC State Wolfpack,NC State Wolfpack,28.06,5 GP,2026-11-17
+Team net rating,Worst,8,Iowa Hawkeyes,Iowa Hawkeyes,30.7,"5 GP, AP #8",2026-11-17
+Team net rating,Worst,9,Washington Huskies,Washington Huskies,32.66,"3 GP, AP #16",2026-11-17
+Team net rating,Worst,10,Oklahoma State Cowgirls,Oklahoma State Cowgirls,38.67,"5 GP, AP #25",2026-11-17
+Team offensive rating,Best,1,LSU Tigers,LSU Tigers,144.23,"4 GP, AP #9",2026-11-17
+Team offensive rating,Best,2,Illinois Fighting Illini,Illinois Fighting Illini,137.72,"3 GP, AP #21",2026-11-17
+Team offensive rating,Best,3,USC Trojans,USC Trojans,134.32,"4 GP, AP #4",2026-11-17
+Team offensive rating,Best,4,TCU Horned Frogs,TCU Horned Frogs,133.14,"6 GP, AP #15",2026-11-17
+Team offensive rating,Best,5,Notre Dame Fighting Irish,Notre Dame Fighting Irish,132.17,"4 GP, AP #13",2026-11-17
+Team offensive rating,Best,6,Texas Longhorns,Texas Longhorns,130.94,"4 GP, AP #6",2026-11-17
+Team offensive rating,Best,7,Vanderbilt Commodores,Vanderbilt Commodores,126.61,"5 GP, AP #11",2026-11-17
+Team offensive rating,Best,8,Kentucky Wildcats,Kentucky Wildcats,124.89,"5 GP, AP #12",2026-11-17
+Team offensive rating,Best,9,Nebraska Cornhuskers,Nebraska Cornhuskers,121.67,"4 GP, AP #23",2026-11-17
+Team offensive rating,Best,10,Michigan Wolverines,Michigan Wolverines,118.73,"3 GP, AP #2",2026-11-17
+Team offensive rating,Worst,1,North Carolina Tar Heels,North Carolina Tar Heels,101.45,"4 GP, AP #24",2026-11-17
+Team offensive rating,Worst,2,West Virginia Mountaineers,West Virginia Mountaineers,101.63,"4 GP, AP #22",2026-11-17
+Team offensive rating,Worst,3,UCLA Bruins,UCLA Bruins,103.05,"4 GP, AP #10",2026-11-17
+Team offensive rating,Worst,4,UConn Huskies,UConn Huskies,104.82,"5 GP, AP #7",2026-11-17
+Team offensive rating,Worst,5,Maryland Terrapins,Maryland Terrapins,106.08,"3 GP, AP #18",2026-11-17
+Team offensive rating,Worst,6,Ole Miss Rebels,Ole Miss Rebels,106.36,"4 GP, AP #19",2026-11-17
+Team offensive rating,Worst,7,Washington Huskies,Washington Huskies,108.17,"3 GP, AP #16",2026-11-17
+Team offensive rating,Worst,8,Iowa Hawkeyes,Iowa Hawkeyes,108.75,"5 GP, AP #8",2026-11-17
+Team offensive rating,Worst,9,South Carolina Gamecocks,South Carolina Gamecocks,109.82,"4 GP, AP #1",2026-11-17
+Team offensive rating,Worst,10,NC State Wolfpack,NC State Wolfpack,110.56,5 GP,2026-11-17
+Team defensive rating,Best,1,LSU Tigers,LSU Tigers,43.54,"4 GP, AP #9",2026-11-17
+Team defensive rating,Best,2,Illinois Fighting Illini,Illinois Fighting Illini,60.32,"3 GP, AP #21",2026-11-17
+Team defensive rating,Best,3,Ole Miss Rebels,Ole Miss Rebels,61.86,"4 GP, AP #19",2026-11-17
+Team defensive rating,Best,4,UCLA Bruins,UCLA Bruins,63.33,"4 GP, AP #10",2026-11-17
+Team defensive rating,Best,5,Kentucky Wildcats,Kentucky Wildcats,63.54,"5 GP, AP #12",2026-11-17
+Team defensive rating,Best,6,Duke Blue Devils,Duke Blue Devils,65.96,"4 GP, AP #5",2026-11-17
+Team defensive rating,Best,7,Nebraska Cornhuskers,Nebraska Cornhuskers,66.02,"4 GP, AP #23",2026-11-17
+Team defensive rating,Best,8,TCU Horned Frogs,TCU Horned Frogs,67.04,"6 GP, AP #15",2026-11-17
+Team defensive rating,Best,9,Louisville Cardinals,Louisville Cardinals,67.81,"6 GP, AP #3",2026-11-17
+Team defensive rating,Best,10,Oklahoma Sooners,Oklahoma Sooners,68.27,"4 GP, AP #14",2026-11-17
+Team defensive rating,Worst,1,North Carolina Tar Heels,North Carolina Tar Heels,91.63,"4 GP, AP #24",2026-11-17
+Team defensive rating,Worst,2,Maryland Terrapins,Maryland Terrapins,90.28,"3 GP, AP #18",2026-11-17
+Team defensive rating,Worst,3,Minnesota Golden Gophers,Minnesota Golden Gophers,89.27,"4 GP, AP #17",2026-11-17
+Team defensive rating,Worst,4,West Virginia Mountaineers,West Virginia Mountaineers,85.38,"4 GP, AP #22",2026-11-17
+Team defensive rating,Worst,5,UConn Huskies,UConn Huskies,84.48,"5 GP, AP #7",2026-11-17
+Team defensive rating,Worst,6,South Carolina Gamecocks,South Carolina Gamecocks,83.03,"4 GP, AP #1",2026-11-17
+Team defensive rating,Worst,7,NC State Wolfpack,NC State Wolfpack,82.5,5 GP,2026-11-17
+Team defensive rating,Worst,8,Notre Dame Fighting Irish,Notre Dame Fighting Irish,78.86,"4 GP, AP #13",2026-11-17
+Team defensive rating,Worst,9,Michigan Wolverines,Michigan Wolverines,78.38,"3 GP, AP #2",2026-11-17
+Team defensive rating,Worst,10,Iowa Hawkeyes,Iowa Hawkeyes,78.05,"5 GP, AP #8",2026-11-17
+Team scoring margin,Best,1,LSU Tigers,LSU Tigers,81,"4 GP, AP #9",2026-11-17
+Team scoring margin,Best,2,Illinois Fighting Illini,Illinois Fighting Illini,53.67,"3 GP, AP #21",2026-11-17
+Team scoring margin,Best,3,TCU Horned Frogs,TCU Horned Frogs,45.83,"6 GP, AP #15",2026-11-17
+Team scoring margin,Best,4,Notre Dame Fighting Irish,Notre Dame Fighting Irish,44.75,"4 GP, AP #13",2026-11-17
+Team scoring margin,Best,5,Kentucky Wildcats,Kentucky Wildcats,42.2,"5 GP, AP #12",2026-11-17
+Team scoring margin,Best,6,Texas Longhorns,Texas Longhorns,42,"4 GP, AP #6",2026-11-17
+Team scoring margin,Best,7,USC Trojans,USC Trojans,41.75,"4 GP, AP #4",2026-11-17
+Team scoring margin,Best,8,Nebraska Cornhuskers,Nebraska Cornhuskers,40.75,"4 GP, AP #23",2026-11-17
+Team scoring margin,Best,9,Vanderbilt Commodores,Vanderbilt Commodores,40.2,"5 GP, AP #11",2026-11-17
+Team scoring margin,Best,10,Oklahoma Sooners,Oklahoma Sooners,38.5,"4 GP, AP #14",2026-11-17
+Team scoring margin,Worst,1,North Carolina Tar Heels,North Carolina Tar Heels,5.75,"4 GP, AP #24",2026-11-17
+Team scoring margin,Worst,2,West Virginia Mountaineers,West Virginia Mountaineers,11.75,"4 GP, AP #22",2026-11-17
+Team scoring margin,Worst,3,Maryland Terrapins,Maryland Terrapins,12.67,"3 GP, AP #18",2026-11-17
+Team scoring margin,Worst,4,UConn Huskies,UConn Huskies,16,"5 GP, AP #7",2026-11-17
+Team scoring margin,Worst,5,Minnesota Golden Gophers,Minnesota Golden Gophers,17.5,"4 GP, AP #17",2026-11-17
+Team scoring margin,Worst,6,NC State Wolfpack,NC State Wolfpack,19,5 GP,2026-11-17
+Team scoring margin,Worst,7,South Carolina Gamecocks,South Carolina Gamecocks,19.5,"4 GP, AP #1",2026-11-17
+Team scoring margin,Worst,8,Iowa Hawkeyes,Iowa Hawkeyes,21,"5 GP, AP #8",2026-11-17
+Team scoring margin,Worst,9,Washington Huskies,Washington Huskies,23.67,"3 GP, AP #16",2026-11-17
+Team scoring margin,Worst,10,UCLA Bruins,UCLA Bruins,27.25,"4 GP, AP #10",2026-11-17
+Team effective FG pct,Best,1,LSU Tigers,LSU Tigers,62.7,"4 GP, AP #9",2026-11-17
+Team effective FG pct,Best,2,Notre Dame Fighting Irish,Notre Dame Fighting Irish,61.5,"4 GP, AP #13",2026-11-17
+Team effective FG pct,Best,3,Illinois Fighting Illini,Illinois Fighting Illini,61.3,"3 GP, AP #21",2026-11-17
+Team effective FG pct,Best,4,TCU Horned Frogs,TCU Horned Frogs,60.9,"6 GP, AP #15",2026-11-17
+Team effective FG pct,Best,5,USC Trojans,USC Trojans,58.8,"4 GP, AP #4",2026-11-17
+Team effective FG pct,Best,6,Nebraska Cornhuskers,Nebraska Cornhuskers,57.9,"4 GP, AP #23",2026-11-17
+Team effective FG pct,Best,7,Texas Longhorns,Texas Longhorns,57,"4 GP, AP #6",2026-11-17
+Team effective FG pct,Best,8,Vanderbilt Commodores,Vanderbilt Commodores,57,"5 GP, AP #11",2026-11-17
+Team effective FG pct,Best,9,Michigan Wolverines,Michigan Wolverines,56.7,"3 GP, AP #2",2026-11-17
+Team effective FG pct,Best,10,Kentucky Wildcats,Kentucky Wildcats,56.2,"5 GP, AP #12",2026-11-17
+Team effective FG pct,Worst,1,North Carolina Tar Heels,North Carolina Tar Heels,46.4,"4 GP, AP #24",2026-11-17
+Team effective FG pct,Worst,2,UCLA Bruins,UCLA Bruins,46.5,"4 GP, AP #10",2026-11-17
+Team effective FG pct,Worst,3,West Virginia Mountaineers,West Virginia Mountaineers,47.8,"4 GP, AP #22",2026-11-17
+Team effective FG pct,Worst,4,Oklahoma Sooners,Oklahoma Sooners,50.4,"4 GP, AP #14",2026-11-17
+Team effective FG pct,Worst,5,Ole Miss Rebels,Ole Miss Rebels,51.2,"4 GP, AP #19",2026-11-17
+Team effective FG pct,Worst,6,Minnesota Golden Gophers,Minnesota Golden Gophers,51.3,"4 GP, AP #17",2026-11-17
+Team effective FG pct,Worst,7,Maryland Terrapins,Maryland Terrapins,51.6,"3 GP, AP #18",2026-11-17
+Team effective FG pct,Worst,8,NC State Wolfpack,NC State Wolfpack,51.8,5 GP,2026-11-17
+Team effective FG pct,Worst,9,South Carolina Gamecocks,South Carolina Gamecocks,52.7,"4 GP, AP #1",2026-11-17
+Team effective FG pct,Worst,10,Duke Blue Devils,Duke Blue Devils,53.3,"4 GP, AP #5",2026-11-17
+Opponent effective FG pct,Best,1,LSU Tigers,LSU Tigers,26.9,"4 GP, AP #9",2026-11-17
+Opponent effective FG pct,Best,2,Kentucky Wildcats,Kentucky Wildcats,30.2,"5 GP, AP #12",2026-11-17
+Opponent effective FG pct,Best,3,Illinois Fighting Illini,Illinois Fighting Illini,31.8,"3 GP, AP #21",2026-11-17
+Opponent effective FG pct,Best,4,UCLA Bruins,UCLA Bruins,32.3,"4 GP, AP #10",2026-11-17
+Opponent effective FG pct,Best,5,Duke Blue Devils,Duke Blue Devils,33.1,"4 GP, AP #5",2026-11-17
+Opponent effective FG pct,Best,6,Oklahoma Sooners,Oklahoma Sooners,34.5,"4 GP, AP #14",2026-11-17
+Opponent effective FG pct,Best,7,Ole Miss Rebels,Ole Miss Rebels,37.6,"4 GP, AP #19",2026-11-17
+Opponent effective FG pct,Best,8,TCU Horned Frogs,TCU Horned Frogs,38,"6 GP, AP #15",2026-11-17
+Opponent effective FG pct,Best,9,Louisville Cardinals,Louisville Cardinals,38.1,"6 GP, AP #3",2026-11-17
+Opponent effective FG pct,Best,10,South Carolina Gamecocks,South Carolina Gamecocks,38.4,"4 GP, AP #1",2026-11-17
+Opponent effective FG pct,Worst,1,West Virginia Mountaineers,West Virginia Mountaineers,49.3,"4 GP, AP #22",2026-11-17
+Opponent effective FG pct,Worst,2,Minnesota Golden Gophers,Minnesota Golden Gophers,48.3,"4 GP, AP #17",2026-11-17
+Opponent effective FG pct,Worst,3,NC State Wolfpack,NC State Wolfpack,45.2,5 GP,2026-11-17
+Opponent effective FG pct,Worst,4,UConn Huskies,UConn Huskies,45,"5 GP, AP #7",2026-11-17
+Opponent effective FG pct,Worst,5,Nebraska Cornhuskers,Nebraska Cornhuskers,44.5,"4 GP, AP #23",2026-11-17
+Opponent effective FG pct,Worst,6,Washington Huskies,Washington Huskies,44.1,"3 GP, AP #16",2026-11-17
+Opponent effective FG pct,Worst,7,Maryland Terrapins,Maryland Terrapins,43.9,"3 GP, AP #18",2026-11-17
+Opponent effective FG pct,Worst,8,North Carolina Tar Heels,North Carolina Tar Heels,43.1,"4 GP, AP #24",2026-11-17
+Opponent effective FG pct,Worst,9,Texas Longhorns,Texas Longhorns,42.8,"4 GP, AP #6",2026-11-17
+Opponent effective FG pct,Worst,10,Vanderbilt Commodores,Vanderbilt Commodores,42.5,"5 GP, AP #11",2026-11-17
+Team turnover rate,Best,1,Texas Longhorns,Texas Longhorns,11.5,"4 GP, AP #6",2026-11-17
+Team turnover rate,Best,2,LSU Tigers,LSU Tigers,13.6,"4 GP, AP #9",2026-11-17
+Team turnover rate,Best,3,USC Trojans,USC Trojans,14,"4 GP, AP #4",2026-11-17
+Team turnover rate,Best,4,Vanderbilt Commodores,Vanderbilt Commodores,14,"5 GP, AP #11",2026-11-17
+Team turnover rate,Best,5,Kentucky Wildcats,Kentucky Wildcats,14.3,"5 GP, AP #12",2026-11-17
+Team turnover rate,Best,6,NC State Wolfpack,NC State Wolfpack,14.6,5 GP,2026-11-17
+Team turnover rate,Best,7,Notre Dame Fighting Irish,Notre Dame Fighting Irish,16.4,"4 GP, AP #13",2026-11-17
+Team turnover rate,Best,8,TCU Horned Frogs,TCU Horned Frogs,17.5,"6 GP, AP #15",2026-11-17
+Team turnover rate,Best,9,Illinois Fighting Illini,Illinois Fighting Illini,17.6,"3 GP, AP #21",2026-11-17
+Team turnover rate,Best,10,Michigan Wolverines,Michigan Wolverines,17.7,"3 GP, AP #2",2026-11-17
+Team turnover rate,Worst,1,UConn Huskies,UConn Huskies,22.5,"5 GP, AP #7",2026-11-17
+Team turnover rate,Worst,2,Ohio State Buckeyes,Ohio State Buckeyes,22.4,"5 GP, AP #19",2026-11-17
+Team turnover rate,Worst,3,Washington Huskies,Washington Huskies,22.2,"3 GP, AP #16",2026-11-17
+Team turnover rate,Worst,4,South Carolina Gamecocks,South Carolina Gamecocks,21.8,"4 GP, AP #1",2026-11-17
+Team turnover rate,Worst,5,West Virginia Mountaineers,West Virginia Mountaineers,21.8,"4 GP, AP #22",2026-11-17
+Team turnover rate,Worst,6,Iowa Hawkeyes,Iowa Hawkeyes,20.9,"5 GP, AP #8",2026-11-17
+Team turnover rate,Worst,7,Oklahoma Sooners,Oklahoma Sooners,20.9,"4 GP, AP #14",2026-11-17
+Team turnover rate,Worst,8,Minnesota Golden Gophers,Minnesota Golden Gophers,20.4,"4 GP, AP #17",2026-11-17
+Team turnover rate,Worst,9,Ole Miss Rebels,Ole Miss Rebels,20,"4 GP, AP #19",2026-11-17
+Team turnover rate,Worst,10,North Carolina Tar Heels,North Carolina Tar Heels,20,"4 GP, AP #24",2026-11-17
+Forced turnover rate,Best,1,LSU Tigers,LSU Tigers,36.7,"4 GP, AP #9",2026-11-17
+Forced turnover rate,Best,2,Texas Longhorns,Texas Longhorns,36,"4 GP, AP #6",2026-11-17
+Forced turnover rate,Best,3,Ole Miss Rebels,Ole Miss Rebels,35.8,"4 GP, AP #19",2026-11-17
+Forced turnover rate,Best,4,Nebraska Cornhuskers,Nebraska Cornhuskers,35.8,"4 GP, AP #23",2026-11-17
+Forced turnover rate,Best,5,Vanderbilt Commodores,Vanderbilt Commodores,34.3,"5 GP, AP #11",2026-11-17
+Forced turnover rate,Best,6,Ohio State Buckeyes,Ohio State Buckeyes,33.9,"5 GP, AP #19",2026-11-17
+Forced turnover rate,Best,7,Louisville Cardinals,Louisville Cardinals,31,"6 GP, AP #3",2026-11-17
+Forced turnover rate,Best,8,Michigan Wolverines,Michigan Wolverines,30.5,"3 GP, AP #2",2026-11-17
+Forced turnover rate,Best,9,West Virginia Mountaineers,West Virginia Mountaineers,29.4,"4 GP, AP #22",2026-11-17
+Forced turnover rate,Best,10,Maryland Terrapins,Maryland Terrapins,27.7,"3 GP, AP #18",2026-11-17
+Forced turnover rate,Worst,1,North Carolina Tar Heels,North Carolina Tar Heels,23.2,"4 GP, AP #24",2026-11-17
+Forced turnover rate,Worst,2,Kentucky Wildcats,Kentucky Wildcats,23.7,"5 GP, AP #12",2026-11-17
+Forced turnover rate,Worst,3,Iowa Hawkeyes,Iowa Hawkeyes,24.2,"5 GP, AP #8",2026-11-17
+Forced turnover rate,Worst,4,Oklahoma State Cowgirls,Oklahoma State Cowgirls,24.4,"5 GP, AP #25",2026-11-17
+Forced turnover rate,Worst,5,UConn Huskies,UConn Huskies,24.9,"5 GP, AP #7",2026-11-17
+Forced turnover rate,Worst,6,Notre Dame Fighting Irish,Notre Dame Fighting Irish,25,"4 GP, AP #13",2026-11-17
+Forced turnover rate,Worst,7,South Carolina Gamecocks,South Carolina Gamecocks,25.3,"4 GP, AP #1",2026-11-17
+Forced turnover rate,Worst,8,NC State Wolfpack,NC State Wolfpack,25.6,5 GP,2026-11-17
+Forced turnover rate,Worst,9,Duke Blue Devils,Duke Blue Devils,25.7,"4 GP, AP #5",2026-11-17
+Forced turnover rate,Worst,10,UCLA Bruins,UCLA Bruins,25.7,"4 GP, AP #10",2026-11-17
+Offensive rebound rate,Best,1,LSU Tigers,LSU Tigers,55.9,"4 GP, AP #9",2026-11-17
+Offensive rebound rate,Best,2,Oklahoma Sooners,Oklahoma Sooners,55.1,"4 GP, AP #14",2026-11-17
+Offensive rebound rate,Best,3,Illinois Fighting Illini,Illinois Fighting Illini,54.3,"3 GP, AP #21",2026-11-17
+Offensive rebound rate,Best,4,TCU Horned Frogs,TCU Horned Frogs,50,"6 GP, AP #15",2026-11-17
+Offensive rebound rate,Best,5,Minnesota Golden Gophers,Minnesota Golden Gophers,49.7,"4 GP, AP #17",2026-11-17
+Offensive rebound rate,Best,6,USC Trojans,USC Trojans,47.7,"4 GP, AP #4",2026-11-17
+Offensive rebound rate,Best,7,Notre Dame Fighting Irish,Notre Dame Fighting Irish,46.1,"4 GP, AP #13",2026-11-17
+Offensive rebound rate,Best,8,Louisville Cardinals,Louisville Cardinals,44.2,"6 GP, AP #3",2026-11-17
+Offensive rebound rate,Best,9,Nebraska Cornhuskers,Nebraska Cornhuskers,43.9,"4 GP, AP #23",2026-11-17
+Offensive rebound rate,Best,10,Vanderbilt Commodores,Vanderbilt Commodores,43.8,"5 GP, AP #11",2026-11-17
+Offensive rebound rate,Worst,1,UConn Huskies,UConn Huskies,32,"5 GP, AP #7",2026-11-17
+Offensive rebound rate,Worst,2,Maryland Terrapins,Maryland Terrapins,32.2,"3 GP, AP #18",2026-11-17
+Offensive rebound rate,Worst,3,NC State Wolfpack,NC State Wolfpack,34,5 GP,2026-11-17
+Offensive rebound rate,Worst,4,Washington Huskies,Washington Huskies,34.7,"3 GP, AP #16",2026-11-17
+Offensive rebound rate,Worst,5,Iowa Hawkeyes,Iowa Hawkeyes,35.3,"5 GP, AP #8",2026-11-17
+Offensive rebound rate,Worst,6,Oklahoma State Cowgirls,Oklahoma State Cowgirls,36.6,"5 GP, AP #25",2026-11-17
+Offensive rebound rate,Worst,7,Michigan Wolverines,Michigan Wolverines,38,"3 GP, AP #2",2026-11-17
+Offensive rebound rate,Worst,8,Kentucky Wildcats,Kentucky Wildcats,39.3,"5 GP, AP #12",2026-11-17
+Offensive rebound rate,Worst,9,West Virginia Mountaineers,West Virginia Mountaineers,39.4,"4 GP, AP #22",2026-11-17
+Offensive rebound rate,Worst,10,Texas Longhorns,Texas Longhorns,39.9,"4 GP, AP #6",2026-11-17
+Pace (possessions per game),Highest,1,Notre Dame Fighting Irish,Notre Dame Fighting Irish,82.87,"4 GP, AP #13",2026-11-17
+Pace (possessions per game),Highest,2,Maryland Terrapins,Maryland Terrapins,81.4,"3 GP, AP #18",2026-11-17
+Pace (possessions per game),Highest,3,Oklahoma Sooners,Oklahoma Sooners,80.4,"4 GP, AP #14",2026-11-17
+Pace (possessions per game),Highest,4,LSU Tigers,LSU Tigers,79.71,"4 GP, AP #9",2026-11-17
+Pace (possessions per game),Highest,5,South Carolina Gamecocks,South Carolina Gamecocks,77.03,"4 GP, AP #1",2026-11-17
+Pace (possessions per game),Highest,6,USC Trojans,USC Trojans,76.51,"4 GP, AP #4",2026-11-17
+Pace (possessions per game),Highest,7,Vanderbilt Commodores,Vanderbilt Commodores,75.69,"5 GP, AP #11",2026-11-17
+Pace (possessions per game),Highest,8,Ohio State Buckeyes,Ohio State Buckeyes,75.54,"5 GP, AP #19",2026-11-17
+Pace (possessions per game),Highest,9,UConn Huskies,UConn Huskies,75,"5 GP, AP #7",2026-11-17
+Pace (possessions per game),Highest,10,Michigan Wolverines,Michigan Wolverines,74.89,"3 GP, AP #2",2026-11-17
+Pace (possessions per game),Lowest,1,UCLA Bruins,UCLA Bruins,68.2,"4 GP, AP #10",2026-11-17
+Pace (possessions per game),Lowest,2,Texas Longhorns,Texas Longhorns,68.77,"4 GP, AP #6",2026-11-17
+Pace (possessions per game),Lowest,3,NC State Wolfpack,NC State Wolfpack,69.58,5 GP,2026-11-17
+Pace (possessions per game),Lowest,4,Illinois Fighting Illini,Illinois Fighting Illini,69.83,"3 GP, AP #21",2026-11-17
+Pace (possessions per game),Lowest,5,TCU Horned Frogs,TCU Horned Frogs,69.83,"6 GP, AP #15",2026-11-17
+Pace (possessions per game),Lowest,6,Kentucky Wildcats,Kentucky Wildcats,70.3,"5 GP, AP #12",2026-11-17
+Pace (possessions per game),Lowest,7,Duke Blue Devils,Duke Blue Devils,70.86,"4 GP, AP #5",2026-11-17
+Pace (possessions per game),Lowest,8,Minnesota Golden Gophers,Minnesota Golden Gophers,70.97,"4 GP, AP #17",2026-11-17
+Pace (possessions per game),Lowest,9,Iowa Hawkeyes,Iowa Hawkeyes,70.98,"5 GP, AP #8",2026-11-17
+Pace (possessions per game),Lowest,10,West Virginia Mountaineers,West Virginia Mountaineers,72.05,"4 GP, AP #22",2026-11-17
+Three-point attempt rate,Highest,1,Kentucky Wildcats,Kentucky Wildcats,49.1,"5 GP, AP #12",2026-11-17
+Three-point attempt rate,Highest,2,Washington Huskies,Washington Huskies,47.9,"3 GP, AP #16",2026-11-17
+Three-point attempt rate,Highest,3,North Carolina Tar Heels,North Carolina Tar Heels,47.3,"4 GP, AP #24",2026-11-17
+Three-point attempt rate,Highest,4,Iowa Hawkeyes,Iowa Hawkeyes,44.9,"5 GP, AP #8",2026-11-17
+Three-point attempt rate,Highest,5,TCU Horned Frogs,TCU Horned Frogs,43.1,"6 GP, AP #15",2026-11-17
+Three-point attempt rate,Highest,6,Louisville Cardinals,Louisville Cardinals,40.8,"6 GP, AP #3",2026-11-17
+Three-point attempt rate,Highest,7,Oklahoma Sooners,Oklahoma Sooners,38.9,"4 GP, AP #14",2026-11-17
+Three-point attempt rate,Highest,8,UConn Huskies,UConn Huskies,37.7,"5 GP, AP #7",2026-11-17
+Three-point attempt rate,Highest,9,Nebraska Cornhuskers,Nebraska Cornhuskers,37.4,"4 GP, AP #23",2026-11-17
+Three-point attempt rate,Highest,10,Oklahoma State Cowgirls,Oklahoma State Cowgirls,37.4,"5 GP, AP #25",2026-11-17
+Three-point attempt rate,Lowest,1,Texas Longhorns,Texas Longhorns,20.1,"4 GP, AP #6",2026-11-17
+Three-point attempt rate,Lowest,2,South Carolina Gamecocks,South Carolina Gamecocks,21.4,"4 GP, AP #1",2026-11-17
+Three-point attempt rate,Lowest,3,LSU Tigers,LSU Tigers,24.1,"4 GP, AP #9",2026-11-17
+Three-point attempt rate,Lowest,4,Notre Dame Fighting Irish,Notre Dame Fighting Irish,27.4,"4 GP, AP #13",2026-11-17
+Three-point attempt rate,Lowest,5,Duke Blue Devils,Duke Blue Devils,29.1,"4 GP, AP #5",2026-11-17
+Three-point attempt rate,Lowest,6,Minnesota Golden Gophers,Minnesota Golden Gophers,29.8,"4 GP, AP #17",2026-11-17
+Three-point attempt rate,Lowest,7,NC State Wolfpack,NC State Wolfpack,30.4,5 GP,2026-11-17
+Three-point attempt rate,Lowest,8,Michigan Wolverines,Michigan Wolverines,31,"3 GP, AP #2",2026-11-17
+Three-point attempt rate,Lowest,9,Vanderbilt Commodores,Vanderbilt Commodores,32.2,"5 GP, AP #11",2026-11-17
+Three-point attempt rate,Lowest,10,Illinois Fighting Illini,Illinois Fighting Illini,33.1,"3 GP, AP #21",2026-11-17
+Share of points in the paint,Highest,1,Notre Dame Fighting Irish,Notre Dame Fighting Irish,59.1,"4 GP, AP #13",2026-11-17
+Share of points in the paint,Highest,2,Duke Blue Devils,Duke Blue Devils,55.1,"4 GP, AP #5",2026-11-17
+Share of points in the paint,Highest,3,Michigan Wolverines,Michigan Wolverines,54.5,"3 GP, AP #2",2026-11-17
+Share of points in the paint,Highest,4,Minnesota Golden Gophers,Minnesota Golden Gophers,54.5,"4 GP, AP #17",2026-11-17
+Share of points in the paint,Highest,5,LSU Tigers,LSU Tigers,54.3,"4 GP, AP #9",2026-11-17
+Share of points in the paint,Highest,6,Ole Miss Rebels,Ole Miss Rebels,53.6,"4 GP, AP #19",2026-11-17
+Share of points in the paint,Highest,7,Nebraska Cornhuskers,Nebraska Cornhuskers,53,"4 GP, AP #23",2026-11-17
+Share of points in the paint,Highest,8,NC State Wolfpack,NC State Wolfpack,52.9,5 GP,2026-11-17
+Share of points in the paint,Highest,9,Vanderbilt Commodores,Vanderbilt Commodores,52,"5 GP, AP #11",2026-11-17
+Share of points in the paint,Highest,10,Ohio State Buckeyes,Ohio State Buckeyes,50.7,"5 GP, AP #19",2026-11-17
+Share of points in the paint,Lowest,1,Kentucky Wildcats,Kentucky Wildcats,37.9,"5 GP, AP #12",2026-11-17
+Share of points in the paint,Lowest,2,Maryland Terrapins,Maryland Terrapins,38.8,"3 GP, AP #18",2026-11-17
+Share of points in the paint,Lowest,3,Washington Huskies,Washington Huskies,39.5,"3 GP, AP #16",2026-11-17
+Share of points in the paint,Lowest,4,North Carolina Tar Heels,North Carolina Tar Heels,39.6,"4 GP, AP #24",2026-11-17
+Share of points in the paint,Lowest,5,UConn Huskies,UConn Huskies,41.3,"5 GP, AP #7",2026-11-17
+Share of points in the paint,Lowest,6,Oklahoma Sooners,Oklahoma Sooners,45.1,"4 GP, AP #14",2026-11-17
+Share of points in the paint,Lowest,7,Texas Longhorns,Texas Longhorns,45.4,"4 GP, AP #6",2026-11-17
+Share of points in the paint,Lowest,8,Oklahoma State Cowgirls,Oklahoma State Cowgirls,47,"5 GP, AP #25",2026-11-17
+Share of points in the paint,Lowest,9,Iowa Hawkeyes,Iowa Hawkeyes,48.2,"5 GP, AP #8",2026-11-17
+Share of points in the paint,Lowest,10,Illinois Fighting Illini,Illinois Fighting Illini,48.3,"3 GP, AP #21",2026-11-17
+Share of points on fast breaks,Highest,1,Notre Dame Fighting Irish,Notre Dame Fighting Irish,27.8,"4 GP, AP #13",2026-11-17
+Share of points on fast breaks,Highest,2,LSU Tigers,LSU Tigers,26.4,"4 GP, AP #9",2026-11-17
+Share of points on fast breaks,Highest,3,Ohio State Buckeyes,Ohio State Buckeyes,26.1,"5 GP, AP #19",2026-11-17
+Share of points on fast breaks,Highest,4,Duke Blue Devils,Duke Blue Devils,25.3,"4 GP, AP #5",2026-11-17
+Share of points on fast breaks,Highest,5,Vanderbilt Commodores,Vanderbilt Commodores,21.6,"5 GP, AP #11",2026-11-17
+Share of points on fast breaks,Highest,6,Maryland Terrapins,Maryland Terrapins,21.6,"3 GP, AP #18",2026-11-17
+Share of points on fast breaks,Highest,7,USC Trojans,USC Trojans,20.8,"4 GP, AP #4",2026-11-17
+Share of points on fast breaks,Highest,8,Ole Miss Rebels,Ole Miss Rebels,20.7,"4 GP, AP #19",2026-11-17
+Share of points on fast breaks,Highest,9,NC State Wolfpack,NC State Wolfpack,20.4,5 GP,2026-11-17
+Share of points on fast breaks,Highest,10,North Carolina Tar Heels,North Carolina Tar Heels,20.2,"4 GP, AP #24",2026-11-17
+Share of points on fast breaks,Lowest,1,Kentucky Wildcats,Kentucky Wildcats,8.1,"5 GP, AP #12",2026-11-17
+Share of points on fast breaks,Lowest,2,Texas Longhorns,Texas Longhorns,9.9,"4 GP, AP #6",2026-11-17
+Share of points on fast breaks,Lowest,3,UConn Huskies,UConn Huskies,10.6,"5 GP, AP #7",2026-11-17
+Share of points on fast breaks,Lowest,4,Oklahoma State Cowgirls,Oklahoma State Cowgirls,13.8,"5 GP, AP #25",2026-11-17
+Share of points on fast breaks,Lowest,5,Oklahoma Sooners,Oklahoma Sooners,14,"4 GP, AP #14",2026-11-17
+Share of points on fast breaks,Lowest,6,Louisville Cardinals,Louisville Cardinals,14.2,"6 GP, AP #3",2026-11-17
+Share of points on fast breaks,Lowest,7,Minnesota Golden Gophers,Minnesota Golden Gophers,14.7,"4 GP, AP #17",2026-11-17
+Share of points on fast breaks,Lowest,8,West Virginia Mountaineers,West Virginia Mountaineers,14.7,"4 GP, AP #22",2026-11-17
+Share of points on fast breaks,Lowest,9,UCLA Bruins,UCLA Bruins,15.4,"4 GP, AP #10",2026-11-17
+Share of points on fast breaks,Lowest,10,Iowa Hawkeyes,Iowa Hawkeyes,15.9,"5 GP, AP #8",2026-11-17
+Share of points off turnovers,Highest,1,Ohio State Buckeyes,Ohio State Buckeyes,38.2,"5 GP, AP #19",2026-11-17
+Share of points off turnovers,Highest,2,Vanderbilt Commodores,Vanderbilt Commodores,36.1,"5 GP, AP #11",2026-11-17
+Share of points off turnovers,Highest,3,Ole Miss Rebels,Ole Miss Rebels,35.4,"4 GP, AP #19",2026-11-17
+Share of points off turnovers,Highest,4,Nebraska Cornhuskers,Nebraska Cornhuskers,35.3,"4 GP, AP #23",2026-11-17
+Share of points off turnovers,Highest,5,Louisville Cardinals,Louisville Cardinals,35,"6 GP, AP #3",2026-11-17
+Share of points off turnovers,Highest,6,Texas Longhorns,Texas Longhorns,34.1,"4 GP, AP #6",2026-11-17
+Share of points off turnovers,Highest,7,LSU Tigers,LSU Tigers,34,"4 GP, AP #9",2026-11-17
+Share of points off turnovers,Highest,8,UCLA Bruins,UCLA Bruins,31.8,"4 GP, AP #10",2026-11-17
+Share of points off turnovers,Highest,9,Illinois Fighting Illini,Illinois Fighting Illini,31.8,"3 GP, AP #21",2026-11-17
+Share of points off turnovers,Highest,10,Maryland Terrapins,Maryland Terrapins,31.1,"3 GP, AP #18",2026-11-17
+Share of points off turnovers,Lowest,1,Oklahoma State Cowgirls,Oklahoma State Cowgirls,21.1,"5 GP, AP #25",2026-11-17
+Share of points off turnovers,Lowest,2,North Carolina Tar Heels,North Carolina Tar Heels,22.6,"4 GP, AP #24",2026-11-17
+Share of points off turnovers,Lowest,3,Kentucky Wildcats,Kentucky Wildcats,23.2,"5 GP, AP #12",2026-11-17
+Share of points off turnovers,Lowest,4,Iowa Hawkeyes,Iowa Hawkeyes,23.5,"5 GP, AP #8",2026-11-17
+Share of points off turnovers,Lowest,5,Oklahoma Sooners,Oklahoma Sooners,24.4,"4 GP, AP #14",2026-11-17
+Share of points off turnovers,Lowest,6,Minnesota Golden Gophers,Minnesota Golden Gophers,25.3,"4 GP, AP #17",2026-11-17
+Share of points off turnovers,Lowest,7,UConn Huskies,UConn Huskies,25.4,"5 GP, AP #7",2026-11-17
+Share of points off turnovers,Lowest,8,TCU Horned Frogs,TCU Horned Frogs,26.2,"6 GP, AP #15",2026-11-17
+Share of points off turnovers,Lowest,9,Duke Blue Devils,Duke Blue Devils,26.3,"4 GP, AP #5",2026-11-17
+Share of points off turnovers,Lowest,10,Washington Huskies,Washington Huskies,26.5,"3 GP, AP #16",2026-11-17
+Poll rank vs net rating,Ratings like them more than the poll,1,Illinois Fighting Illini,Illinois Fighting Illini,19,"AP #21, but #2 in net rating among ranked teams",2026-11-17
+Poll rank vs net rating,Ratings like them more than the poll,2,Nebraska Cornhuskers,Nebraska Cornhuskers,16,"AP #23, but #7 in net rating among ranked teams",2026-11-17
+Poll rank vs net rating,Ratings like them more than the poll,3,TCU Horned Frogs,TCU Horned Frogs,12,"AP #15, but #3 in net rating among ranked teams",2026-11-17
+Poll rank vs net rating,Ratings like them more than the poll,4,LSU Tigers,LSU Tigers,8,"AP #9, but #1 in net rating among ranked teams",2026-11-17
+Poll rank vs net rating,Ratings like them more than the poll,5,Kentucky Wildcats,Kentucky Wildcats,8,"AP #12, but #4 in net rating among ranked teams",2026-11-17
+Poll rank vs net rating,Ratings like them more than the poll,6,Oklahoma State Cowgirls,Oklahoma State Cowgirls,8,"AP #25, but #17 in net rating among ranked teams",2026-11-17
+Poll rank vs net rating,Ratings like them more than the poll,7,Ole Miss Rebels,Ole Miss Rebels,6,"AP #19, but #13 in net rating among ranked teams",2026-11-17
+Poll rank vs net rating,Ratings like them more than the poll,8,Notre Dame Fighting Irish,Notre Dame Fighting Irish,5,"AP #13, but #8 in net rating among ranked teams",2026-11-17
+Poll rank vs net rating,Ratings like them more than the poll,9,Ohio State Buckeyes,Ohio State Buckeyes,5,"AP #19, but #14 in net rating among ranked teams",2026-11-17
+Poll rank vs net rating,Ratings like them more than the poll,10,Oklahoma Sooners,Oklahoma Sooners,3,"AP #14, but #11 in net rating among ranked teams",2026-11-17
+Poll rank vs net rating,Ratings like them less than the poll,1,South Carolina Gamecocks,South Carolina Gamecocks,-19,"AP #1, but #20 in net rating among ranked teams",2026-11-17
+Poll rank vs net rating,Ratings like them less than the poll,2,UConn Huskies,UConn Huskies,-15,"AP #7, but #22 in net rating among ranked teams",2026-11-17
+Poll rank vs net rating,Ratings like them less than the poll,3,Michigan Wolverines,Michigan Wolverines,-13,"AP #2, but #15 in net rating among ranked teams",2026-11-17
+Poll rank vs net rating,Ratings like them less than the poll,4,Iowa Hawkeyes,Iowa Hawkeyes,-11,"AP #8, but #19 in net rating among ranked teams",2026-11-17
+Poll rank vs net rating,Ratings like them less than the poll,5,Louisville Cardinals,Louisville Cardinals,-9,"AP #3, but #12 in net rating among ranked teams",2026-11-17
+Poll rank vs net rating,Ratings like them less than the poll,6,UCLA Bruins,UCLA Bruins,-6,"AP #10, but #16 in net rating among ranked teams",2026-11-17
+Poll rank vs net rating,Ratings like them less than the poll,7,Maryland Terrapins,Maryland Terrapins,-6,"AP #18, but #24 in net rating among ranked teams",2026-11-17
+Poll rank vs net rating,Ratings like them less than the poll,8,Duke Blue Devils,Duke Blue Devils,-5,"AP #5, but #10 in net rating among ranked teams",2026-11-17
+Poll rank vs net rating,Ratings like them less than the poll,9,Minnesota Golden Gophers,Minnesota Golden Gophers,-4,"AP #17, but #21 in net rating among ranked teams",2026-11-17
+Poll rank vs net rating,Ratings like them less than the poll,10,USC Trojans,USC Trojans,-2,"AP #4, but #6 in net rating among ranked teams",2026-11-17
